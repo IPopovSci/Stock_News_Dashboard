@@ -1,0 +1,1308 @@
+{
+  "_id": "GOOG",
+  "_rev": "1-f220dfbecdc2f73c4c152a1e989b25d3",
+  "status": "ok",
+  "values": [
+    {
+      "url": "https://www.cnn.com/2023/03/24/tech/gordon-moore-obituary/index.html",
+      "title": "Intel co-founder Gordon Moore, author of 'Moore's Law' that helped drive computer revolution, dies at 94",
+      "author": "Reuters",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "content": "Intel co-founder Gordon Moore, a pioneer in the semiconductor industry whose Moores Law predicted a steady rise in computing power for decades, died Friday at the age of 94, the company announced.\r\nI… [+4645 chars]",
+      "datetime": "2023-03-25 02:47:02",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230324222237-gordon-moore-file-032423.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Intel co-founder Gordon Moore, a pioneer in the semiconductor industry whose \"Moore's Law\" predicted a steady rise in computing power for decades, died Friday at the age of 94, the company announced."
+    },
+    {
+      "url": "https://leblancfg.com/level-up-your-command-line-skills-the-secret-to-being-a-good-unix-neighbour.html#level-up-your-command-line-skills-the-secret-to-being-a-good-unix-neighbour",
+      "title": "Being a Good Unix Neighbour",
+      "author": "François Leblanc",
+      "source": {
+        "id": null,
+        "name": "Leblancfg.com"
+      },
+      "content": "The UNIX philosophy is a set of design principles that has had a huge impact on\r\nthe development of software systems. In essence, the UNIX philosophy stresses\r\nthe importance of keeping things simple… [+7922 chars]",
+      "datetime": "2023-05-29 11:38:27",
+      "urlToImage": "https://avatars0.githubusercontent.com/u/15659410?s=400&u=e3bc92486becb34e77028eef0f4dfc302540fcb3&v=4",
+      "description": "A few tips to be a good UNIX neighbour and make your scripts more portable."
+    },
+    {
+      "url": "https://markets.businessinsider.com/news/stocks/mormon-church-stock-portfolio-top-10-positions-billions-ensign-peak-2023-5",
+      "title": "These are the top 10 holdings of the Mormon Church's $46 billion stock portfolio",
+      "author": "Matthew Fox",
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "content": "Getty Images\r\n<ul><li>The $100 billion investment arm of the Mormon Church revealed its holdings in a 13F filing this week.</li><li>A whistleblower alleged over the weekend that the church operates i… [+3284 chars]",
+      "datetime": "2023-05-15 19:48:12",
+      "urlToImage": "https://i.insider.com/646280d8785af800192b66dc?width=1200&format=jpeg",
+      "description": "The Mormon Church's $100 billion investment portfolio wasn't revealed to the public until 2019 when a former employee filed a whistleblower complaint."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/biden-administration-considers-crack-down-on-ai-tools-such-as-chatgpt-fdd2a77",
+      "title": ": Biden administration considers crack down on AI tools such as ChatGPT",
+      "author": "Jon Swartz",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "The Biden administration is edging toward rules on artificial-intelligence tools such as ChatGPT over fears the technology could be used to spread falsehoods and discrimination.On Tuesday, the Commer… [+1103 chars]",
+      "datetime": "2023-04-11 16:06:00",
+      "urlToImage": "https://images.mktw.net/im-737082/social",
+      "description": "The Biden administration is edging toward rules on AI tools such as ChatGPT over fears the technology could be used to spread falsehoods and discrimination."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/bill-gates-lays-ai-tombstone-on-amazon-and-google-61814cdd",
+      "title": "Key Words: Bill Gates lays AI tombstone on Amazon and Google",
+      "author": "Jon Swartz",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Microsoft Corp. co-founder Bill Gates thinks two pillars of Big Tech are as susceptible to the downside of artificial intelligence as the potentially millions of workers who could be displaced by the… [+946 chars]",
+      "datetime": "2023-05-23 20:24:00",
+      "urlToImage": "https://images.mktw.net/im-748275/social",
+      "description": "\"You’ll never go to a search site again,\" Gates said. \"You'll never go to Amazon.\""
+    },
+    {
+      "url": "https://www.marketwatch.com/story/as-alphabet-flexes-its-ai-prowess-theres-a-new-elephant-in-the-room-for-google-bd6dc759",
+      "title": "The Ratings Game: As Alphabet flexes its AI prowess, there’s a ‘new elephant in the room’ for Google",
+      "author": "Emily Bary",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "A few months back, some on Wall Street were worried that Microsoft Corp.s artificial-intelligence advancements would help the company eat into Alphabet Inc.s dominant Google search business. Those co… [+2325 chars]",
+      "datetime": "2023-05-17 13:54:00",
+      "urlToImage": "https://images.mktw.net/im-305837/social",
+      "description": "Forget external competition: Google risks challenging its own moneymaker as it delves deeper into AI, one analyst says"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/google-asks-judge-to-dismiss-justice-departments-lawsuit-claiming-digital-ad-monopoly-d5af47d",
+      "title": ": Google asks judge to dismiss Justice Department’s lawsuit claiming digital-ad monopoly",
+      "author": "Mike Murphy",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Alphabet Inc.s \r\n GOOG,\r\n -2.83%\r\nGOOGL,\r\n -2.83%\r\nGoogle asked a federal judge Monday to dismiss the federal governments antitrust lawsuit thats seeking to break up its ad tech business.In a filing … [+1924 chars]",
+      "datetime": "2023-03-28 02:45:00",
+      "urlToImage": "https://images.mktw.net/im-275127/social",
+      "description": "Alphabet Inc.'s Google asked a federal judge Monday to dismiss the federal government's antitrust lawsuit that's seeking to break up its ad tech business."
+    },
+    {
+      "url": "https://biztoc.com/x/9706ff53f81fe178",
+      "title": "Nasdaq Led By AMD, Alphabet, and Amazon.com",
+      "author": "barrons.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "The Nasdaq Composite ticked 0.2% higher midday Tuesday, while the Dow and S&amp;P 500 stayed in the red.Several tech stocks were bolstering that lift, including Advanced Micro Devices (ticker: AMD), … [+201 chars]",
+      "datetime": "2023-05-16 16:20:04",
+      "urlToImage": "https://c.biztoc.com/p/9706ff53f81fe178/og.webp",
+      "description": "The Nasdaq Composite ticked 0.2% higher midday Tuesday, while the Dow and S&P 500 stayed in the red. Several tech stocks were bolstering that lift, including Advanced Micro Devices (ticker: AMD), up 4.6%, Alphabet (GOOGL, GOOG), gaining 2.8% and 2.6%, respect…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/15/if-you-invested-10000-in-google-stock-in-2013-this/",
+      "title": "If You Invested $10,000 in Google Stock in 2013, This Is How Much You Would Have Today",
+      "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Alphabet (GOOG 2.83%), the parent company of Google, has made many shareholders wealthy in the last decade. This video will highlight just how much wealth it has created and if it's too late to inves… [+127 chars]",
+      "datetime": "2023-03-15 13:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/724605/steak-night-8.jpg",
+      "description": "Needless to say, investors who bought and held are very happy indeed."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/26/alphabet-investors-should-be-happy-about-this-q1-r/",
+      "title": "Alphabet Investors Should Be Happy About This Q1 Result",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In this video, I will go over Alphabet's (GOOGL 1.09%)(GOOG 0.78%) first-quarter earnings report, which was much better than feared, especially after months of being under pressure because of the ris… [+172 chars]",
+      "datetime": "2023-04-26 14:01:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729561/googl.png",
+      "description": "This should give investors something to smile about."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/lavish-office-perks-are-slipping-away-do-tech-workers-care-about-them-anymore-b78495b1",
+      "title": ": Lavish office perks are slipping away. Do tech workers care about them anymore?",
+      "author": "Jon Swartz",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "No more micro-kitchens. No more free massages. Fewer staplers.Some are calling it a perk-cession, but amid a wave of layoffs, many tech employees who increasingly are working from home and are more c… [+3777 chars]",
+      "datetime": "2023-04-13 16:18:00",
+      "urlToImage": "https://images.mktw.net/im-762582/social",
+      "description": "Perks once helped shift the odds for Big Tech companies recruiting top talent, but the appeal of sumptuous free meals and gratis laundry service has faded."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/26/4-reasons-to-be-bullish-on-google-after-earnings/",
+      "title": "4 Reasons to Be Bullish on Google After Earnings",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Alphabet (GOOGL -2.00%)(GOOG -2.03%) earnings might not have been revolutionary, but there are numerous reasons investors might want to remain bullish on this tech giant. Check out the short video to… [+184 chars]",
+      "datetime": "2023-04-26 10:41:39",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729587/jose-najarro-2023-04-25t185753328.png",
+      "description": "YouTube advertising is stabilizing, and Youtube Shorts monetization is moving along smoothly."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/02/what-shareholders-should-know-about-googles-antitr/",
+      "title": "What Shareholders Should Know About Google's Antitrust Troubles",
+      "author": "newsfeedback@fool.com (Jose Najarro and Toby Bordelon)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In today's video, Jose Najarro and Toby Bordelon discuss Alphabet (GOOGL 0.33%)(GOOG 0.23%) and various antitrust issues shadowing the company. Check out the short video to learn more, consider subsc… [+149 chars]",
+      "datetime": "2023-03-02 11:03:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/723054/jose-najarro-2023-03-01t223319775.png",
+      "description": "Is this an overblown risk for Alphabet investors?"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/15/alphabet-means-business-and-flexed-its-muscles/",
+      "title": "Alphabet Means Business and Flexed Its Muscles",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In this video, I go over Alphabet's (GOOGL 3.14%)(GOOG 2.83%) recent announcements when it comes to the next generation of AI and why this is finally the response to Microsoft that investors were wai… [+117 chars]",
+      "datetime": "2023-03-15 13:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/724668/goog.png",
+      "description": "The AI race is heating up, and that's a good thing."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/20/best-ai-stock-c3ai-vs-nvidia-vs-microsoft-vs-googl/",
+      "title": "Best AI Stock: C3.ai vs. Nvidia vs. Microsoft vs. Google",
+      "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "This video will pit C3.ai(AI), Nvidia(NVDA -1.62%), Microsoft(MSFT -2.76%), and Alphabet(GOOG -0.98%)(GOOGL -1.17%) against each other to determine which is the best artificial intelligence stock to … [+121 chars]",
+      "datetime": "2023-03-20 14:15:58",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725206/nvda-vs-msft-vs-ai-vs-goog.jpg",
+      "description": "The AI revolution is underway with the launch of ChatGPT."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/21/microsoft-and-alphabet-the-ai-battle-continues/",
+      "title": "Microsoft and Alphabet: The AI Battle Continues",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In this video, I will talk about Alphabet(GOOGL 0.12%)(GOOG 0.24%) and Microsoft (MSFT -0.31%), what both companies have been up to this week with regard to developments in artificial intelligence (A… [+168 chars]",
+      "datetime": "2023-04-21 16:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729096/googl.png",
+      "description": "Both companies are charging forward in the AI race."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/29/is-it-too-late-to-buy-alphabet-stock-google-stock/",
+      "title": "Is It Too Late to Buy Alphabet Stock?",
+      "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Understandably, investors are curious about buying Alphabet(GOOGL -0.23%)(GOOG -0.14%) stock after its impressive first-quarter performance. This video will review Alphabet's Q1 earnings and let you … [+144 chars]",
+      "datetime": "2023-04-29 13:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/730049/its-time-to-celebrate-31.jpg",
+      "description": "Alphabet reported first-quarter 2023 earnings results in late April that beat market expectations."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amid-big-drop-in-sales-pc-makers-may-soon-be-paying-more-in-chromebook-licensing-fees-f496a481",
+      "title": "MarketWatch First Take: Amid big drop in sales, PC makers may soon be paying more in Chromebook licensing fees",
+      "author": "Therese Poletti",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "According to market researcher IDC, sometime later this year, PC makers are likely going to be paying higher prices for Chromebook licenses from Alphabet Inc.s \r\n GOOG,\r\n -1.79%\r\nGOOGL,\r\n -1.83%\r\nGoo… [+2717 chars]",
+      "datetime": "2023-04-11 01:43:00",
+      "urlToImage": "https://images.mktw.net/im-761192/social",
+      "description": "While the big drop in Apple Inc.'s Mac sales got most of the attention Monday amid the news that PC makers had yet another terrible quarter, another element of the quarterly stats included some more bad news for PC makers."
+    },
+    {
+      "url": "https://www.theregister.com/2023/05/23/google_cloud_c3_ipu/",
+      "title": "Google Cloud upgrades with next-gen accelerator that embiggens its VMs",
+      "author": "Simon Sharwood",
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "content": "Google Cloud has given itself a significant upgrade by introducing its latest Infrastructure Processing Unit the same kind of kit that others call SmartNICs or Data Processing Units in its first inst… [+2634 chars]",
+      "datetime": "2023-05-23 07:15:12",
+      "urlToImage": "https://regmedia.co.uk/2023/05/23/shutterstock_editorial_only_google_cloud_building_logo.jpg",
+      "description": "Homebrew Infrastructure Processing Unit virtualizes networks and storage to make Sapphire Rapids Xeons sing\nGoogle Cloud has given itself a significant upgrade by introducing its latest Infrastructure Processing Unit – the same kind of kit that others call Sm…"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/biden-white-house-and-bipartisan-group-of-12-senators-back-tiktok-ban-ab039119",
+      "title": ": Biden White House and bipartisan group of 12 senators back TikTok ban",
+      "author": "Victor Reklaitis",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "A push to ban TikTok in the U.S. picked up more supporters on Tuesday, with the Biden White House and a bipartisan group of 12 senators offering their endorsements.President Joe Bidens national secur… [+3753 chars]",
+      "datetime": "2023-03-07 21:42:00",
+      "urlToImage": "https://images.mktw.net/im-737989/social",
+      "description": "Sen. Mark Warner suggests U.S. tech companies can ‘provide like-kind products with better protections’"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/21/microsofts-pursuit-of-market-dominance-whos-next-a/",
+      "title": "Microsoft's Pursuit of Market Dominance: Who's Next After Alphabet?",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Is Microsoft (MSFT 0.49%) trying to battle all the tech giants this year? Recent reports might add Apple (AAPL 0.12%) to the list right next to Alphabet (GOOGL 1.02%) (GOOG 0.97%). Check out the shor… [+194 chars]",
+      "datetime": "2023-03-21 14:00:19",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725377/jose-najarro-2023-03-20t211845953.png",
+      "description": "Microsoft is reportedly looking to build a gaming app store for mobile platforms, which might not bode well for the duopoly of Google and Apple app stores."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/11/why-amazon-google-and-microsoft-stock-could-be-hug/",
+      "title": "Why Amazon, Google, and Microsoft Stock Could Be Huge Winners Thanks to Generative AI",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Semiconductor companies have been one of the top winners during this AI craze, but investors should also keep a closer eye on clouding giants like Amazon (AMZN -1.86%), Microsoft (MSFT -1.96%), and A… [+244 chars]",
+      "datetime": "2023-04-11 14:01:01",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727835/jose-najarro-2023-04-10t161202048.png",
+      "description": "Generative AI drives demand for Microsoft, Google, and Amazon as AI developers seek clouding solutions."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/30/the-biggest-threat-to-netflix-and-its-not-disney/",
+      "title": "The Biggest Threat to Netflix (and It's Not Disney)",
+      "author": "newsfeedback@fool.com (Travis Hoium)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "People talk about the proliferation of streaming services like Disney+ and HBO Max competing with Netflix(NFLX 2.63%), but the real threat is from a completely different business. Alphabet's (GOOG 0.… [+280 chars]",
+      "datetime": "2023-03-30 12:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726285/person-turning-on-tv.jpg",
+      "description": "YouTube is the one Netflix should be afraid of."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/28/how-meta-google-and-microsofts-updated-capex-plans/",
+      "title": "How Meta, Google, and Microsoft's Updated Capex Plans May Boost the Semiconductor Market",
+      "author": "newsfeedback@fool.com (Jose Najarro, Nicholas Rossolillo, and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Explore the impact of big tech's capital expenditure (capex) plans on the semiconductor market as Meta Platforms (META -0.03%), Google (GOOGL -1.25%)(GOOG -0.78%), and Microsoft(MSFT 1.11%) invest in… [+323 chars]",
+      "datetime": "2023-04-28 14:43:18",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/730012/copy-of-jose-najarro-2023-04-28t102108364.png",
+      "description": "Big tech companies like Meta, Microsoft, and Alphabet have shared how AI investments might affect this year's capital expenditures."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/22/google-could-lose-the-ai-war-even-if-it-crushes-bi/",
+      "title": "Google Could Lose the AI War Even If It Crushes Bing",
+      "author": "newsfeedback@fool.com (Travis Hoium)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Alphabet (GOOG 0.01%)(GOOGL 0.11%) subsidiary Google appears to be making strides in improving its artificial intelligence products to battle OpenAI. But even if it wins that battle, it may lose the … [+217 chars]",
+      "datetime": "2023-04-22 11:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/728863/chatgpt-image.jpg",
+      "description": "Disruption to search is bad, even if it's Google disrupting itself."
+    },
+    {
+      "url": "https://ritholtz.com/2023/05/10-bad-takes-on-this-market/",
+      "title": "10 Bad Takes On This Market",
+      "author": "Barry Ritholtz",
+      "source": {
+        "id": null,
+        "name": "Ritholtz.com"
+      },
+      "content": "Let’s see if I can find something to counter and/or undercut each of these 10 items listed in this morning’s tweet above: \r\n1. Only 5 stocks driving markets?!\r\nThen why are Equal-weighted indices doi… [+2373 chars]",
+      "datetime": "2023-05-19 17:30:35",
+      "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/05/Bad-takes.png",
+      "description": "Let’s see if I can find something to counter and/or undercut each of these 10 items listed in this morning’s tweet above:  1. Only 5 stocks driving markets?! Then why are Equal-weighted indices doing so well? Equal-weighted Nasdaq100 up 17% since the June low…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/17/alphabet-investors-shouldnt-sleep-on-this-sleeping/",
+      "title": "Alphabet Investors Shouldn't Sleep on This Sleeping Giant",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In this video, I will talk about what might happen to Alphabet(GOOGL -2.66%)(GOOG -2.78%) if Samsung moves to potentially drop Google Search for Microsoft's Bing, the current dominance of the Android… [+211 chars]",
+      "datetime": "2023-04-17 20:18:01",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/728547/goog.png",
+      "description": "Panicking is not what investors should be doing right now."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/10/chatgpt-could-break-the-iosandroid-duopoly/",
+      "title": "ChatGPT Could Break the iOS/Android Duopoly",
+      "author": "newsfeedback@fool.com (Travis Hoium)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "When ChatGPT was launched, it was a great chatbot that captured users' attention, but the introduction of plug-ins has changed the game in technology. If users start using plug-ins instead of apps, A… [+220 chars]",
+      "datetime": "2023-04-10 10:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727173/chatgpt-keyboard.jpg",
+      "description": "Apple and Alphabet need to watch out for disruption from ChatGPT."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/04/how-microsoft-and-google-will-change-the-future-of/",
+      "title": "How Microsoft and Google Will Change the Future of Chatbots Forever",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In this video, I will talk about how Microsoft(MSFT 0.60%), Alphabet(GOOGL 0.80%)(GOOG 0.64%), and OpenAI will think about how to monetize OpenAI's chatbot, ChatGPT, and make sure publishers and cont… [+317 chars]",
+      "datetime": "2023-04-04 14:15:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727010/chatgpt-msft.png",
+      "description": "It is time to start thinking about the monetization part of it."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/21/microsoft-and-googles-ai-battle-continues-more-upd/",
+      "title": "Microsoft and Google's AI Battle Continues: More Updates for Investors",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft's (MSFT 0.31%) OpenAI investment seems as if it might start paying off sooner than expected with the recent announcement that Nuance is integrating ChatGPT-4 into its healthcare solutions, … [+303 chars]",
+      "datetime": "2023-03-21 13:37:38",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725369/jose-najarro-2023-03-20t164601059.png",
+      "description": "Nuance announced that it would use Microsoft's AI solutions for its healthcare products, and Midjourney, a popular AI image generator, announced a partnership with Google."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/20/beyond-semiconductors-how-cloud-service-providers/",
+      "title": "Beyond Semiconductors: How Cloud Service Providers Could Win Big in the AI Battle",
+      "author": "newsfeedback@fool.com (Jose Najarro, Nicholas Rossolillo, and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Amazon (AMZN -1.72%), Microsoft (MSFT -1.71%), and Alphabet (GOOGL -0.71%)(GOOG -0.75%) have all announced recent AI updates as technology continues to advance at a fast pace. Check out the short vid… [+280 chars]",
+      "datetime": "2023-03-20 13:41:17",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725183/copy-of-jose-najarro-2023-03-19t000949039.png",
+      "description": "The top three cloud service providers are bringing AI solutions to developers, which could mean a boost in revenue thanks to the consumption-based business model."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/24/is-uber-and-waymo-a-match-made-in-heaven/",
+      "title": "Are Uber and Waymo a Match Made in Heaven?",
+      "author": "newsfeedback@fool.com (Travis Hoium)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "After giving up on its own autonomous driving technology years ago, Uber(UBER -1.81%) is now partnering with Alphabet(GOOG -1.34%)(GOOGL -1.35%) subsidiary Waymo to bring autonomous vehicles to Phoen… [+228 chars]",
+      "datetime": "2023-05-24 21:15:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/733872/w1_pack_shot_2.jpg",
+      "description": "Uber is getting into autonomous driving, but there's a catch."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/bill-gates-says-ai-is-only-the-second-revolutionary-tech-advancement-in-his-lifetime-72c7fddf",
+      "title": "Key Words: Bill Gates says AI is only the second ‘revolutionary’ tech advancement in his lifetime",
+      "author": "Wallace Witkowski",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "For the second time in his 67 years, Microsoft Corp. co-founder Bill Gates has been truly blown away by a revolutionary technology. The first time was back in 1980, when he was introduced to the grap… [+2875 chars]",
+      "datetime": "2023-03-21 19:43:00",
+      "urlToImage": "https://images.mktw.net/im-748275/social",
+      "description": "Microsoft co-founder says ChatGPT is first technology since the graphical user interface — which became the key to Windows — to truly blow him away, and says development of AI will be as ‘fundamental’ as the PC or the internet"
+    },
+    {
+      "url": "https://www.forbes.com/sites/dividendchannel/2023/03/17/alphabet-breaks-above-200-day-moving-average/",
+      "title": "Alphabet Breaks Above 200-Day Moving Average",
+      "author": "Dividend Channel, Contributor, \n Dividend Channel, Contributor\n https://www.forbes.com/sites/dividendchannel/",
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "content": "In trading on Friday, shares of Alphabet crossed above their 200 day moving average of $102.45, changing hands as high as $103.49 per share. Alphabet Inc shares are currently trading up about 1.3% on… [+496 chars]",
+      "datetime": "2023-03-17 15:37:40",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64148919b40954aef87ffb6e/0x0.jpg?format=jpg&width=1200",
+      "description": "In trading on Friday, shares of Alphabet crossed above their 200 day moving average of $102.45, changing hands as high as $103.49 per share."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/01/what-microsoft-and-google-stock-investors-should-k/",
+      "title": "What Microsoft and Google Stock Investors Should Know About Latest AI Updates",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft(MSFT 1.50%) unveils innovative artificial intelligence (AI) solutions, ranging from image generators to security copilots. Meanwhile, Alphabet(GOOGL 2.81%)(GOOG 2.65%) appears to be perpetu… [+281 chars]",
+      "datetime": "2023-04-01 17:03:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726781/jose-najarro-2023-03-31t180526815.png",
+      "description": "Microsoft is trying to improve its advertisement solutions with its new AI Bing search, but will it be successful?"
+    },
+    {
+      "url": "https://www.fool.com/investing/amazon-earnings-3-of-the-most-important-things-we/",
+      "title": "Amazon Earnings: 3 of the Most Important Things We Learned",
+      "author": "newsfeedback@fool.com (Jason Hall and Jeff Santoro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "E-commerce, cloud services, and increasingly advertising giant Amazon (AMZN -3.98%) just reported earnings, and there were three specific things that Motley Fool contributors Jason Hall and Jeff Sant… [+344 chars]",
+      "datetime": "2023-04-30 09:11:00",
+      "urlToImage": "https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/jester.png&w=400&op=resize",
+      "description": "These three things are really central to its future."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/29/how-shopify-unity-software-and-others-are-unlockin/",
+      "title": "How Shopify, Unity Software, and Others Are Unlocking Growth With Generative AI",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Generative AI has been a very trendy topic in the past few months, thanks to new AI solutions by Microsoft (MSFT 1.75%) and Alphabet (GOOGL 0.07%) (GOOG 0.19%), but they are not the only ones already… [+459 chars]",
+      "datetime": "2023-03-29 13:53:11",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726346/copy-of-jose-najarro-2023-03-29t092243918.png",
+      "description": "Could the ease of using creative software bring a new wave of users and customers to these platforms?"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/31/googles-owner-has-more-money-than-it-knows-what-to/",
+      "title": "Google's Owner Has More Money Than It Knows What to Do With",
+      "author": "newsfeedback@fool.com (Jason Hall and Jeff Santoro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Few companies have enough money that they could pay off all their liabilities -- every single one of them -- and have billions left over. That's the case for Alphabet (GOOG -0.57%) (GOOGL -0.49%). Th… [+369 chars]",
+      "datetime": "2023-03-31 09:04:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726504/kids-holding-money-with-big-smiles-on-their-faces.jpg",
+      "description": "Alphabet's cash isn't doing much good for the company or its shareholders just sitting there."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/29/do-cloud-leaders-retain-their-dominance-despite-se/",
+      "title": "Do Cloud Leaders Retain Their Dominance Despite Semiconductor Breakthroughs?",
+      "author": "newsfeedback@fool.com (Jose Najarro, Nicholas Rossolillo, and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "All three major cloud service providers, Microsoft (MSFT -0.42%), Amazon (AMZN -0.82%), and Alphabet (GOOGL -1.40%) (GOOG -1.65%), have announced recent partnerships with Nvidia (NVDA -0.46%) with it… [+436 chars]",
+      "datetime": "2023-03-29 13:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726198/copy-of-jose-najarro-2023-03-28t122520516.png",
+      "description": "Or do semiconductor advancements like Nvidia's GPUs level the playing field?"
+    },
+    {
+      "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-google-stock/",
+      "title": "How to Invest in Google Stock",
+      "author": "newsfeedback@fool.com (Matthew DiLallo)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Google has become synonymous with an internet search. When we search for something online, we say we're \"Googling it.\"\r\nAs a portal you likely use frequently (you might have even found this article t… [+7013 chars]",
+      "datetime": "2023-03-31 20:53:36",
+      "urlToImage": "https://m.foolcdn.com/media/dubs/images/Google_logo_--_source_Alphabet_Inc.width-600.jpg",
+      "description": "Get step-by-step guidance on investing in Google (aka Alphabet) stock and learn the ins and outs of this behemoth tech company."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/alphabet-goog-bounce-back-071350510.html",
+      "title": "Will Alphabet (GOOG) Bounce Back?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Artisan Partners, an investment management company, released its Artisan Value Fund fourth quarter 2022 investor letter. A copy of the same can be downloaded here. In the fourth quarter, the fund out… [+2896 chars]",
+      "datetime": "2023-03-02 07:13:50",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/e75c8e386d507159e84ae6c15f8f1bb9",
+      "description": "Artisan Partners, an investment management company, released its “Artisan Value Fund” fourth quarter 2022 investor letter. A copy of the same can be..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/hold-alphabet-goog-072436563.html",
+      "title": "Should You Hold Alphabet (GOOG)?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Investment management company Vulcan Value Partners recently released its first-quarter 2023 investor letter. A copy of the same can be downloaded here. The firm has five strategies, and all gained p… [+2210 chars]",
+      "datetime": "2023-05-08 07:24:36",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QNKT1xKnwhJVeafU93VuMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
+      "description": "Investment management company Vulcan Value Partners recently released its first-quarter 2023 investor letter. A copy of the same can be downloaded here. The ..."
+    },
+    {
+      "url": "https://www.xatakamovil.com/conectividad/hispasat-se-hace-fuerte-quiere-100-cobertura-rural-wifi-100-mbps-vuelos-este-ano",
+      "title": "Hispasat se hace fuerte: quiere el 100% de cobertura rural y WiFi de 100 Mbps en los vuelos este mismo año",
+      "author": "Iván Linares",
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "content": "El llamado Internet Rural está a punto de hacerse más accesible gracias a Hispasat: la empresa de satélites alcanzó un acuerdo con el Gobierno de España para ofrecer 100 Mbps de descarga por 35 euros… [+2491 chars]",
+      "datetime": "2023-03-07 13:30:29",
+      "urlToImage": "https://i.blogs.es/a47826/cobertura-wifi-avion/840_560.jpeg",
+      "description": "El llamado Internet Rural está a punto de hacerse más accesible gracias a Hispasat: la empresa de satélites alcanzó un acuerdo con el Gobierno de España para ofrecer 100 Mbps de descarga por 35 euros a las áreas menos pobladas del territorio. Y ya sabemos una…"
+    },
+    {
+      "url": "https://www.lesnumeriques.com/jeux-video/le-fps-unrecord-joue-la-carte-du-photorealisme-n209052.html",
+      "title": "Actualité : Le FPS Unrecord joue la carte du photoréalisme",
+      "author": "Henry Grimaud",
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "content": "Une vue FPS tressautante, à hauteur de poitrine, avec la classique paire de mains gantées tenant un pistolet, des décors industriels et des intérieurs délabrés dans lesquels courent quelques personne… [+2618 chars]",
+      "datetime": "2023-04-21 07:57:00",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/20/209052/2058f806-le-fps-unrecord-joue-la-carte-du-photorealisme__1200_630__overflow.jpg",
+      "description": "Lors du lancement d'une grosse licence, on a souvent entendu parler de \"jeu le plus réaliste jamais vu\". Cette palme revient sans doute à un jeu français aujourd'hui, puisque Unrecord vient de placer la barre très, très haut."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/more-than-199-000-tech-sector-employees-have-lost-their-jobs-since-the-start-of-2023-45abadde",
+      "title": ": More than 199,000 tech-sector employees have lost their jobs since the start of 2023",
+      "author": "James Rogers",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "More than 199,000 global technology-sector employees have been laid off since the start of 2023, according to data compiled by the website Layoffs.fyi.The websites tally of 2023 global tech layoffs h… [+4397 chars]",
+      "datetime": "2023-05-26 18:24:00",
+      "urlToImage": "https://images.mktw.net/im-672886/social",
+      "description": "2023 has surpassed 2022 for global tech layoffs, according to  data compiled by the website Layoffs.fyi"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/why-alphabet-goog-outperformed-q1-084715753.html",
+      "title": "Here’s Why Alphabet (GOOG) Outperformed in Q1",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Diamond Hill Capital, an investment management company, released its Large Cap Strategy first-quarter 2023 investor letter. A copy of the same can be downloaded here. In the first quarter, the strate… [+1897 chars]",
+      "datetime": "2023-05-12 08:47:15",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QNKT1xKnwhJVeafU93VuMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
+      "description": "Diamond Hill Capital, an investment management company, released its “Large Cap Strategy” first-quarter 2023 investor letter. A copy of the same can be..."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/29/be-like-buffett-and-build-your-portfolio-like-this/",
+      "title": "Be Like Buffett and Build Your Portfolio Like This",
+      "author": "newsfeedback@fool.com (David Jagielski)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "For decades, Warren Buffett's Berkshire Hathaway has outperformed the S&amp;P 500, and it hasn't been by being overly aggressive or by chasing the latest growth stock. Instead, his strategy has been … [+3458 chars]",
+      "datetime": "2023-03-29 13:53:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725941/warren-buffett-with-a-group-of-people.jpg",
+      "description": "Just because you want to diversify doesn't mean you need to hold an equal amount of each stock."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/why-hedge-funds-alphabet-goog-092540588.html",
+      "title": "Here’s Why Hedge Funds Like Alphabet (GOOG)",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Wedgewood Partners, an investment management company, released its first quarter 2023 investor letter. A copy of the same can be downloaded here. In the first quarter, Wedgewood Composites Net return… [+2472 chars]",
+      "datetime": "2023-04-17 09:25:40",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/0a2b2901e53161b654fbe2ba5035ef5e",
+      "description": "Wedgewood Partners, an investment management company, released its first quarter 2023 investor letter. A copy of the same can be downloaded here. In the..."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/09/where-will-alphabet-be-in-3-years/",
+      "title": "Where Will Alphabet Be in 3 Years?",
+      "author": "newsfeedback@fool.com (Keithen Drury)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "After seemingly being beaten to the punch by other companies launching artificial intelligence (AI) chatbots, Alphabet's (GOOG 0.51%)(GOOGL 0.42%) patience may have paid off. Microsoft's Bing chatbot… [+4331 chars]",
+      "datetime": "2023-03-09 12:45:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/723529/person-looking-at-markets-on-their-laptop-smiling.jpg",
+      "description": "Alphabet has two segments quietly getting the job done while advertising struggles."
+    },
+    {
+      "url": "https://biztoc.com/x/fe8efbaeab503de4",
+      "title": "Ex-Google Staffers Criticize Cold Endings To Their Jobs: 'What A Slap In The Face'",
+      "author": "benzinga.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "When Alphabet Inc GOOG announced layoffs at the start of 2023, the tech giant's stock was rewarded: it's up nearly 20% since then.The impacted employees didn't share the same sentiment, as several ex… [+314 chars]",
+      "datetime": "2023-03-23 21:26:06",
+      "urlToImage": "https://c.biztoc.com/p/fe8efbaeab503de4/og.webp",
+      "description": "When Alphabet Inc GOOG announced layoffs at the start of 2023, the tech giant's stock was rewarded: it's up nearly 20% since then. The impacted employees didn't share the same sentiment, as several exiting staff members expressed discontent with the way their…"
+    },
+    {
+      "url": "https://biztoc.com/x/e94f757ed1b74a53",
+      "title": "Bill Ackman’s Pershing Square reveals new Alphabet stake of 10.3 million shares",
+      "author": "marketwatch.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Pershing Square Capital Management LP acquired a new position in Alphabet Inc. during the first quarter, new disclosures showed Monday.Bill Ackmans entity scooped up nearly 10.3 million shares of the… [+277 chars]",
+      "datetime": "2023-05-15 22:12:04",
+      "urlToImage": "https://c.biztoc.com/p/e94f757ed1b74a53/og.webp",
+      "description": "Pershing Square Capital Management LP acquired a new position in Alphabet Inc. during the first quarter, new disclosures showed Monday. Bill Ackman’s entity scooped up nearly 10.3 million shares of the Google parent company in the latest quarter, according to…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/01/the-2-best-growth-stocks-for-the-coming-bull-marke/",
+      "title": "The 2 Best Growth Stocks for the Coming Bull Market",
+      "author": "newsfeedback@fool.com (Keithen Drury)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Although the economy isn't out of the woods yet, there are multiple signs that any economic downturn won't be as severe as many feared. This is excellent news for investors in one industry in particu… [+3574 chars]",
+      "datetime": "2023-03-01 15:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/718321/celebrating-stock-market-success.jpg",
+      "description": "Advertising is a great area to invest in as the economy recovers."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/06/is-alphabet-stock-a-buy-now/",
+      "title": "Is Alphabet Stock a Buy Now?",
+      "author": "newsfeedback@fool.com (Jake Lerch)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Shares of Alphabet(GOOG -0.16%) are down 26% over the last 12 months and are more than 31% off their all-time high. At first glance, that might make investors' mouths water. However, a lower stock pr… [+2670 chars]",
+      "datetime": "2023-04-06 12:39:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727039/phone-search-google-alphabet-goog-googl.jpg",
+      "description": "The parent company of Google finds itself at a crossroads."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/01/is-alphabet-stock-a-buy-now/",
+      "title": "Is Alphabet Stock a Buy Now?",
+      "author": "newsfeedback@fool.com (Travis Hoium)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Shares of Alphabet(GOOG 0.22%)(GOOGL 0.21%) have fallen 40% from their all-time high, with the latest pullback being driven by fear about artificial intelligence. \r\nThe fear of disruption isn't unfou… [+3082 chars]",
+      "datetime": "2023-03-01 14:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/721561/search-bar.jpg",
+      "description": "This is a generational buying opportunity for a leading tech stock."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/24/is-it-too-late-to-buy-alphabet-stock/",
+      "title": "Is It Too Late to Buy Alphabet Stock?",
+      "author": "newsfeedback@fool.com (Will Healy)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "You can be forgiven for thinking you missed the boat on Google parent Alphabet (GOOGL 2.16%)(GOOG 1.96%). The stock has risen 25% from its 52-week low, and the emergence of artificial intelligence-po… [+3404 chars]",
+      "datetime": "2023-03-24 09:15:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725539/using-a-tablet-while-drinking-coffee.jpg",
+      "description": "Viewing Alphabet from a high-level perspective could persuade investors to reconsider this stock."
+    },
+    {
+      "url": "https://biztoc.com/x/5159a7f55c4743f0",
+      "title": "“Glazed & Confused”",
+      "author": "megaphone.fm",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Krispy Kreme stock is up 50% this year thanks to a bold strategy: Take your top-selling product and then give it away for free. We just witnessed the biggest economic deal of the year: The Colorado R… [+271 chars]",
+      "datetime": "2023-05-23 16:38:16",
+      "urlToImage": "https://c.biztoc.com/p/5159a7f55c4743f0/og.webp",
+      "description": "Krispy Kreme stock is up 50% this year thanks to a bold strategy: Take your top-selling product — and then give it away for free. We just witnessed the biggest economic deal of the year: The Colorado River. And two of the biggest law firms on earth just merge…"
+    },
+    {
+      "url": "https://biztoc.com/x/c4560e31555c2aa3",
+      "title": "Nine states join DOJ lawsuit to breakup Google's ad tech tool stranglehold",
+      "author": "yahoo.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Nine additional US states joined an antitrust lawsuit against Google (GOOG, GOOGL) that accuses the company of illegally monopolizing the online ad tech market and seeks to break up the tech giants s… [+306 chars]",
+      "datetime": "2023-04-18 18:36:13",
+      "urlToImage": "https://c.biztoc.com/p/c4560e31555c2aa3/og.webp",
+      "description": "Nine additional US states joined an antitrust lawsuit against Google (GOOG, GOOGL) that accuses the company of illegally monopolizing the online ad tech market and seeks to break up the tech giant’s stronghold. The US Department of Justice and eight states fi…"
+    },
+    {
+      "url": "https://biztoc.com/x/3c73fad34345e0b8",
+      "title": "Is Google Sharing International Users' Data With US Intelligence? South Korea's Top Court Wants Company To Disclose",
+      "author": "benzinga.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "South Korea's top court has asked Alphabet Inc's (NASDAQ: GOOGL) (NASDAQ: GOOG) Google to disclose if it had shared local user information with third parties, including the United States intelligence… [+258 chars]",
+      "datetime": "2023-04-13 12:44:05",
+      "urlToImage": "https://c.biztoc.com/p/3c73fad34345e0b8/og.webp",
+      "description": "South Korea's top court has asked Alphabet Inc's (NASDAQ: GOOGL) (NASDAQ: GOOG) Google to disclose if it had shared local user information with third parties, including the United States intelligence. The court's decision came after four plaintiffs filed a la…"
+    },
+    {
+      "url": "https://biztoc.com/x/a051218492bbdff8",
+      "title": "Earnings Outlook: Amazon ripped off the Band-Aid. Does that mean big earnings are about to flow?",
+      "author": "marketwatch.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Amazon.com Inc. dumped a lot of bad news into its holiday-quarter results, and that could set the company up for big profits in 2023.The e-commerce giant is coming off its worst annual loss on record… [+299 chars]",
+      "datetime": "2023-04-26 19:22:07",
+      "urlToImage": "https://c.biztoc.com/p/a051218492bbdff8/og.webp",
+      "description": "Amazon.com Inc. dumped a lot of bad news into its holiday-quarter results, and that could set the company up for big profits in 2023. The e-commerce giant is coming off its worst annual loss on record, helped to that milestone by $2.7 billion in impairment ch…"
+    },
+    {
+      "url": "https://biztoc.com/x/1e209ececdf47179",
+      "title": "Apple isn’t playing the AI hype game",
+      "author": "yahoo.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "reported better-than-expected quarterly sales on Thursday, scoring another win for Big Tech this earnings season. Unlike his fellow CEOs, however, Apples Tim Cook didnt use his opening remarks to foc… [+280 chars]",
+      "datetime": "2023-05-05 23:42:04",
+      "urlToImage": "https://c.biztoc.com/p/1e209ececdf47179/og.webp",
+      "description": "reported better-than-expected quarterly sales on Thursday, scoring another win for Big Tech this earnings season. Unlike his fellow CEOs, however, Apple’s Tim Cook didn’t use his opening remarks to focus on his company’s AI efforts. In fact, Cook didn’t menti…"
+    },
+    {
+      "url": "https://biztoc.com/x/765e790815052019",
+      "title": "Netflix Stock Has Lagged FAANG in 2023. Time to Play Catchup?",
+      "author": "thestreet.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Get Free Report have performed well this year, up about 15%. But they've lagged all the streaming giant's FAANG peers.A 15% return in less than five months in most cases is pretty good. But among the… [+291 chars]",
+      "datetime": "2023-05-12 16:50:19",
+      "urlToImage": "https://c.biztoc.com/p/765e790815052019/og.webp",
+      "description": "Get Free Report have performed well this year, up about 15%. But they've lagged all the streaming giant's FAANG peers. A 15% return in less than five months in most cases is pretty good. But among the FAANG stocks, that’s about half the rate of return we’re s…"
+    },
+    {
+      "url": "https://biztoc.com/x/2a6777f3f08c70d9",
+      "title": "Loeb’s Third Point buys up new stakes in Alibaba, AMD and Alphabet while dumping Disney’s stock",
+      "author": "marketwatch.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Daniel Loebs Third Point LLC took out new positions in Alphabet Inc., Alibaba Group Holding Ltd. and Advanced Micro Devices Inc. during the latest quarter, according to a recent filing.Third Point am… [+286 chars]",
+      "datetime": "2023-05-15 22:12:05",
+      "urlToImage": "https://c.biztoc.com/p/2a6777f3f08c70d9/og.webp",
+      "description": "Daniel Loeb’s Third Point LLC took out new positions in Alphabet Inc., Alibaba Group Holding Ltd. and Advanced Micro Devices Inc. during the latest quarter, according to a recent filing. Third Point amassed a new stake in Alphabet GOOG, GOOGL, amounting to 4.…"
+    },
+    {
+      "url": "https://biztoc.com/x/1903b5e9f0d6f59d",
+      "title": "Amazon, Microsoft cloud services could face U.K. antitrust probe",
+      "author": "marketwatch.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Citing significant concerns that Amazon.com Inc. and Microsoft Corp. could be stifling competition in the cloud-computing market, U.K. regulators on Wednesday said they were proposing to refer the cl… [+320 chars]",
+      "datetime": "2023-04-05 21:02:07",
+      "urlToImage": "https://c.biztoc.com/p/1903b5e9f0d6f59d/og.webp",
+      "description": "Citing “significant concerns” that Amazon.com Inc. and Microsoft Corp. could be stifling competition in the cloud-computing market, U.K. regulators on Wednesday said they were “proposing to refer” the cloud services market to the Competition and Markets Autho…"
+    },
+    {
+      "url": "https://biztoc.com/x/372afa063b871aa6",
+      "title": "‘Most jobs are vehicles and not destinations:’ Entry-level hiring slows, but these jobs are on the rise for new graduates",
+      "author": "marketwatch.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Hiring for entry-level positions in the U.S is down 32% on the year in April for jobs that require a college degree and down 22% in April for jobs that do not require a college degree, according to a… [+326 chars]",
+      "datetime": "2023-05-23 11:44:51",
+      "urlToImage": "https://c.biztoc.com/p/372afa063b871aa6/og.webp",
+      "description": "Hiring for entry-level positions in the U.S is down 32% on the year in April for jobs that require a college degree and down 22% in April for jobs that do not require a college degree, according to a LinkedIn report released Monday. Hiring slowed across all i…"
+    },
+    {
+      "url": "https://biztoc.com/x/f9e21c1a67616957",
+      "title": "Apple closes in on a $3 trillion stock market valuation",
+      "author": "yahoo.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "A few more bites out of Apple's (AAPL) stock by investors, and we may find the tech giant's market cap beyond the $3 trillion level.Shares of the iPhone maker have surged 35% year to date, out-perfor… [+285 chars]",
+      "datetime": "2023-05-23 12:40:06",
+      "urlToImage": "https://c.biztoc.com/p/f9e21c1a67616957/og.webp",
+      "description": "A few more bites out of Apple's (AAPL) stock by investors, and we may find the tech giant's market cap beyond the $3 trillion level. Shares of the iPhone maker have surged 35% year to date, out-performing the S&P 500 pedestrian's 9% gain. Apple is the fourth-…"
+    },
+    {
+      "url": "https://biztoc.com/x/b177cb3dfbe426b0",
+      "title": "The Ratings Game: As Alphabet flexes its AI prowess, there’s a ‘new elephant in the room’ for Google",
+      "author": "marketwatch.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "A few months back, some on Wall Street were worried that Microsoft Corp.s artificial-intelligence advancements would help the company eat into Alphabet Inc.s dominant Google search business.Those con… [+296 chars]",
+      "datetime": "2023-05-17 14:10:05",
+      "urlToImage": "https://c.biztoc.com/p/b177cb3dfbe426b0/og.webp",
+      "description": "A few months back, some on Wall Street were worried that Microsoft Corp.’s artificial-intelligence advancements would help the company eat into Alphabet Inc.’s dominant Google search business. Those concerns may be soon fading, as “the investment community ha…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/16/why-alphabet-stock-climbed-today/",
+      "title": "Why Alphabet Stock Climbed Today",
+      "author": "newsfeedback@fool.com (Joe Tenebruso)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nAlphabet(GOOGL 4.38%)(GOOG 4.68%) rose more than 4% on Thursday, furthering the rally in the tech titan's stock price that began earlier this week. Investors are bidding up Alphabet's … [+1718 chars]",
+      "datetime": "2023-03-16 21:08:08",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/724951/investor-gettyimages-1164915433.jpg",
+      "description": "Investors are growing more confident in the search giant's AI strategy."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/06/why-alphabet-stock-was-moving-higher-today/",
+      "title": "Why Alphabet Stock Was Moving Higher Today",
+      "author": "newsfeedback@fool.com (Jeremy Bowman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nShares of Alphabet (GOOG 3.54%)(GOOGL 3.54%) were moving higher today, seemingly in response to a report in The Wall Street Journal that the company is planning to add chat functionali… [+1724 chars]",
+      "datetime": "2023-04-06 19:28:07",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727427/search-engine-google.jpg",
+      "description": "The company said it would integrate chat into Google Search."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/02/why-alphabet-stock-was-a-flop-today/",
+      "title": "Why Alphabet Stock Was a Flop Today",
+      "author": "newsfeedback@fool.com (Eric Volkman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nArtificial intelligence (AI) isn't only powering advanced IT functions these days, it's powering up the share prices of stocks associated with it. A rather negative take on Alphabet's … [+1536 chars]",
+      "datetime": "2023-05-02 21:31:30",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/730662/person-gazing-at-a-laptop-located-on-a-desk-already-supporting-two-pc-monitors.jpg",
+      "description": "Investors continue to be excited about the potential of artificial intelligence, but one outgoing company official is far less bullish."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/26/why-meta-platforms-stock-was-up-today/",
+      "title": "Why Meta Platforms Stock Was Up Today",
+      "author": "newsfeedback@fool.com (Jeremy Bowman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nShares of Meta Platforms (META 2.90%) were climbing today in response to better-than-expected numbers from big tech peers Alphabet (GOOG 0.83%)(GOOGL 0.78%) and Microsoft (MSFT 8.26%) … [+1737 chars]",
+      "datetime": "2023-04-26 16:06:14",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729646/meta-mark-zuckerberg-at-conference.jpg",
+      "description": "Better-than-expected reports from Microsoft and Alphabet helped lift shares of the Facebook parent today."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/makes-alphabet-goog-long-term-060359131.html",
+      "title": "What Makes Alphabet (GOOG) a Long-Term Investment Bet?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Madison Investments, an investment advisor, released its Madison Investors Fund first quarter 2023 investor letter. A copy of the same can be downloaded here. In the first quarter, the fund was up 6.… [+2510 chars]",
+      "datetime": "2023-04-17 06:03:59",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/0a2b2901e53161b654fbe2ba5035ef5e",
+      "description": "Madison Investments, an investment advisor, released its “Madison Investors Fund” first quarter 2023 investor letter. A copy of the same can be downloaded..."
+    },
+    {
+      "url": "https://toyokeizai.net/articles/-/661896",
+      "title": "侍ジャパンは最高の｢心理的安全性｣の教科書だ WBC優勝から学ぶ｢チームで結果を出す｣秘訣 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+      "author": "ピョートル・フェリクス・グジバチ",
+      "source": {
+        "id": null,
+        "name": "Toyokeizai.net"
+      },
+      "content": "Copyright©Toyo Keizai Inc.All Rights Reserved.",
+      "datetime": "2023-03-28 22:00:00",
+      "urlToImage": "https://tk.ismcdn.jp/mwimgs/9/f/1200w/img_9ff346f4666c80478e8127bd70e6e5a6714413.jpg",
+      "description": "本稿では、なぜ侍ジャパンがWBCで優勝できたのか、その秘密を、野球という競技のテクニカルな側面からではなく、組織面から、特にチームの心理的安全性という観点から、解説を試みます。私はこれまで20年以上、Goog…"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/alphabet-goog-trading-attractive-price-131628781.html",
+      "title": "Is Alphabet (GOOG) Trading at an Attractive Price Now?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Ruane, Cunniff &amp; Goldfarb, an investment adviser managing Sequoia Fund, released its Q4 2022 investor letter. A copy of the same can be downloaded here. In the fourth quarter, the fund returned 8… [+2758 chars]",
+      "datetime": "2023-03-21 13:16:28",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QNKT1xKnwhJVeafU93VuMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
+      "description": "Ruane, Cunniff & Goldfarb, an investment adviser managing Sequoia Fund, released its Q4 2022 investor letter. A copy of the same can be downloaded here. In..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/alphabet-goog-rose-q1-positive-061629592.html",
+      "title": "Alphabet (GOOG) Rose in Q1 on Positive Outlook",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Oakmark Funds, advised by Harris Associates, released its Oakmark Global Select Fund first quarter 2023 investor letter. A copy of the same can be downloaded here. The fund generated a 9.1% return in… [+4282 chars]",
+      "datetime": "2023-04-13 06:16:29",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/722fa6e1a067b1274b73f466479e4aad",
+      "description": "Oakmark Funds, advised by Harris Associates, released its “Oakmark Global Select Fund” first quarter 2023 investor letter. A copy of the same can be..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/hold-alphabet-goog-long-term-111626825.html",
+      "title": "Should You Hold Alphabet (GOOG) for the Long-Term?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Weitz Investment Management, an investment management firm, released its Partners III Opportunity Fund fourth-quarter 2022 investor letter. A copy of the same can be downloaded here. In the fourth qu… [+2507 chars]",
+      "datetime": "2023-03-10 11:16:26",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/0a2b2901e53161b654fbe2ba5035ef5e",
+      "description": "Weitz Investment Management, an investment management firm, released its “Partners III Opportunity Fund” fourth-quarter 2022 investor letter. A copy of the..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/made-polen-capital-focus-growth-072157415.html",
+      "title": "What Made Polen Capital Focus Growth Strategy Sell Alphabet (GOOG)?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Polen Capital, an investment management company, released its Polen Focus Growth Strategy first-quarter 2023 investor letter. A copy of the same can be downloaded here. The fund returned 14.06% net i… [+3441 chars]",
+      "datetime": "2023-04-26 07:21:57",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QNKT1xKnwhJVeafU93VuMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
+      "description": "Polen Capital, an investment management company, released its “Polen Focus Growth Strategy” first-quarter 2023 investor letter. A copy of the same can be..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/threats-opportunities-alphabet-goog-102657573.html",
+      "title": "Here are the Threats and Opportunities For Alphabet (GOOG)",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Ensemble Capital Management, an investment management company, released its first quarter 2023 investor letter. A copy of the same can be downloaded here. The strategy returned 3.48% in the first qua… [+2388 chars]",
+      "datetime": "2023-04-21 10:26:57",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QNKT1xKnwhJVeafU93VuMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
+      "description": "Ensemble Capital Management, an investment management company, released its first quarter 2023 investor letter. A copy of the same can be downloaded here..."
+    },
+    {
+      "url": "https://steachs.com/archives/62036",
+      "title": "五個 Excel 沒有的 Google 試算表實用函數，你用過哪些？",
+      "author": "阿湯",
+      "source": {
+        "id": null,
+        "name": "Steachs.com"
+      },
+      "content": "Google Google Excel \"SPLIT\" \"QUERY\"\"GOOGLETRANSLATE\" \"IMPORTXML\"\"IMAGE\" Google \r\nGOOGLEFINANCE GOOGLEFINANCE Google Alphabet GOOG\r\n=GOOGLEFINANCE(\"GOOG\", \"price\")\r\nIMPORTFEED IMPORTFEED RSS Atom Goog… [+404 chars]",
+      "datetime": "2023-03-02 14:22:50",
+      "urlToImage": "https://steachs.com/wp-content/uploads/2023/03/google-sheets.jpg",
+      "description": "在這篇內容裡，阿湯提供了五個 Google 試算表的函數範例，這些函數都是 Google 試算表獨有的，Exc […]\nThe post 五個 Excel 沒有的 Google 試算表實用函數，你用過哪些？ first appeared on 就是教不落 - 給你最豐富的 3C 資訊、教學網站."
+    },
+    {
+      "url": "https://gendai.media/articles/-/109679",
+      "title": "「5月に株を売れ」…いよいよ到来する「夏枯れ相場」、市場の低迷が「終わるとき」はいつか",
+      "author": null,
+      "source": {
+        "id": null,
+        "name": "Gendai.media"
+      },
+      "content": "4\r\n5FOMC(52-3)\r\nFOMC0.25%\r\n1950-20224SP50050.2%41.5%5\r\nSell in May and go away!\r\nSP500\r\n4\r\n(TSLA)10%\r\n4(MSFT)(GOOG)(META)",
+      "datetime": "2023-04-27 20:00:00",
+      "urlToImage": "https://gendai-m.ismcdn.jp/mwimgs/5/9/1200m/img_5965adce29eb1ba45123dfc7c15da682137764.jpg",
+      "description": "例年、強気相場が続く4月を終えると米国経済は秋ごろまで低調なパフォーマンスになることが多いです。つまり、これから夏が過ぎるまでは強気でマーケットに望まない方が賢明といえるでしょう。そこで今回は直近の米国マーケット動向と注目ポイントについて解説していきます。"
+    },
+    {
+      "url": "https://biztoc.com/x/0b57d26182daa5a0",
+      "title": "Don’t Get Burned By The AI Boom",
+      "author": "marketbeat.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "AI is happening. Its about to change the world and will cause a boom in productivity unlike any weve seen. The shift to AI will also cause a boom in the stock market, and investors should be wary. Hy… [+305 chars]",
+      "datetime": "2023-05-22 14:06:27",
+      "urlToImage": "https://c.biztoc.com/p/0b57d26182daa5a0/og.webp",
+      "description": "AI is happening. It’s about to change the world and will cause a boom in productivity unlike any we’ve seen. The shift to AI will also cause a boom in the stock market, and investors should be wary. Hype, because that is what it is; the hype about the growth …"
+    },
+    {
+      "url": "https://www.psychologytoday.com/intl/blog/living-as-an-outlier/202304/can-pets-help-with-severe-schizophrenia",
+      "title": "Can Pets Help With Severe Schizophrenia?",
+      "author": "Sarah An Myers",
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "content": "Yolken, R., Stallings, C., Origoni, A., Katsafanas, E., Sweeney, K., Squire, A., &amp; Dickerson, F. (2019). Exposure to household pet cats and dogs in childhood and risk of subsequent diagnosis of s… [+941 chars]",
+      "datetime": "2023-04-30 18:16:00",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-04/alvan-nee-T-0EW-SEbsE-unsplash.jpg?itok=XwVfm6PE",
+      "description": "Pets can help with depression and anxiety, but can they do anything for a serious mental illness like schizophrenia? The results may surprise you."
+    },
+    {
+      "url": "https://www.presse-citron.net/?p=550544",
+      "title": "Google retombe sur ses pattes (ou presque) grâce au cloud",
+      "author": "Setra",
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "content": "<ul><li>Google annonce des résultats financiers meilleurs que prévu</li><li>Pour la première fois, sa division cloud a été rentable</li><li>Quant au moteur de recherche, celui-ci a été résilient, sel… [+5105 chars]",
+      "datetime": "2023-04-26 09:30:18",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2020/01/Hey-Google-Google-Assistant-CES-2020-à-Las-Vegas.jpg",
+      "description": "Google s’en sort mieux que prévu, grâce aux résultats de Google Cloud. Alors que les revenus publicitaires baissent légèrement, cette branche de la firme a généré des profits pour la première fois depuis sa création."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/google-opens-payment-walled-gardens-151927355.html",
+      "title": "Google Opens Up Payment Walled Gardens After UK Probe",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "<ul><li>Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) Google agreed to allow developers to use alternative payment options after the CMA investigation into its control over Google Play in-app purchases… [+1254 chars]",
+      "datetime": "2023-04-19 15:19:27",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/9158730a05bd142afc141aa5fe884aa8",
+      "description": "Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) Google agreed to allow developers to use alternative payment options after the CMA investigation into its control..."
+    },
+    {
+      "url": "https://taisy0.com/2023/04/02/170276.html",
+      "title": "Google、｢Google ドライブ｣にファイル数制限を追加 ｰ 最大500万ファイルか",
+      "author": "taisy0",
+      "source": {
+        "id": null,
+        "name": "Taisy0.com"
+      },
+      "content": "NeowinGoogleGoogle\r\nReddit/u/ra132023214GoogleGoogle\r\n500\r\nGoogleFAQGoogle Workspace",
+      "datetime": "2023-04-02 00:17:54",
+      "urlToImage": "https://taisy0.com/wp-content/uploads/2023/04/th_Google-Drive-Embleme.jpg",
+      "description": "Neowinなどによると、Googleがクラウドストレージサービス「Googleドライブ」にファイル数の制限を設けていたことが明らかになりました。 Redditユーザーの/u/ra13氏は2023年2月14日頃にGoog ..."
+    },
+    {
+      "url": "https://juggly.cn/archives/247150.html",
+      "title": "Google、Android 14でアプリ固有のアクションを実装できるよう共有メニューを更新",
+      "author": "juggly",
+      "source": {
+        "id": null,
+        "name": "Juggly.cn"
+      },
+      "content": "Android Android Google Android 14 \r\n Android 14 DP2 Android 14 DP2 \r\nTasker Android 14 7 1 \r\nChrome Instagram QR Android 14 Android API \r\nAndroid 14 \r\nAndroid Mishaal Rahman Google Android 14 DP2 5 \r… [+14 chars]",
+      "datetime": "2023-03-30 15:35:14",
+      "urlToImage": null,
+      "description": "使用中のアプリから別のアプリへ画像やリンクなどのデータを共有するときには Android の機能である共有メニューを使用します。現行の Android では、共有メニューにはアプリと連絡先の一覧が表示されますが、Goog [...]"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/15/3-top-tech-stocks-to-buy-during-a-recession/",
+      "title": "3 Top Tech Stocks to Buy During a",
+      "author": "newsfeedback@fool.com (Jeff Santoro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "There's been talk about a possible recession for months, but the truth is that nobody really knows if there will be one. And while there's not much that individual investors can do about macroeconomi… [+4223 chars]",
+      "datetime": "2023-04-15 09:30:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/728264/person-working-in-tech.jpg",
+      "description": "Great businesses can survive, and even thrive, in tough economic times."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/06/a-bull-market-is-coming-2-magnificent-faang-stocks/",
+      "title": "A Bull Market Is Coming: 2 Magnificent FAANG Stocks to Buy and Hold",
+      "author": "newsfeedback@fool.com (Prosper Junior Bakiny)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The companies known by the acronym \"FAANG\" delivered great returns in the past decade. This clique comprises Facebook parent Meta Platforms, Apple, Amazon(AMZN -0.90%), Netflix, and Google parent Alp… [+5011 chars]",
+      "datetime": "2023-04-06 13:45:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726982/person-working-at-a-desk.jpg",
+      "description": "No company is immune from challenges, but these two tech leaders have what it takes to persevere."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/27/the-ai-arms-race-investing-in-the-future-of-artifi/",
+      "title": "The AI Arms Race: Investing in the Future of Artificial Intelligence With Microsoft and Google",
+      "author": "newsfeedback@fool.com (Bradley Guichard)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The release of ChatGPT, a generative chatbot developed by the company OpenAI, caused quite a stir. It moved the artificial intelligence (AI) conversation from the tech world to the mainstream seeming… [+4485 chars]",
+      "datetime": "2023-04-27 13:05:15",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729276/two-people-examing-multiple-screens-of-stock-charts.jpg",
+      "description": "Both are heavily involved; which is the better investment for you?"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/19/why-alphabet-stock-keeps-going-up/",
+      "title": "Why Alphabet Stock Keeps Going Up",
+      "author": "newsfeedback@fool.com (Rich Smith)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nAs trading winds down for the week, Alphabet (GOOG -0.16%) (GOOGL -0.09%) stock is going out with a bang, capping a four-day run of constantly rising stock prices with another 1% gain … [+2481 chars]",
+      "datetime": "2023-05-19 16:45:11",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/733198/1-glowing-green-stock-arrow-climbs-on-a-stock-screen.jpg",
+      "description": "ChatGPT remains a threat to Alphabet."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/05/why-amazon-stock-tumbled-wednesday-morning/",
+      "title": "Why Amazon Stock Tumbled Wednesday Morning",
+      "author": "newsfeedback@fool.com (Danny Vena)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nShares of e-commerce and cloud computing kingpin Amazon(AMZN -2.25%) slumped Wednesday, shedding as much as 3.1%. As of 1:36 p.m. ET today, the stock was still down 2.6%.\r\nThe downtren… [+1988 chars]",
+      "datetime": "2023-04-05 18:31:54",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727267/a-person-with-a-laptop-looking-at-servers-in-a-data-center.jpg",
+      "description": "The e-commerce giant could face an antitrust probe of its cloud computing services in the U.K."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/11/why-alphabet-stock-was-climbing-again-today/",
+      "title": "Why Alphabet Stock Was Climbing Again Today",
+      "author": "newsfeedback@fool.com (Jeremy Bowman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nShares of Alphabet (GOOG 4.52%)(GOOGL 4.63%) were moving higher for the second day in a row today as investors continued to respond favorably to the company's I/O conference yesterday,… [+1920 chars]",
+      "datetime": "2023-05-11 18:34:14",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/732126/man-touching-magnifying-glass-button-on-floating-search-bar-internet-google-search-engine.jpg",
+      "description": "Investors and analysts cheered yesterday's announcements at its I/O conference."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/02/3-top-growth-stocks-id-buy-right-now-without-any-h/",
+      "title": "3 Top Growth Stocks I'd Buy Right Now Without Any Hesitation",
+      "author": "newsfeedback@fool.com (Bradley Guichard)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Famous investor Warren Buffett says to \"be greedy when others are fearful,\" and as investors, we all aim to buy low and sell high. So why is it that so often, both retail and professional investors d… [+4780 chars]",
+      "datetime": "2023-03-02 11:45:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/722375/person-pointing-to-computer-screen-showing-stock-chart.jpg",
+      "description": "Growth stocks are down, but Alphabet, Palo Alto Networks, and Intuitive Surgical look like compelling long-term investments."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/22/a-bull-market-is-coming-2-top-ai-stock-to-buy-now/",
+      "title": "A Bull Market Is Coming: 2 Top AI Stocks to Buy Now",
+      "author": "newsfeedback@fool.com (Keith Noonan and Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The rise of artificial intelligence (AI) is on track to be this century's most revolutionary technology trend. Massive breakthroughs in AI have been taking place seemingly overnight lately, and this … [+4933 chars]",
+      "datetime": "2023-03-22 09:35:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/724992/a-person-images-and-binary-code.jpg",
+      "description": "The AI revolution is here. Don't get left behind."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/22/better-buy-alphabet-vs-microsoft-stock/",
+      "title": "Better Buy: Alphabet vs. Microsoft Stock",
+      "author": "newsfeedback@fool.com (Jeremy Bowman and Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Alphabet(GOOG 3.84%)(GOOGL 3.65%) and Microsoft (MSFT 0.57%) have long been rivals, competing in areas like web browsers, email, productivity software, and operating systems, but it seems like Micros… [+4206 chars]",
+      "datetime": "2023-03-22 11:55:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725329/investing-screen-analysis-investor-growth-stocks.jpg",
+      "description": "The two rivals are set to go to head to head in AI, but which one is the better buy?"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/25/up-40-this-year-is-there-still-time-to-buy-alphabe/",
+      "title": "Up 40% This Year, Is There Still Time to Buy Alphabet Stock?",
+      "author": "newsfeedback@fool.com (Brett Schafer)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Can you feel the artificial intelligence (AI) hype cycle hitting a fever pitch? I sure can.\r\nIt seems like all any news outlet or investor wants to discuss right now is AI. After OpenAI's lifelike qu… [+4644 chars]",
+      "datetime": "2023-05-25 09:40:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/733645/chart-up-to-the-right.jpg",
+      "description": "Investors are getting bullish on the tech giant's recent product announcements around artificial intelligence."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/meta-alphabet-appear-safe-from-regulatory-action-in-2023-as-tiktok-ban-gains-steam-analyst-151526210.html",
+      "title": "Meta, Alphabet appear safe from regulatory action in 2023 as TikTok ban gains steam: Analyst",
+      "author": "Alexandra Garfinkle",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Though politicians' calls to ban TikTok appear to be gaining steam, Meta (META) and Google parent Alphabet (GOOG, GOOGL) appear to be safe from regulatory pressure this year, Needham analyst Laura Ma… [+3503 chars]",
+      "datetime": "2023-03-09 15:15:26",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XY6P8lrhha87NC1Kn_fP.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/30636580-be8d-11ed-bd35-bd1ff8d28eaa",
+      "description": "Though politicians' calls to ban TikTok appear to be gaining steam, Meta (META) and Alphabet (GOOG, GOOGL) appear to be safe from regulatory pressure this..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/googles-bard-vs-microsoft-backed-140424897.html",
+      "title": "Google's Bard Vs. Microsoft Backed ChatGPT - What It Takes To Train AI",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) Google on Tuesday elaborated on the supercomputers it uses to train its artificial intelligence models.\r\nGoogle said the systems are faster and more power-… [+2344 chars]",
+      "datetime": "2023-04-05 14:04:24",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/2d05d2b598f37e897916c8be95944ab2",
+      "description": "Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) Google on Tuesday elaborated on the supercomputers it uses to train its artificial intelligence models. Google..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/bing-google-samsung-devices-could-121509181.html",
+      "title": "Is Bing The New Google? Samsung Devices Could Ditch Google Search for Microsoft Bing",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "<li>Samsung Electronics Co Ltd (OTC: SSNLF) weighs replacing Alphabet Inc's (NASDAQ: GOOG) (NASDAQ: GOOGL) Google for Microsoft Corp's (NASDAQ: MSFT) Bing as the default search service for its device… [+1412 chars]",
+      "datetime": "2023-04-17 12:15:09",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/a746a2092f2edad96627deaa21c046db",
+      "description": "Samsung Electronics Co Ltd (OTC: SSNLF) weighs replacing Alphabet Inc's (NASDAQ: GOOG) (NASDAQ: GOOGL) Google for Microsoft Corp's (NASDAQ: MSFT) Bing as the..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/antitrust-penalty-south-korea-hits-131456406.html",
+      "title": "Antitrust Penalty: South Korea Hits Google with $32M Fine for Anti-Competitive Mobile App Behavior",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "<li>South Korea penalized Alphabet Inc's (NASDAQ: GOOG) (NASDAQ: GOOGL) Google 42.1 billion won ($32 million) for exploiting its influence in the mobile app market to drive away a local rival.\r\n</li>… [+2110 chars]",
+      "datetime": "2023-04-11 13:14:56",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/7052173a6dcf21caa965c7229bea7694",
+      "description": "South Korea penalized Alphabet Inc's (NASDAQ: GOOG) (NASDAQ: GOOGL) Google 42.1 billion won ($32 million) for exploiting its influence in the mobile app..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/google-sharing-international-users-data-143206602.html",
+      "title": "Is Google Sharing International Users' Data With US Intelligence? South Korea's Top Court Wants Company To Disclose",
+      "author": "Nabaparna Bhattacharya",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "<li>South Korea's top court has asked Alphabet Inc's (NASDAQ: GOOGL) (NASDAQ: GOOG) Google to disclose if it had shared local user information with third parties, including the United States intellig… [+1630 chars]",
+      "datetime": "2023-04-13 14:32:06",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/d53922996ba8372839dbd838f632e386",
+      "description": "South Korea's top court has asked Alphabet Inc's (NASDAQ: GOOGL) (NASDAQ: GOOG) Google to disclose if it had shared local user information with third parties..."
+    }
+  ],
+  "totalResults": 1192
+}
