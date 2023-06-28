@@ -1,0 +1,2608 @@
+{
+  "_id": "MSFT",
+  "_rev": "2-3983266f59ba936fecdd9652bc353322",
+  "status": "ok",
+  "values": [
+    {
+      "url": "https://finance.yahoo.com/news/tales-stock-compounding-does-always-230900321.html",
+      "title": "Tales of Stock Compounding: Does It Always Work?",
+      "author": "Tracey Ryniec",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "<ul><li>(1:00) - The Power of Compounding: How Long Do You Need To Invest?\r\n</li><li>(8:50) - How Warren Buffett’s Neighbors Became Millionaires\r\n</li><li>(17:45) - Stocks With The Power of Compoundi… [+4307 chars]",
+      "datetime": "2023-06-15 23:09:00",
+      "urlToImage": "https://media.zenfs.com/en/zacks.com/6a8934e738ca13e83e7a872543c69ed3",
+      "description": "Buffett's neighbors made millions after investing in Berkshire in the 1960s, but what if you bought GM or Ford instead?"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/24/4-growth-stocks-for-retirement/",
+      "title": "4 Stocks That Can Turn $100,000 Into $500,000 by the Time You Retire",
+      "author": "newsfeedback@fool.com (James Brumley)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Are you truly ready to dive into a handful of stocks and then sit on them for years -- maybe even decades -- in search of future fortune?\r\nIt's OK if you aren't. For some people, navigating the marke… [+6707 chars]",
+      "datetime": "2023-06-24 11:20:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/737094/rocket-growing-graph-pink.jpg",
+      "description": "Buy 'em and then just get out of the way. Time and these companies' long-term strength will take care of the rest."
+    },
+    {
+      "url": "https://gigazine.net/news/20230324-microsoft-gpt-4-paper-commented-out/",
+      "title": "Microsoftが発表したGPT-4の論文には数多くのコメントアウトされた内容が残されていた",
+      "author": "@GIGAZINE",
+      "source": {
+        "id": null,
+        "name": "Gigazine.net"
+      },
+      "content": "Microsoft2023322Sparks of Artificial General Intelligence: Early experiments with GPT-4(GPT-4)OpenAI(LLM)GPT-4154\r\nDV(@DV2559106965076)Twitter\r\nDVarXivLaTeX\r\nWe inspect their latex source code from a… [+1867 chars]",
+      "datetime": "2023-03-24 06:00:00",
+      "urlToImage": "https://i.gzn.jp/img/2023/03/24/microsoft-gpt-4-paper-commented-out/00_m.png",
+      "description": "Microsoftは2023年3月22日、「Sparks of Artificial General Intelligence: Early experiments with GPT-4(汎用人工知能のひらめき：GPT-4による初期実験)」と題して、OpenAIの大規模言語モデル(LLM)であるGPT-4に関連する154ページの論文を発表しました。しかし、発表された論文をオリジナル版と比較すると、いろいろな内容がコメントアウトされていることが指摘されています。続きを読む..."
+    },
+    {
+      "url": "https://biztoc.com/x/b9c7fda508501d57",
+      "title": "Chase Coleman Let the Tiger Out of the Cage in Q1 With Hot Returns",
+      "author": "247wallst.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Investors are carefully divining the latest SEC 13F filing from Chase Colemans Tiger Global Hedge Fund reporting its latest trades and movements for the March quarter.Born from the ashes of the dot-c… [+316 chars]",
+      "datetime": "2023-06-01 04:20:11",
+      "urlToImage": "https://c.biztoc.com/p/b9c7fda508501d57/og.webp",
+      "description": "Investors are carefully divining the latest SEC 13F filing from Chase Coleman’s Tiger Global Hedge Fund reporting its latest trades and movements for the March quarter. Born from the ashes of the dot-com bubble, Tiger Global rose to prominence in the early 20…"
+    },
+    {
+      "url": "https://biztoc.com/x/72bf5ca1457014fc",
+      "title": "Activision Shares Up 5% as Microsoft Wins Regulator’s ‘Blessing’ on Acquisition Deal",
+      "author": "coinspeaker.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "CoinspeakerActivision Shares Up 5% as Microsoft Wins Regulators Blessing on Acquisition DealActivision Blizzard Inc (NASDAQ: ATVI) shares surged Friday on positive news about the UKs Competition and … [+310 chars]",
+      "datetime": "2023-03-24 19:48:06",
+      "urlToImage": "https://c.biztoc.com/p/72bf5ca1457014fc/og.webp",
+      "description": "Coinspeaker Activision Shares Up 5% as Microsoft Wins Regulator’s ‘Blessing’ on Acquisition Deal Activision Blizzard Inc (NASDAQ: ATVI) shares surged Friday on positive news about the UK’s Competition and Markets Authority’s stance toward the Microsoft (NASDA…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/12/microsoft-is-adding-ai-to-bing-is-google-in-troubl/",
+      "title": "Microsoft Is Adding AI to Bing. Is Google in Trouble?",
+      "author": "newsfeedback@fool.com (Jeremy Bowman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "It has only been six months since ChatGPT launched, sparking a new revolution in artificial intelligence (AI), but one thing seems clear. Microsoft (MSFT -0.33%) and Alphabet (GOOG -0.06%)(GOOGL -0.1… [+3928 chars]",
+      "datetime": "2023-06-12 15:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735920/man-touching-magnifying-glass-button-on-floating-search-bar-internet-google-search-engine.jpg",
+      "description": "Microsoft just took a big step in its assault on Google Search."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/whats-going-amd-stock-monday-191209158.html",
+      "title": "What's Going On With AMD Stock Monday",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "<li>Advanced Micro Devices, Inc (NASDAQ: AMD) shares gained on Monday as reports claimed Microsoft Corp (NASDAQ: MSFT) denied a partnership with the chipmaker for its Athena artificial intelligence c… [+1197 chars]",
+      "datetime": "2023-05-08 19:12:09",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/96cad5580d51e35a8bb9717887d50332",
+      "description": "Advanced Micro Devices, Inc (NASDAQ: AMD) shares gained on Monday as reports claimed Microsoft Corp (NASDAQ: MSFT) denied a partnership with the chipmaker..."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/13/where-will-ai-take-microsoft-in-10-years/",
+      "title": "Where Will AI Take Microsoft in 10 Years?",
+      "author": "newsfeedback@fool.com (Justin Pope)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "When you're a trillion-dollar company like Microsoft(MSFT 0.23%), there's a lot of pressure to find the next big thing. What's going to help the company continue growing? It's not an easy question to… [+3636 chars]",
+      "datetime": "2023-04-13 13:30:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726970/artificial-intelligence-ai-1.jpg",
+      "description": "OpenAI could be Microsoft's next big score."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/26/bull-market-2-blue-chip-growth-stocks-to-buy-now/",
+      "title": "A Bull Market Is Coming: 2 Blue Chip Growth Stocks to Buy Now and Hold Forever",
+      "author": "newsfeedback@fool.com (Trevor Jennewine)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What constitutes a blue chip stock is subject to some debate, but the term generally refers to large businesses that reliably create wealth for shareholders. Most blue chip stocks have a wide market … [+5273 chars]",
+      "datetime": "2023-06-26 14:54:57",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/737488/bull-market-2.jpg",
+      "description": "These blue-chip growth stocks could make patient shareholders richer during the next bull market."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/08/ai-could-send-these-2-nasdaq-stocks-to-the-moon/",
+      "title": "AI Could Send These 2 Nasdaq Stocks to the Moon",
+      "author": "newsfeedback@fool.com (Dan Caplinger)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The stock market moved sharply higher on Thursday, with the Nasdaq Composite(^IXIC 0.95%) picking up more than 1% shortly after noon. Despite lingering concerns about the state of the economy and the… [+3264 chars]",
+      "datetime": "2023-06-08 18:49:12",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735702/ai-chips-getty-artificial-intelligence-1.jpg",
+      "description": "Stocks were on the upswing Thursday."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/more-than-199-000-tech-sector-employees-have-lost-their-jobs-since-the-start-of-2023-45abadde",
+      "title": ": More than 199,000 tech-sector employees have lost their jobs since the start of 2023",
+      "author": "James Rogers",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "More than 199,000 global technology-sector employees have been laid off since the start of 2023, according to data compiled by the website Layoffs.fyi.The websites tally of 2023 global tech layoffs h… [+4397 chars]",
+      "datetime": "2023-05-26 18:24:00",
+      "urlToImage": "https://images.mktw.net/im-672886/social",
+      "description": "2023 has surpassed 2022 for global tech layoffs, according to  data compiled by the website Layoffs.fyi"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/27/microsoft-stock-bear-vs-bull/",
+      "title": "Microsoft Stock: Bear vs. Bull",
+      "author": "newsfeedback@fool.com (Dani Cook)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The tech industry is booming, prompting a much-welcome recovery from the selloff the market experienced in 2022. Many of the biggest names in tech have enjoyed considerable stock price growth this ye… [+3680 chars]",
+      "datetime": "2023-06-27 14:07:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/737328/investing-tablet-wall-street-suit-stocks-finance.jpg",
+      "description": "The tech giant is one of the biggest names in AI, but its current stock price doesn't scream \"bargain buy.\""
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amazons-stock-could-be-a-sleepy-ai-play-according-to-ubs-a8ef7afa",
+      "title": "The Ratings Game: Amazon’s stock could be a sleepy AI play, according to UBS",
+      "author": "Emily Bary",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Some big technology companies racked up scores of artificial-intelligence mentions on their latest earnings calls, so by contrast, Amazon.com Inc. has been quieter about its efforts.There were only 1… [+2780 chars]",
+      "datetime": "2023-06-09 10:13:00",
+      "urlToImage": "https://images.mktw.net/im-716234/social",
+      "description": "Some Big Tech companies racked up scores of AI mentions on their latest earnings calls, so by contrast, Amazon has been quieter about its efforts."
+    },
+    {
+      "url": "https://www.fool.com/investing/amazon-earnings-3-of-the-most-important-things-we/",
+      "title": "Amazon Earnings: 3 of the Most Important Things We Learned",
+      "author": "newsfeedback@fool.com (Jason Hall and Jeff Santoro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "E-commerce, cloud services, and increasingly advertising giant Amazon (AMZN -3.98%) just reported earnings, and there were three specific things that Motley Fool contributors Jason Hall and Jeff Sant… [+344 chars]",
+      "datetime": "2023-04-30 09:11:00",
+      "urlToImage": "https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/jester.png&w=400&op=resize",
+      "description": "These three things are really central to its future."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/22/nvidia-is-getting-a-big-boost-in-a-fast-growing-ma/",
+      "title": "Nvidia Is Getting a Big Boost in a Fast-Growing Market, and It Is Not AI",
+      "author": "newsfeedback@fool.com (Harsh Chauhan)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Artificial intelligence (AI) has turned out to be a big catalyst for Nvidia(NVDA -0.72%) stock so far in 2023, and that's not surprising given how the proliferation of this technology has boosted the… [+3874 chars]",
+      "datetime": "2023-06-22 14:09:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736791/man-wearing-headphones-and-looking-at-a-computer.jpg",
+      "description": "This nascent market could turn out to be a long-term tailwind for the tech giant."
+    },
+    {
+      "url": "https://biztoc.com/x/3a548362758f20b3",
+      "title": "The Two Biggest Names In Artificial Intelligence Are Teaming Up",
+      "author": "investors.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "The leading producer of processors for artificial intelligence, Nvidia (NVDA), is joining forces with the buzziest name in generative AI software, Microsoft (MSFT). NVDA stock and MSFT stock have sur… [+306 chars]",
+      "datetime": "2023-05-24 02:08:15",
+      "urlToImage": "https://c.biztoc.com/193/og.png",
+      "description": "The leading producer of processors for artificial intelligence, Nvidia (NVDA), is joining forces with the buzziest name in generative AI software, Microsoft (MSFT). NVDA stock and MSFT stock have surged on AI news this year. X Nvidia announced Tuesday that it…"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "title": "In One Chart: Stock market’s AI frenzy reinforces this crucial rule for traders, RenMac says",
+      "author": "William Watts",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "A mind-blowing Thursday surge by shares of chip maker Nvidia Corp. that fed a frenzy for artificial-intelligence stock market plays reinforces a cardinal rule for traders, said a technician at a top … [+3146 chars]",
+      "datetime": "2023-05-26 15:37:00",
+      "urlToImage": "https://images.mktw.net/im-789668/social",
+      "description": "Thursday's surge by Nvidia shares and other AI-inspired stock-market gains underlines how investors should think about momentum."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/27/love-ai-and-dividends-here-are-4-stocks-for-you/",
+      "title": "4 Dividend-Paying Stocks Likely to Benefit From AI",
+      "author": "newsfeedback@fool.com (Mark Roussin, CPA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "AI has been the talk of the town for the past year-plus, and today I am going to combine artificial intelligence and dividend stocks to give you the best of both worlds.\r\nIn today's video, I look at … [+339 chars]",
+      "datetime": "2023-06-27 13:18:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/737608/youtube-thumbnails-54.png",
+      "description": "AI is not just for growth stocks."
+    },
+    {
+      "url": "https://biztoc.com/x/bc97c942c950eee1",
+      "title": "Top Funds Pour Money Into Apple, Microsoft And These 2 Sectors",
+      "author": "investors.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "dives into augmented and virtual reality with its Vision Pro headset, the best mutual funds pour real money $2.6 billion into AAPL stock. In the latest list of new buys by top funds, these savvy inve… [+284 chars]",
+      "datetime": "2023-06-09 12:32:04",
+      "urlToImage": "https://c.biztoc.com/p/bc97c942c950eee1/s.webp",
+      "description": "dives into augmented and virtual reality with its Vision Pro headset, the best mutual funds pour real money — $2.6 billion — into AAPL stock. In the latest list of new buys by top funds, these savvy investors also lasered in on fellow tech titan Microsoft (MS…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/11/microsofts-ai-ambitions-go-way-beyond-bing/",
+      "title": "Microsoft's AI Ambitions Go Way Beyond Bing",
+      "author": "newsfeedback@fool.com (Jose Najarro and Toby Bordelon)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft's (MSFT -1.48%) cloud solutions can be the real winners in the AI battle. Check out the short video to learn what Jose Najarro and Toby Bordelon had to say. Also, consider subscribing, and … [+139 chars]",
+      "datetime": "2023-03-11 12:38:50",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/724322/jose-najarro-2023-03-10t232845203.png",
+      "description": "Bing, Microsoft's search engine, is benefiting from the popularity of its AI solutions. But there is more to Microsoft's AI plan."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stanley-druckenmiller-bullish-ai-top-203500895.html",
+      "title": "Stanley Druckenmiller is Bullish on AI, these are His Top 3 Stock Picks",
+      "author": "Ethan Feller",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Famed investor, Stanley Druckenmiller hasnt been shy about how bearish he is on the market, stating that he still believes there will be a hard landing sometime in the next year. However, he notes th… [+6359 chars]",
+      "datetime": "2023-06-12 20:35:00",
+      "urlToImage": "https://media.zenfs.com/en/zacks.com/16e97280311e92d3d370e2a86ed2f055",
+      "description": "Druckenmiller note, AI companies could have very strong earnings even in the face of an economic downturn"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/dilemma-ad-transparency-google-microsoft-140347265.html",
+      "title": "Dilemma of Ad Transparency: Google and Microsoft Face Backlash for Ad Inclusion in AI Trials",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) Google and Microsoft Corp's (NASDAQ: MSFT) inserting of ads into AI trials without any opt-out option has irked some brands.\r\nMicrosoft is testing ads in t… [+1821 chars]",
+      "datetime": "2023-06-08 14:03:47",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/791c33749622a3f11d82cf75bd374e8c",
+      "description": "Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) Google and Microsoft Corp's (NASDAQ: MSFT) inserting of ads into AI trials without any opt-out option has irked..."
+    },
+    {
+      "url": "https://biztoc.com/x/898d8de50b79de94",
+      "title": "The generative AI hype bubble runs through Nvidia",
+      "author": "aol.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "This article was first featured in Yahoo Finance Tech, a weekly newsletter highlighting our original content on the industry. Get it sent directly to your inbox every Wednesday. Subscribe.When it com… [+288 chars]",
+      "datetime": "2023-05-31 19:26:49",
+      "urlToImage": "https://c.biztoc.com/p/898d8de50b79de94/og.webp",
+      "description": "This article was first featured in Yahoo Finance Tech, a weekly newsletter highlighting our original content on the industry. Get it sent directly to your inbox every Wednesday. Subscribe. When it comes to AI, it's all about Nvidia Generative AI is the hottes…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/21/2-future-dividend-kings-to-buy-and-hold-today/",
+      "title": "2 Future Dividend Kings to Buy and Hold Today",
+      "author": "newsfeedback@fool.com (David Jagielski)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Investing in dividend growth stocks is a great way to increase your dividend income over the years, even if those stocks don't offer a high yield right now. A company that has a propensity to increas… [+4141 chars]",
+      "datetime": "2023-06-21 12:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736730/a-person-counting-money-in-their-living-room.jpg",
+      "description": "These companies generate so much money that boosting their dividend payments may be a no-brainer for them."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/04/nasdaq-bull-market-here-high-flying-stocks-buy-now/",
+      "title": "A Nasdaq Bull Market Is Here: 3 High-Flying Stocks to Buy Now",
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "A new bull market for the Nasdaq Composite Index has been in sight for several months. The wait is over. In May, the index finally gained more than 20% from its previous bottom, meeting the commonly … [+3211 chars]",
+      "datetime": "2023-06-04 09:51:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734192/bull-silhouette.jpg",
+      "description": "These big AI winners have more room to run."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/tech-companies-ramping-up-ai-efforts-while-cutting-ethics-teams-might-not-be-a-good-look-feds-warn-de74ffce",
+      "title": "Key Words: Tech companies ramping up AI efforts while cutting ethics teams ‘might not be a good look,’ feds warn",
+      "author": "Emily Bary",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "The Federal Trade Commission continued its crusade against deceptive uses of artificial intelligence Monday, suggesting that companies could face trouble by simultaneously misleading customers using … [+336 chars]",
+      "datetime": "2023-05-01 21:40:00",
+      "urlToImage": "https://images.mktw.net/im-773574/social",
+      "description": "FTC’s latest warning about Big Tech’s AI hype comes as companies reportedly scale back teams focused on responsible AI deployments"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/07/is-it-too-late-to-buy-microsoft-stock/",
+      "title": "Is It Too Late to Buy Microsoft Stock?",
+      "author": "newsfeedback@fool.com (Danny Vena)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft (MSFT -2.27%) has been on an epic run so far in 2023, fueled by a continuing resurgence in technology stocks. Shares of the software giant are up nearly 40% so far this year, more than thre… [+4450 chars]",
+      "datetime": "2023-06-07 14:45:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735200/a-smiling-person-on-a-laptop-at-a-kitchen-table-while-someone-brews-tea-in-the-backgroud.jpg",
+      "description": "The enterprise software and PC specialist has started off 2023 with a bang. Could this be just the beginning?"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/10/heres-why-microsoft-stock-jumped-16-in-march/",
+      "title": "Here's Why Microsoft Stock Jumped 16% in March",
+      "author": "newsfeedback@fool.com (Ryan Downie)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nShares of Microsoft(MSFT -0.93%) climbed 15.6% last month, according to data provided by S&amp;P Global Market Intelligence. Investors responded favorably to news related to the compan… [+3300 chars]",
+      "datetime": "2023-04-10 18:18:28",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727739/gettyimages-1129148581.jpg",
+      "description": "Microsoft delivered product updates and good news regarding a merger, while teck stocks rallied in general."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amazon-needs-to-lay-off-more-employees-for-ecommerce-to-become-meaningfully-profitable-analysts-say-f12ed51a",
+      "title": "The Ratings Game: Amazon needs to lay off more employees for ecommerce to become ‘meaningfully profitable,’ analysts say",
+      "author": "Bill Peters",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Even as Amazon.com Inc. sheds thousands of employees, analysts say the online retailer will need to cut even more to lift up margins in its ecommerce business, as profitability per corporate employee… [+1902 chars]",
+      "datetime": "2023-04-06 17:08:00",
+      "urlToImage": "https://images.mktw.net/im-759069/social",
+      "description": "Even as Amazon sheds thousands of employees, one analyst says the online retailer will need to cut even more to lift up margins in its ecommerce business."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/16/if-you-think-the-bull-market-is-back-heres-1-way-t/",
+      "title": "If You Think the Bull Market Is Back, Here's 1 Way to Position Your Portfolio",
+      "author": "newsfeedback@fool.com (Dan Caplinger)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The major U.S. stock market indexes gave back a little ground on Friday, but the session's declines weren't enough to stop the Nasdaq Composite (^IXIC -0.68%), S&amp;P 500 (^GSPC -0.37%), and Dow Jon… [+4240 chars]",
+      "datetime": "2023-06-16 22:23:52",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736681/etf-gettyimages-498612209.jpg",
+      "description": "A broader recovery could help these lagging ETFs outperform."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/microsoft-liable-20m-penalty-violation-151010673.html",
+      "title": "Microsoft Liable To $20M Penalty For Violation Of Childrens' Privacy",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "<li>Microsoft Corp (NASDAQ: MSFT) agreed to pay $20 million to settle the U.S. Federal Trade Commission's charges of user privacy violation by collecting personal information from children who signed… [+1384 chars]",
+      "datetime": "2023-06-06 15:10:10",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/137878f84dd460aed3616ebb0ba6c4cd",
+      "description": "Microsoft Corp (NASDAQ: MSFT) agreed to pay $20 million to settle the U.S. Federal Trade Commission's charges of user privacy violation by collecting..."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/nvidia-barrels-toward-rare-1-trillion-valuation-after-putting-a-dollar-figure-on-ai-boost-443b7d0f",
+      "title": "MarketWatch: Nvidia barrels toward rare $1 trillion valuation after putting a dollar figure on AI boost",
+      "author": "Jeremy C. Owens",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Nvidia Corp. headed toward market-capitalization gains of nearly $200 billion in after-hours trading Wednesday, which could put the chip maker within sight of becoming only the seventh U.S. company t… [+3192 chars]",
+      "datetime": "2023-05-24 22:16:00",
+      "urlToImage": "https://images.mktw.net/im-747436/social",
+      "description": "Nvidia stock is on its way to record highs and could push chip maker to heights previously only seen by Apple, Microsoft, Google, Facebook, Amazon and Tesla"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/02/3-cathie-wood-stocks-that-could-deliver-bigger-gai/",
+      "title": "3 Cathie Wood Stocks That Could Deliver Bigger Gains Than the Market",
+      "author": "newsfeedback@fool.com (Chris Neiger)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Ark Invest co-founder and CEO Cathie Wood is followed closely by investors looking for growth stock ideas. And while not all of her recommendations are spot-on, some great companies she's invested in… [+4607 chars]",
+      "datetime": "2023-06-02 09:15:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734534/gettyimages-1170740969.jpg",
+      "description": "The Ark Invest boss is betting on these artificial intelligence, e-commerce, and electric vehicle stocks."
+    },
+    {
+      "url": "https://biztoc.com/x/329320ea3d5c319c",
+      "title": "Forget FAANG, Meet MANATAM: ‘Magnificent Seven’ Stocks Surging in 2023",
+      "author": "coinspeaker.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "CoinspeakerForget FAANG, Meet MANATAM: Magnificent Seven Stocks Surging in 2023The year 2023 has witnessed a significant shift in the stock market landscape, with a new group of companies dubbed MANA… [+300 chars]",
+      "datetime": "2023-06-20 11:54:05",
+      "urlToImage": "https://c.biztoc.com/p/329320ea3d5c319c/s.webp",
+      "description": "Coinspeaker Forget FAANG, Meet MANATAM: ‘Magnificent Seven’ Stocks Surging in 2023 The year 2023 has witnessed a significant shift in the stock market landscape, with a new group of companies dubbed MANATAM emerging as the driving force behind the market’s im…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/15/why-microsoft-stock-jumped-while-the-market-slumpe/",
+      "title": "Why Microsoft Stock Jumped While the Market Slumped Today",
+      "author": "newsfeedback@fool.com (Eric Volkman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nMicrosoft(MSFT 1.78%) defied gravity on the stock exchange Wednesday, with its share price crawling up by nearly 2% against the S&amp;P 500 index's 0.7% drop. Investors were encouraged… [+1357 chars]",
+      "datetime": "2023-03-15 22:35:45",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/724811/person-using-a-laptop-and-tablet-simultaneously.jpg",
+      "description": "There was some good news in one of the smaller corners of the software powerhouse's business."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/microsoft-reveals-plans-quantum-leap-211431362.html",
+      "title": "Microsoft Reveals Plans for Quantum Leap, Aims to Build Hardware-Protected Qubits in Less Than 10 Years",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Microsoft Corp (NASDAQ: MSFT) revealed its roadmap for building its quantum supercomputer using the topological qubits the companys researchers have worked on for a few years.\r\nThe company believes t… [+2310 chars]",
+      "datetime": "2023-06-21 21:14:31",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/a30e92bd7bd621c702e2d06c26c6e2ff",
+      "description": "Microsoft Corp (NASDAQ: MSFT) revealed its roadmap for building its quantum supercomputer using the topological qubits the company’s researchers have worked ..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/google-accuses-microsoft-cloud-market-203724015.html",
+      "title": "Google Accuses Microsoft of Cloud Market Manipulation: An FTC Complaint Highlights Antitrust Concerns in the US Cloud Industry",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "After years of publicly slamming Microsoft Corp (NASDAQ: MSFT) for allegedly misusing its enterprise software influence, Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) Google on Tuesday formally filed a… [+1483 chars]",
+      "datetime": "2023-06-21 20:37:24",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/a6b1b8bb3030fc11fce5c1370af30de4",
+      "description": "After years of publicly slamming Microsoft Corp (NASDAQ: MSFT) for allegedly misusing its enterprise software influence, Alphabet Inc (NASDAQ: GOOG) (NASDAQ:..."
+    },
+    {
+      "url": "https://appleinsider.com/articles/23/03/22/microsofts-iphone-app-store-plan-is-limited-threat-to-apple-for-now",
+      "title": "Microsoft's iPhone App Store plan is limited threat to Apple, for now",
+      "author": "news@appleinsider.com (William Gallagher)",
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nMorgan Stanley analysts say that a potential Microsoft iPhone app store would initially have only a small i… [+2328 chars]",
+      "datetime": "2023-03-22 15:04:37",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/53548-107581-42818-83200-Microsoft-Header-xl-xl.jpg",
+      "description": "Morgan Stanley analysts say that a potential Microsoft iPhone app store would initially have only a small impact on Apple if it ever launches — but it's a potentially strong competitor in the longer term.Microsoft gaming chief Phil Spencer recently announced …"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/11/where-to-invest-5000-for-the-next-5-years/",
+      "title": "Where to Invest $5,000 for the Next 5 Years",
+      "author": "newsfeedback@fool.com (David Moadel)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "With $5,000 being a decent-sized chunk of change, some investors may be reluctant to bet it all on a single company. Yet, there's one company that's likely to continue growing and evolving over the n… [+3261 chars]",
+      "datetime": "2023-06-11 09:05:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735529/artificial-intelligence-ai-machine-learning-microsoft-msft-stock.jpg",
+      "description": "There's no need for investors to predict the future of AI when Microsoft is constantly ahead of the curve."
+    },
+    {
+      "url": "https://biztoc.com/x/c164031db1cf5fd0",
+      "title": "Can IonQ Be the Leader in Quantum Computing as a Service?",
+      "author": "marketbeat.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Quantum computing has become a reality as more applications materialize. The viral growth of artificial intelligence (AI) applications driven by the AI battle between Alphabet Inc. NASDAQ: GOOGL, Goo… [+295 chars]",
+      "datetime": "2023-05-23 11:42:12",
+      "urlToImage": "https://c.biztoc.com/p/c164031db1cf5fd0/og.webp",
+      "description": "Quantum computing has become a reality as more applications materialize. The viral growth of artificial intelligence (AI) applications driven by the AI battle between Alphabet Inc. NASDAQ: GOOGL, Google Bard AI and Microsoft Co. NASDAQ: MSFT and Open.ai. Chat…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/02/what-does-microsoft-past-say-about-nvidia-future/",
+      "title": "What Does Microsoft's Past Say About Nvidia's Future?",
+      "author": "newsfeedback@fool.com (Justin Pope)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "It's been said that history doesn't repeat, but it often rhymes. There has been excitement around several major innovations throughout history, such as the dot-com bubble in 2000, when the internet's… [+3654 chars]",
+      "datetime": "2023-06-02 09:22:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734170/stock-market-down-white-arrows-on-red-background.jpg",
+      "description": "This a cautionary tale for those chasing Nvidia's hot stock."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/20/beyond-semiconductors-how-cloud-service-providers/",
+      "title": "Beyond Semiconductors: How Cloud Service Providers Could Win Big in the AI Battle",
+      "author": "newsfeedback@fool.com (Jose Najarro, Nicholas Rossolillo, and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Amazon (AMZN -1.72%), Microsoft (MSFT -1.71%), and Alphabet (GOOGL -0.71%)(GOOG -0.75%) have all announced recent AI updates as technology continues to advance at a fast pace. Check out the short vid… [+280 chars]",
+      "datetime": "2023-03-20 13:41:17",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725183/copy-of-jose-najarro-2023-03-19t000949039.png",
+      "description": "The top three cloud service providers are bringing AI solutions to developers, which could mean a boost in revenue thanks to the consumption-based business model."
+    },
+    {
+      "url": "https://www.forbes.com/sites/michaelfoster/2023/06/13/a-cheap-fund-that-turns-ai-hype-into-10-dividends/",
+      "title": "A Cheap Fund That Turns AI Hype Into 10% Dividends",
+      "author": "Michael Foster, Contributor, \n Michael Foster, Contributor\n https://www.forbes.com/sites/michaelfoster/",
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "content": "AI, Machine learning, robot hand ai artificial intelligence assistance human touching on big data ... [+] network connection background, Science artificial intelligence technology, innovation and fut… [+4115 chars]",
+      "datetime": "2023-06-13 12:45:00",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6482369c8efc5ebd7230c0b0/0x0.jpg?format=jpg&width=1200",
+      "description": "Few folks know it, but there’s a way to tap the surging AI trend for a growing 10% dividend. Better still, this monster “AI-powered payout” comes our way monthly."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/investors-should-put-more-money-in-gold-and-cash-as-rally-in-stocks-wont-last-top-jpmorgan-analyst-says-e5fce3bb",
+      "title": "The Tell: Investors should put more money in gold and cash as rally in stocks won’t last, top JPMorgan analyst says",
+      "author": "Joseph Adinolfi",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "A top JPMorgan Chase &amp; Co. analyst who has been warning clients to stay away from stocks all year is doubling down and advising them to increase their allocations to cash and gold. JPMorgan Chief… [+2429 chars]",
+      "datetime": "2023-05-23 14:45:00",
+      "urlToImage": "https://images.mktw.net/im-762759/social",
+      "description": "A top JPMorgan Chase & Co. analyst who has been warning clients to stay away from stocks all year is doubling down and advising them to increase their allocations to cash and gold."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/15/how-nvidia-could-become-the-biggest-company-in-the/",
+      "title": "How Nvidia Could Become the Biggest Company in the World in a Decade",
+      "author": "newsfeedback@fool.com (Keith Noonan)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "When Nvidia(NVDA 4.81%) published its first-quarter results at the end of May, the company's performance and forward guidance sent shockwaves through the investing world. The average analyst estimate… [+5228 chars]",
+      "datetime": "2023-06-15 10:36:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735456/abstract-bull-climbing-stocks.jpg",
+      "description": "Nvidia appears to be in the early stages of another massive business transformation."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/07/why-take-two-interactive-softwares-shares-rose-on/",
+      "title": "Why Take-Two Interactive Software's Shares Rose on Tuesday",
+      "author": "newsfeedback@fool.com (Travis Hoium)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nIt's been a rough year for Take-Two Interactive(TTWO 1.58%), whose stock is down 25.9% in the last 12 months. But shares had a nice recovery on Tuesday, climbing as much as 3.2% in tra… [+1224 chars]",
+      "datetime": "2023-03-07 17:26:41",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/723733/person-preparing-to-play-video-games.jpg",
+      "description": "Did a buyout become a little more likely today?"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/06/dow-stocks-microsoft-apple-disney-verizon-buy-sell/",
+      "title": "Dow Stocks Like Microsoft, Apple, Disney, and Verizon Reveal Two Sides of the Market",
+      "author": "newsfeedback@fool.com (Daniel Foelber)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "After a brutal 2022, the stock market is roaring in 2023, with the Nasdaq Composite up 26% and the S&amp;P 500 up 11% year to date (YTD) at the time of this writing. Yet dig deeper and you'll find so… [+9982 chars]",
+      "datetime": "2023-06-06 13:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734317/gettyimages-469382396.jpg",
+      "description": "Many well-known stocks are missing out on the market's epic 2023 rally."
+    },
+    {
+      "url": "https://biztoc.com/x/1aa0756f09aa1de7",
+      "title": "Nvidia touches $1 trillion market cap as chipmaker rides AI wave",
+      "author": "aol.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "became the first chipmaker to ever hit a $1 trillion market valuation on Tuesday, before dipping back below the threshold. Nvidia's stock rose more than 5% during the session, but gave back some of t… [+284 chars]",
+      "datetime": "2023-05-31 19:26:54",
+      "urlToImage": "https://c.biztoc.com/p/1aa0756f09aa1de7/og.webp",
+      "description": "became the first chipmaker to ever hit a $1 trillion market valuation on Tuesday, before dipping back below the threshold. Nvidia's stock rose more than 5% during the session, but gave back some of those gains in the afternoon. The stock closed at $401.11, gi…"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/when-employees-are-an-employers-no-1-priority-workers-managers-and-shareholders-all-benefit-450b41aa",
+      "title": "Outside the Box: When employees are an employer’s No. 1 priority, workers, managers and shareholders all benefit.",
+      "author": "Alison Omens",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "The deep uncertainty that the COVID pandemic created in the workforce hasnt waned. U.S. workers are struggling with inflation, burnout, and fresh waves of layoffs. This comes as people expect more fr… [+4064 chars]",
+      "datetime": "2023-04-10 11:20:00",
+      "urlToImage": "https://images.mktw.net/im-465892/social",
+      "description": "An index of 100 publicly traded companies  that focus on workplace issues has outperformed the Russell 1000."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/24/nvidia-has-had-numerous-updates-before-earnings-he/",
+      "title": "Nvidia Has Had Numerous Updates Before Earnings -- Here Is What Investors Should Know",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Nvidia (NVDA -1.57%) has announced numerous updates with big tech players like Microsoft (MSFT -1.84%), ServiceNow (NOW -2.20%), and Dell Technologies(DELL -2.50%). Want to learn more about Nvidia's … [+224 chars]",
+      "datetime": "2023-05-24 10:41:37",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/733731/jose-najarro-2023-05-23t163827852.png",
+      "description": "Nvidia continues to hold the crown in this AI market, but is it enough to impress investors?"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/biden-administration-considers-crack-down-on-ai-tools-such-as-chatgpt-fdd2a77",
+      "title": ": Biden administration considers crack down on AI tools such as ChatGPT",
+      "author": "Jon Swartz",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "The Biden administration is edging toward rules on artificial-intelligence tools such as ChatGPT over fears the technology could be used to spread falsehoods and discrimination.On Tuesday, the Commer… [+1103 chars]",
+      "datetime": "2023-04-11 16:06:00",
+      "urlToImage": "https://images.mktw.net/im-737082/social",
+      "description": "The Biden administration is edging toward rules on AI tools such as ChatGPT over fears the technology could be used to spread falsehoods and discrimination."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/24/expect-a-roaring-sp-500-bull-market-here-are-the-1/",
+      "title": "Expect a Roaring S&P 500 Bull Market? Here Are the 10 Stocks You'll Want to Own",
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Is a new bull market here for the S&amp;P 500? It depends on whom you ask. \r\nYes, the index has jumped more than 20% above its previous bear market low. That's enough to qualify as a new bull market … [+4380 chars]",
+      "datetime": "2023-06-24 09:50:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736691/happy-woman-because-the-stock-market-went-up.jpg",
+      "description": "These stocks are the S&P 500's heavyweight champions."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/28/how-meta-google-and-microsofts-updated-capex-plans/",
+      "title": "How Meta, Google, and Microsoft's Updated Capex Plans May Boost the Semiconductor Market",
+      "author": "newsfeedback@fool.com (Jose Najarro, Nicholas Rossolillo, and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Explore the impact of big tech's capital expenditure (capex) plans on the semiconductor market as Meta Platforms (META -0.03%), Google (GOOGL -1.25%)(GOOG -0.78%), and Microsoft(MSFT 1.11%) invest in… [+323 chars]",
+      "datetime": "2023-04-28 14:43:18",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/730012/copy-of-jose-najarro-2023-04-28t102108364.png",
+      "description": "Big tech companies like Meta, Microsoft, and Alphabet have shared how AI investments might affect this year's capital expenditures."
+    },
+    {
+      "url": "https://biztoc.com/x/a140b47811a08f87",
+      "title": "Don't Be in a Rush to Buy Microsoft Stock",
+      "author": "thestreet.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "has been retreating from a higher opening. This pullback is looking like a top reversal pattern on the Japanese candlestick chart. Let's check.In this daily Japanese candlestick chart of MSFT, below,… [+235 chars]",
+      "datetime": "2023-03-18 08:02:04",
+      "urlToImage": "https://c.biztoc.com/p/a140b47811a08f87/og.webp",
+      "description": "has been retreating from a higher opening. This pullback is looking like a top reversal pattern on the Japanese candlestick chart. Let's check. In this daily Japanese candlestick chart of MSFT, below, the most recent candle pattern is likely to be a graveston…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/13/3-reasons-im-not-celebrating-a-new-bull-market/",
+      "title": "3 Simple Reasons Why I'm Not Celebrating a New Bull Market",
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Happy days are here again. That could be what some investors are singing, with the S&amp;P 500 rising more than 20% below the low set on Oct. 12, 2022. \r\nMany are cheering that the S&amp;P is at long… [+3563 chars]",
+      "datetime": "2023-06-13 09:50:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735885/bull-and-bear-on-a-die.jpg",
+      "description": "I'm still bullish about stocks even if the S&P 500 isn't in a bull market."
+    },
+    {
+      "url": "https://biztoc.com/x/a617b732b3639a86",
+      "title": "Jim Cramer Loves This Tech Company, Calls Its Performance 'Unbelievable'",
+      "author": "thestreet.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "It might be one to watch (despite the headlines this morning).Pundits like Jim Cramer are usually pretty bullish when a company with a bunch of cash like Microsoft (MSFT) - Get Free Report uses the m… [+287 chars]",
+      "datetime": "2023-04-26 16:14:28",
+      "urlToImage": "https://c.biztoc.com/p/a617b732b3639a86/og.webp",
+      "description": "It might be one to watch (despite the headlines this morning). Pundits like Jim Cramer are usually pretty bullish when a company with a bunch of cash like Microsoft (MSFT) - Get Free Report uses the money to acquire profitable properties. But Cramer was so im…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/10/1-way-you-can-invest-in-openai/",
+      "title": "1 Way You Can Invest in OpenAI",
+      "author": "newsfeedback@fool.com (Travis Hoium)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "OpenAI is the talk of the tech industry, and it's starting to be deployed by companies like Shopify, Snap, and Microsoft(MSFT -0.54%). But only one company has a large ownership stake in OpenAI, and … [+297 chars]",
+      "datetime": "2023-03-10 12:45:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/723936/buy-openai.png",
+      "description": "Microsoft has big upside potential in OpenAI."
+    },
+    {
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAzLTE3L2JhbmstdHVybW9pbC1oZWxwcy1zcHVyLTUwMC1iaWxsaW9uLWFkdmFuY2UtaW4tYmlnLXRlY2gtc3RvY2tz0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "title": "Big Tech Stocks (MSFT, AAPl, AMZN) Advance in Week of Bank ... - Bloomberg",
+      "author": null,
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]",
+      "datetime": "2023-03-17 17:28:02",
+      "urlToImage": null,
+      "description": "Big Tech Stocks (MSFT, AAPl, AMZN) Advance in Week of Bank ...  Bloomberg"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/hold-microsoft-corporation-msft-060359121.html",
+      "title": "Should You Hold Microsoft Corporation (MSFT)?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Diamond Hill Capital, an investment management company, released its Large Cap Concentrated Strategy fourth-quarter 2022 investor letter. A copy of the same can be downloaded here. In the fourth quar… [+2189 chars]",
+      "datetime": "2023-03-27 06:03:59",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/52d1772a91e0b074c5496ca25de5811e",
+      "description": "Diamond Hill Capital, an investment management company, released its “Large Cap Concentrated Strategy” fourth-quarter 2022 investor letter. A copy of the..."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/24/do-big-techs-custom-chips-pose-a-threat-to-nvidia/",
+      "title": "Do Big Tech's Custom Chips Pose a Threat to Nvidia Shareholders?",
+      "author": "newsfeedback@fool.com (Jose Najarro, Nicholas Rossolillo, and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Do Microsoft (MSFT -0.12%) and Nvidia (NVDA 0.06%) chips stand on equal ground, or does each have unique strengths and weaknesses? Check out the short video to learn what semiconductor investors Jose… [+235 chars]",
+      "datetime": "2023-04-24 13:24:22",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729293/copy-of-jose-najarro-2023-04-23t015626410.png",
+      "description": "In designing its own AI accelerators, Microsoft joins the list of big techs working on their custom chip designs."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/01/3-top-gaming-stocks-to-buy-in-june/",
+      "title": "3 Top Gaming Stocks to Buy in June",
+      "author": "newsfeedback@fool.com (Dani Cook)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Revenue for the video games market is projected to hit $385 billion this year and continue expanding at a compound annual rate of 8% through 2027, according to the forecasters at Statista. While its … [+4860 chars]",
+      "datetime": "2023-06-01 09:38:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734495/video-games-family-fun-play-happy.jpg",
+      "description": "These companies' lucrative positions in gaming make them reliable long-term investments."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/the-era-of-free-social-media-may-be-at-an-end-fad244dd",
+      "title": "Therese Poletti's Tech Tales: The era of free social media may be at an end",
+      "author": "Therese Poletti",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "With tech giants under the gun to ramp up revenue and reduce costs, the era of free social media may be at an end. In the past few months, as overall internet advertising revenue has tumbled, both Tw… [+5446 chars]",
+      "datetime": "2023-04-13 12:30:00",
+      "urlToImage": "https://images.mktw.net/im-762659/social",
+      "description": "As social media companies start to charge certain subscriptions to make up for lost ad revenue, consumers will be the losers."
+    },
+    {
+      "url": "https://www.fool.com/terms/a/amazon-bedrock/",
+      "title": "What Is Amazon Bedrock?",
+      "author": "newsfeedback@fool.com (Adam Levy)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Amazon (AMZN -1.55%) Bedrock is a service for building generative AI applications on Amazons cloud computing platform. Generative AI applications like Chat-GPT from OpenAI and Stability AIs Stable Di… [+4712 chars]",
+      "datetime": "2023-06-26 19:33:30",
+      "urlToImage": "https://m.foolcdn.com/media/dubs/images/what-is-amazon-bedrock-infographic.width-600.png",
+      "description": "Amazon Bedrock is a service for building generative AI applications on Amazon’s cloud computing platform, Amazon Web Services."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/03/microsoft-tesla-amazon-110-sp-500-ai-2-stocks-buy/",
+      "title": "Microsoft, Tesla, and Amazon Are Among 110 S&P 500 Companies Discussing AI -- 2 Other AI Stocks to Buy Hand Over Fist",
+      "author": "newsfeedback@fool.com (Anthony Di Pizio)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Each quarter, publicly traded companies issue an update to investors featuring their latest financial results and operational milestones. An analysis of the most recent quarter (ended March 31) showe… [+5729 chars]",
+      "datetime": "2023-06-03 12:20:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734657/two-halves-of-a-digital-brain-connected-by-an-ai-chip-in-the-centre.jpg",
+      "description": "Artificial intelligence was a hot topic when companies addressed investors on their most recent earnings calls."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/19/is-the-bear-market-over-big-tech-already-told-you/",
+      "title": "Is the Bear Market Over? Big Tech Already Told You the Answer",
+      "author": "newsfeedback@fool.com (Jeremy Bowman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "All three major indices are now up more than 20% from their bear market lows, leading some pundits to declare a new bull market is in the air. While \"bull market\" is as much a term of art as a hard i… [+3901 chars]",
+      "datetime": "2023-06-19 13:02:56",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736243/bull-silhouette.jpg",
+      "description": "Big tech stocks are surging. Here's what that means for the rest of the market."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/21/microsoft-and-googles-ai-battle-continues-more-upd/",
+      "title": "Microsoft and Google's AI Battle Continues: More Updates for Investors",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft's (MSFT 0.31%) OpenAI investment seems as if it might start paying off sooner than expected with the recent announcement that Nuance is integrating ChatGPT-4 into its healthcare solutions, … [+303 chars]",
+      "datetime": "2023-03-21 13:37:38",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725369/jose-najarro-2023-03-20t164601059.png",
+      "description": "Nuance announced that it would use Microsoft's AI solutions for its healthcare products, and Midjourney, a popular AI image generator, announced a partnership with Google."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/15/what-amazon-microsoft-and-oracle-investors-should/",
+      "title": "What Amazon, Microsoft, and Oracle Investors Should Know About Recent AI and Cloud Advances",
+      "author": "newsfeedback@fool.com (Jose Najarro and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Amazon's (AMZN -0.64%) AWS and Microsoft (MSFT 2.27%) are bringing new solutions to the U.S. government, and Oracle (ORCL 2.08%) is investing in generative artificial intelligence. Check out the shor… [+261 chars]",
+      "datetime": "2023-06-15 14:49:46",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736462/copy-of-jose-najarro-2023-06-15t094220426.png",
+      "description": "Microsoft is bringing OpenAI's ChatGPT to the U.S. government."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/26/2-dividend-stocks-for-the-next-decade/",
+      "title": "2 Dividend Stocks for the Next Decade",
+      "author": "newsfeedback@fool.com (Mark Roussin, CPA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Dividend growth stocks with low payout ratios and sustainable cash flows are among some of the best stocks to invest in if you are looking to build passive income by utilizing the power of compoundin… [+322 chars]",
+      "datetime": "2023-05-26 11:47:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734045/youtube-thumbnails-40.png",
+      "description": "Both of these dividend stocks pay safe, growing dividends."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/08/microsofts-stock-is-near-its-all-time-high-is-it-s/",
+      "title": "Microsoft's Stock Is Near Its All-Time High: Is It Still a Good Buy?",
+      "author": "newsfeedback@fool.com (David Jagielski)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Not since the hype in 2021 have tech stocks been this hot. ChatGPT lit a fuse under anything tech-related and any company involved with artificial intelligence (AI). Microsoft (MSFT -3.09%), the comp… [+3911 chars]",
+      "datetime": "2023-06-08 10:10:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735030/person-working-at-a-computer.jpg",
+      "description": "Will Microsoft's stock run out of steam this year?"
+    },
+    {
+      "url": "https://it.srad.jp/story/23/06/14/2116241/",
+      "title": "Windows 10 Home / Pro バージョン 21H2、サービス終了",
+      "author": "nagazou",
+      "source": {
+        "id": null,
+        "name": "Srad.jp"
+      },
+      "content": "Windows 10 Home / Pro / Pro Education / Pro for Workstation 13 21H2 \r\n(Windows message centerNeowin BetaNews On MSFT )\r\n21H2 6 22H2 Windows 11 22H2 \r\nWindows 10 22H2 Windows 10 2025 10 14 Home / Pro … [+51 chars]",
+      "datetime": "2023-06-15 21:54:00",
+      "urlToImage": "https://srad.jp/static/topics/windows_64.png",
+      "description": "headless 曰く、Windows 10 Home / Pro / Pro Education / Pro for Workstation の各エディションで 13 日、バージョン 21H2 のサービスが終了した\n(Windows message center、\nNeowin の記事、\nBetaNews の記事、\nOn MSFT の記事)。\n\nこれらのエディションに提供されるバージョン 21H2 のセキュリティ更新プログラムは 6 月の月例更新が最後であり、バージョン 22H2 または対応環境であれば Win…"
+    },
+    {
+      "url": "https://biztoc.com/x/9d0a0dabe28bed28",
+      "title": "Stocks reverse losses in week's final trading session: Stock market news today",
+      "author": "yahoo.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Stocks on Friday were mixed as investors look to cap a topsy-turvy week with a rush of earnings from big tech giants like Microsoft (MSFT), Alphabet (GOOGL), Meta Platforms (META), and Amazon (AMZN) … [+295 chars]",
+      "datetime": "2023-04-28 16:14:03",
+      "urlToImage": "https://c.biztoc.com/p/9d0a0dabe28bed28/og.webp",
+      "description": "Stocks on Friday were mixed as investors look to cap a topsy-turvy week with a rush of earnings from big tech giants like Microsoft (MSFT), Alphabet (GOOGL), Meta Platforms (META), and Amazon (AMZN) holding investor attention. Through Thursday's close, the S&…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/14/5-forever-dividend-stocks/",
+      "title": "5 Forever Dividend Stocks",
+      "author": "newsfeedback@fool.com (Mark Roussin, CPA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "All five of these dividend stocks are of the highest quality and they have a long track record of growing their dividend payouts. Two of the stocks are Dividend Kings and two have a AAA credit rating… [+279 chars]",
+      "datetime": "2023-03-14 11:00:30",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/724535/youtube-thumbnails-9.png",
+      "description": "These five dividend stocks make it a priority to return money to shareholders."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/20/why-microsoft-amazon-and-shopify-all-fell-on-monda/",
+      "title": "Why Microsoft, Amazon and Shopify All Fell on Monday",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In this video, I will explain why Amazon(AMZN -1.25%), Microsoft(MSFT -2.58%), and Shopify(SHOP -1.79%) all fell on Monday while the broader market was green. \r\n*Stock prices used were from the tradi… [+67 chars]",
+      "datetime": "2023-03-20 22:53:35",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725319/what-happened.png",
+      "description": "Tech jitters have eased over the past few weeks but they have not disappeared completely."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/openai-google-adobe-talks-media-202037479.html",
+      "title": "OpenAI, Google, and Adobe in Talks with Media Outlets for AI Training Content Subscription Deals",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "OpenAI, Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) Google, Microsoft Corp (NASDAQ: MSFT), and Adobe Inc (NASDAQ: ADBE) discussed with leading media outlets to forge deals over the use of news conten… [+1771 chars]",
+      "datetime": "2023-06-16 20:20:37",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/ae82913cbb5d3feb705d2e538e6a9406",
+      "description": "OpenAI, Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) Google, Microsoft Corp (NASDAQ: MSFT), and Adobe Inc (NASDAQ: ADBE) discussed with leading media outlets ..."
+    },
+    {
+      "url": "https://it.srad.jp/story/23/04/29/0217234/",
+      "title": "Microsoft Edge、デフォルトでほぼすべてのアクセス先URLをBing APIに送信",
+      "author": "headless",
+      "source": {
+        "id": null,
+        "name": "Srad.jp"
+      },
+      "content": "Microsoft Edge URL Bing API \r\n(The Verge Neowin On MSFT )bingapis.com Reddit 112.0.1722.34 \r\nThe Verge Bing API URL URL The Verge Rafael Rivera \r\nBing API Microsoft Edge Microsoft Edge Microsoft",
+      "datetime": "2023-04-29 02:39:00",
+      "urlToImage": "https://srad.jp/static/topics/privacy_64.png",
+      "description": "Microsoft Edge ではコンテンツ作成者のフォロー機能を利用できるが、この機能がアクセス先ほぼすべてのフル URL をデフォルトで Bing API に送信しているようだ\n(The Verge の記事、\nNeowin の記事、\nOn MSFT の記事)。\n\n問題が発生しているのはフォロー可能なコンテンツ作成者を特定するため、ウェブページへのアクセスを bingapis.com に送信する機能だ。Reddit ユーザーが発見したところによれば、以前のバージョンでは特定ドメインまたはページに限って送信されて…"
+    },
+    {
+      "url": "https://www.theregister.com/2023/04/27/hyve_joins_cispe_microsoft/",
+      "title": "Another cloud provider runs to shelter from Microsoft's licensing practices",
+      "author": "Paul Kunert",
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "content": "A cloud group pressing the European Commission to address Microsoft's software licensing practices has snagged its first British member.\r\nHyve Managed Hosting is joining the Cloud Infrastructure Serv… [+2701 chars]",
+      "datetime": "2023-04-27 10:36:04",
+      "urlToImage": "https://regmedia.co.uk/2017/10/13/eurocloud_shutterstock.jpg",
+      "description": "First British biz joins Cloud Infrastructure Services Providers\nA cloud group pressing the European Commission to address Microsoft's software licensing practices has snagged its first British member.…"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/when-russia-was-nvidia-why-you-shouldnt-chase-the-stock-market-darlings-83e56583",
+      "title": "Brett Arends's ROI: When Russia was NVIDIA — why you shouldn’t chase the stock-market darlings",
+      "author": "Brett Arends",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Nvidia \r\n NVDA,\r\n +0.17%\r\nis probably the hottest stock on Wall Street. The computer chip giant has nearly tripled in value so far this year, mainly on surging excitement about the role its chips wil… [+4918 chars]",
+      "datetime": "2023-06-27 14:14:00",
+      "urlToImage": "https://images.mktw.net/im-807207/social",
+      "description": "And the 'BRICs' were the Magnificent Seven"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/26/is-microsoft-stock-a-buy/",
+      "title": "Is Microsoft Stock a Buy?",
+      "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft(MSFT -1.38%) stock recently set a new all-time high, eclipsing the record that shares reached just before markets started tanking in early 2022. The stock is up over 40% so far in 2023. Alo… [+3230 chars]",
+      "datetime": "2023-06-26 09:05:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736890/bearded-person-at-desk-by-computer-taking-notes.jpg",
+      "description": "The tech giant looks attractive as a long-term investment."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/26/3-reasons-microsofts-earnings-spells-confidence-fo/",
+      "title": "3 Reasons Microsoft's Earnings Spell Confidence for Investors",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft's (MSFT 7.24%) cloud market continues to show massive opportunity for this tech giant, but is that all investors should be excited about? Check out the short video to learn more, consider s… [+155 chars]",
+      "datetime": "2023-04-26 20:44:06",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729695/jose-najarro-2023-04-26t125412864.png",
+      "description": "Microsoft continues to grow its market share in its search engine and website browser platforms."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/16/is-microsoft-stock-a-buy/",
+      "title": "Is Microsoft Stock a Buy?",
+      "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Investors have modest expectations for Microsoft(MSFT -1.28%) in 2023. The tech giant is on track to grow sales and earnings just slightly, according to most Wall Street pros, after big gains over th… [+3097 chars]",
+      "datetime": "2023-04-16 11:34:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727194/bearded-person-at-desk-by-computer-taking-notes.jpg",
+      "description": "The tech giant's growth hit a wall in the most recent quarter."
+    },
+    {
+      "url": "https://biztoc.com/x/a9d62b2041d8c678",
+      "title": "Federal court grants FTC's request to temporarily block Microsoft-Activision tie up",
+      "author": "aol.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Microsofts (MSFT) planned acquisition of Call of Duty maker Activision Blizzard (ATVI) hit another snag on Tuesday as a federal district court judge in California granted the US Federal Trade Commiss… [+283 chars]",
+      "datetime": "2023-06-14 15:32:06",
+      "urlToImage": "https://c.biztoc.com/p/a9d62b2041d8c678/s.webp",
+      "description": "Microsoft’s (MSFT) planned acquisition of “Call of Duty” maker Activision Blizzard (ATVI) hit another snag on Tuesday as a federal district court judge in California granted the US Federal Trade Commission’s request to temporarily block the deal from closing.…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/06/3-top-artificial-intelligence-stocks-to-buy/",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in June",
+      "author": "newsfeedback@fool.com (Joe Tenebruso)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The era of artificial intelligence (AI) has begun. AI is set to disrupt enormous markets, while creating entirely new industries and turbocharging others. It will be the worst of times for some -- an… [+4002 chars]",
+      "datetime": "2023-06-06 09:22:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735016/artificial-intellegence-ai-gettyimages-1345658982.jpg",
+      "description": "Here's how to invest in AI safely and profitably."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/18/3-artificial-intelligence-stocks-you-can-buy-and/",
+      "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "author": "newsfeedback@fool.com (Chris Neiger)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The artificial intelligence (AI) market is heating up, and some have estimated that AI-powered services could reach a staggering value of $14 trillion by 2030. The technology's capabilities are alrea… [+4832 chars]",
+      "datetime": "2023-06-18 12:15:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736374/artificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg",
+      "description": "The AI market is moving fast, and these companies will easily keep pace in the coming years."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/microsoft-exec-cashes-out-of-4-4-million-in-stock-b454b5e9",
+      "title": ": Microsoft exec cashes out of $4.4 million in stock",
+      "author": "Emily Bary",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Another Microsoft Corp. executive has been selling stock on the heels of a strong recent run. Chris Capossela, the companys chief marketing officer, sold $2.85 million worth of stock this week throug… [+1486 chars]",
+      "datetime": "2023-05-11 20:58:00",
+      "urlToImage": "https://images.mktw.net/im-780300/social",
+      "description": "Another Microsoft Corp. executive has been selling stock on the heels of a strong recent run."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/11/better-ai-stock-adobe-vs-microsoft/",
+      "title": "Better AI Stock: Adobe vs. Microsoft",
+      "author": "newsfeedback@fool.com (Leo Sun)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Adobe(ADBE 3.41%) and Microsoft(MSFT 0.47%) are both often considered blue chip tech stalwarts instead of exciting growth stocks. Yet both of these tech giants are also plugged into the secular growt… [+4953 chars]",
+      "datetime": "2023-06-11 17:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735796/ai-robots-office.jpg",
+      "description": "Which of these tech giants is the better AI play?"
+    },
+    {
+      "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-time-to-sell-three-of-the-index-10-best-stocks-says-morningstar/",
+      "title": "It's Time To Sell 3 Of The S&P 500's 10 Best Stocks, Says Morningstar",
+      "author": "Investor's Business Daily",
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "content": "Just 10 stocks are doing all the lifting on the S&amp;P 500 this year. But it's looking like too much of a good thing: Now three of them are overvalued, Morningstar says.\r\nXApple (AAPL), Nvidia (NVDA… [+3564 chars]",
+      "datetime": "2023-06-06 12:00:04",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2023/05/Stock-cashgrab-01-adobe.jpg",
+      "description": "Just 10 stocks are entirely pushing the S&P 500 up this year."
+    },
+    {
+      "url": "https://biztoc.com/x/89c63e38c294c131",
+      "title": "C3.ai stock plummets after Q1 earnings beat expectations",
+      "author": "yahoo.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Artificial intelligence software developer C3.ai (AI) reported its fourth quarter earnings after the bell on Wednesday, beating expectations on the top and bottom lines as the AI wave continues to sh… [+274 chars]",
+      "datetime": "2023-05-31 22:02:06",
+      "urlToImage": "https://c.biztoc.com/p/89c63e38c294c131/og.webp",
+      "description": "Artificial intelligence software developer C3.ai (AI) reported its fourth quarter earnings after the bell on Wednesday, beating expectations on the top and bottom lines as the AI wave continues to shake up Wall Street and the tech industry. Despite that, shar…"
+    },
+    {
+      "url": "https://biztoc.com/x/fc8b3ccff462fef1",
+      "title": "EU Antitrust Regulators To Approve Microsoft's $69B Activision Acquisition Later This Month: Report",
+      "author": "benzinga.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Microsoft Corp.'s MSFT proposed $68.7-billion acquisition of Activision Blizzard Inc. ATVI is set to receive approval from EU antitrust regulators next week, sources familiar with the matter told Reu… [+310 chars]",
+      "datetime": "2023-05-10 17:58:05",
+      "urlToImage": "https://c.biztoc.com/p/fc8b3ccff462fef1/og.webp",
+      "description": "Microsoft Corp.'s MSFT proposed $68.7-billion acquisition of Activision Blizzard Inc. ATVI is set to receive approval from EU antitrust regulators next week, sources familiar with the matter told Reuters. Insiders told Reuters the green light for the deal wil…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/23/sam-altman-ai-30-times-productive-2-stocks-buy/",
+      "title": "Sam Altman Says AI Will Make Businesses 30 Times More Productive: 2 Stocks Investors Will Want to Buy",
+      "author": "newsfeedback@fool.com (Anthony Di Pizio)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Sam Altman is the co-founder of OpenAI, the company responsible for developing ChatGPT. The online chatbot has taken the technology world by storm this year with its ability to answer complex questio… [+4664 chars]",
+      "datetime": "2023-06-23 10:32:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736918/two-halves-of-a-digital-brain-connected-by-an-ai-chip-in-the-centre.jpg",
+      "description": "The OpenAI co-founder says some businesses have already doubled their productivity thanks to AI."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/21/microsoft-and-alphabet-the-ai-battle-continues/",
+      "title": "Microsoft and Alphabet: The AI Battle Continues",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In this video, I will talk about Alphabet(GOOGL 0.12%)(GOOG 0.24%) and Microsoft (MSFT -0.31%), what both companies have been up to this week with regard to developments in artificial intelligence (A… [+168 chars]",
+      "datetime": "2023-04-21 16:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729096/googl.png",
+      "description": "Both companies are charging forward in the AI race."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/cathie-woods-internet-fund-make-its-first-microsoft-purchase-edafe7a",
+      "title": ": Cathie Wood’s internet fund make its first Microsoft purchase",
+      "author": "Steve Goldstein",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Cathie Wood on Monday bought a stock she doesnt trade very much Microsoft \r\n MSFT,\r\n -2.58%\r\n.The ARK Next Generation Internet ETF \r\n ARKW,\r\n -0.88%\r\nbought $11 million worth of Microsoft, selling th… [+720 chars]",
+      "datetime": "2023-03-21 07:52:00",
+      "urlToImage": "https://images.mktw.net/im-745473/social",
+      "description": "Cathie Wood on Monday bought a stock she doesn't trade very much -- Microsoft."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/04/2-cybersecurity-stocks-you-can-buy-and-hold-for-th/",
+      "title": "2 Cybersecurity Stocks You Can Buy and Hold for the Next Decade",
+      "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "One of the biggest risks for tech investors is how quickly trends can shift in the industry. That factor makes it unusually hard to determine which businesses can reliably boost earnings for a decade… [+2944 chars]",
+      "datetime": "2023-03-04 11:46:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/721795/bearded-person-at-desk-by-computer-taking-notes.jpg",
+      "description": "Patience will be rewarded for owners of these high-performing businesses."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/01/better-buy-amazon-vs-microsoft/",
+      "title": "Better Buy: Amazon Stock vs. Microsoft Stock",
+      "author": "newsfeedback@fool.com (Dani Cook)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "As a race to the top of the artificial intelligence (AI) market heats up, multiple companies have been pitted against each other. Cloud companies have become particularly competitive as they increasi… [+3966 chars]",
+      "datetime": "2023-06-01 14:30:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734503/cloud-computing-team-business.jpg",
+      "description": "These companies are worth a closer look, thanks to their AI and cloud market prospects."
+    },
+    {
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyMy8wNi8xMi9mdGMtcmVwb3J0ZWRseS1zZWVrcy1pbmp1bmN0aW9uLXRvLXN0b3AtbWljcm9zb2Z0cy1hY3RpdmlzaW9uLWJsaXp6YXJkLWRlYWwv0gFyaHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDIzLzA2LzEyL2Z0Yy1yZXBvcnRlZGx5LXNlZWtzLWluanVuY3Rpb24tdG8tc3RvcC1taWNyb3NvZnRzLWFjdGl2aXNpb24tYmxpenphcmQtZGVhbC9hbXAv?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "title": "FTC reportedly seeks injunction to stop Microsoft’s Activision Blizzard deal - TechCrunch",
+      "author": null,
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]",
+      "datetime": "2023-06-12 21:22:30",
+      "urlToImage": null,
+      "description": "<ol><li>FTC reportedly seeks injunction to stop Microsoft’s Activision Blizzard deal  TechCrunch\r\n</li><li>FTC regulators reportedly set to sue to block Microsoft-Activision Blizzard deal  Yahoo Finance\r\n</li><li>FTC will try to block Microsoft's acquisition …"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/19/is-microsoft-a-buy/",
+      "title": "Is Microsoft a Buy?",
+      "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Wall Street doesn't seem to know what to think about Microsoft(MSFT 1.17%) stock in 2023. The software giant's shares trounced the S&amp;P 500 through the early phases of the pandemic, but its outper… [+3268 chars]",
+      "datetime": "2023-03-19 13:30:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/724568/bearded-person-at-desk-by-computer-taking-notes.jpg",
+      "description": "The tech giant's stock has become cheaper this year."
+    },
+    {
+      "url": "https://it.srad.jp/story/23/05/03/0213227/",
+      "title": "Microsoft Edge Insider、Google BardとBing AIの比較を提案",
+      "author": "headless",
+      "source": {
+        "id": null,
+        "name": "Srad.jp"
+      },
+      "content": "Insider Microsoft Edge Google Bard Bing AI \r\n(The Verge Neowin On MSFT Windows Central )edge://flags Microsoft Edge Split Screen (edge://flags/#edge-split-screen)Disabled\r\nBard Bing AI Bing 3 Bard Bi… [+20 chars]",
+      "datetime": "2023-05-03 02:39:00",
+      "urlToImage": "https://srad.jp/static/topics/google_64.png",
+      "description": "Insider チャネルの Microsoft Edge で Google Bard にアクセスすると、Bing AI と回答を比較するよう提案される\n(The Verge の記事、\nNeowin の記事、\nOn MSFT の記事、\nWindows Central の記事)。\n\n提案は画面分割機能が表示するもので、edge://flags で「Microsoft Edge Split Screen (edge://flags/#edge-split-screen)」が「Disabled」になっていると表示されない…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/19/warren-buffett-is-worried-about-ai-heres-why-hes-b/",
+      "title": "Warren Buffett Is Worried About AI. Here's How He's Betting Big on It Anyway.",
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Warren Buffett isn't what you'd call a tech guru. The legendary investor has been notoriously slow in the past to invest in companies with major technological advances. He readily admits that tech is… [+3726 chars]",
+      "datetime": "2023-06-19 09:52:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735896/buffett2-tmf.jpg",
+      "description": "Buffett could \"climb a wall of worry\" by making money from his AI investments."
+    },
+    {
+      "url": "https://biztoc.com/x/00731a7a106c9562",
+      "title": "Watch: Google Pixel Takes Shots At Apple iPhone In Its New Campaign, And It's Hilarious",
+      "author": "benzinga.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Alphabet Inc.'s GOOGL Google is back once again with an advertising campaign mocking the iPhone in a series of \"Best Phones Forever\" videos reminiscent of Microsoft Corp MSFT and Apple's Mac vs PC ad… [+303 chars]",
+      "datetime": "2023-06-22 09:08:05",
+      "urlToImage": "https://c.biztoc.com/p/00731a7a106c9562/s.webp",
+      "description": "Alphabet Inc.'s GOOGL Google is back once again with an advertising campaign mocking the iPhone in a series of \"Best Phones Forever\" videos reminiscent of Microsoft Corp MSFT and Apple's Mac vs PC ad campaigns. However, Google has chosen a slightly friendlier…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/07/prediction-this-stock-top-5-trillion-before-apple/",
+      "title": "Prediction: This Stock Will Top $5 Trillion Before Apple",
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "No company on the planet commands a greater market cap than Apple(AAPL -0.21%) right now. Only three years ago, the iPhone maker was valued below $1 trillion. Today, its market cap stands at $2.85 tr… [+3217 chars]",
+      "datetime": "2023-06-07 09:51:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734959/artificial-intelligence-investing-algorithms.jpg",
+      "description": "One company is already breathing down Apple's neck."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/01/what-microsoft-and-google-stock-investors-should-k/",
+      "title": "What Microsoft and Google Stock Investors Should Know About Latest AI Updates",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft(MSFT 1.50%) unveils innovative artificial intelligence (AI) solutions, ranging from image generators to security copilots. Meanwhile, Alphabet(GOOGL 2.81%)(GOOG 2.65%) appears to be perpetu… [+281 chars]",
+      "datetime": "2023-04-01 17:03:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726781/jose-najarro-2023-03-31t180526815.png",
+      "description": "Microsoft is trying to improve its advertisement solutions with its new AI Bing search, but will it be successful?"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/04/how-microsoft-and-google-will-change-the-future-of/",
+      "title": "How Microsoft and Google Will Change the Future of Chatbots Forever",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In this video, I will talk about how Microsoft(MSFT 0.60%), Alphabet(GOOGL 0.80%)(GOOG 0.64%), and OpenAI will think about how to monetize OpenAI's chatbot, ChatGPT, and make sure publishers and cont… [+317 chars]",
+      "datetime": "2023-04-04 14:15:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727010/chatgpt-msft.png",
+      "description": "It is time to start thinking about the monetization part of it."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/27/is-it-too-late-to-buy-microsoft-stock/",
+      "title": "Is It Too Late to Buy Microsoft Stock?",
+      "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft's (MSFT 2.54%) stock is already up considerably in 2023, and investors want to know if it's too late to buy.\r\n*Stock prices used were the afternoon prices of April 26, 2023. The video was p… [+26 chars]",
+      "datetime": "2023-04-27 16:11:54",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729858/microsoft-stock-update-2.jpg",
+      "description": "Microsoft reported better-than-expected quarterly financial results in late April."
+    },
+    {
+      "url": "https://www.ilsole24ore.com/art/alphabet-e-microsoft-meglio-attese-anche-se-pesano-tensioni-economiche-AExmtqLD",
+      "title": "Alphabet e Microsoft meglio delle attese, anche se pesano le tensioni economiche",
+      "author": "di Marco Valsania",
+      "source": {
+        "id": "il-sole-24-ore",
+        "name": "Il Sole 24 Ore"
+      },
+      "content": "Ascolta la versione audio dell'articolo\r\n3' di lettura\r\nAlphabet e Microsoft riportano risultati trimestrali in sostanza migliori delle attese e capaci di offrire prove di resistenza alle crisi dellh… [+2401 chars]",
+      "datetime": "2023-04-26 04:49:08",
+      "urlToImage": "https://i2.res.24o.it/images2010/2023/04/AExmtqLD/images/095bd35c-e366-11ed-9ae1-23bc68a92b15-fotohome0.jpg",
+      "description": "I due colossi tech, 33 miliardi di utili in due, fanno a gara per rilanci del business con l’intelligenza artificiale. Msft vede una crescita targata AI"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/21/wedbush-securities-managing-director-dan-ives-call/",
+      "title": "Wall Street Analyst Dan Ives Calls AI the \"Fourth Industrial Revolution.\" Here Are 2 Stocks He Says to Buy Now.",
+      "author": "newsfeedback@fool.com (Danny Vena)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What a difference a few months can make: In 2022, Wall Street closed the books on its worst year in more than a decade. In fact, the major market indexes posted their worst performance since the bear… [+4883 chars]",
+      "datetime": "2023-06-21 09:41:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736935/a-person-looking-at-a-mobile-device-while-seated-at-a-computer-desk-with-an-overlay-of-ai-algorithms-and-stock-price-graphs.jpg",
+      "description": "AI stocks have skyrocketed so far in 2023. This could be just the beginning."
+    },
+    {
+      "url": "https://biztoc.com/x/6bca34e00faeabde",
+      "title": "Foxconn Expects Growing AI Demand to Boost Its Server Business This Year",
+      "author": "coinspeaker.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "CoinspeakerFoxconn Expects Growing AI Demand to Boost Its Server Business This YearFoxconn has forecasted significant growth in its artificial intelligence (AI) server business due to robust demand. … [+295 chars]",
+      "datetime": "2023-05-31 17:52:06",
+      "urlToImage": "https://c.biztoc.com/p/6bca34e00faeabde/og.webp",
+      "description": "Coinspeaker Foxconn Expects Growing AI Demand to Boost Its Server Business This Year Foxconn has forecasted significant growth in its artificial intelligence (AI) server business due to robust demand. On Wednesday, the company’s Chairman, Young Liu, said reve…"
+    },
+    {
+      "url": "https://biztoc.com/x/2c38918986d0a7e8",
+      "title": "Futures: Meta Spikes Late; First Republic Still Hitting Market",
+      "author": "investors.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Dow Jones futures tilted higher overnight, with S&amp;P 500 futures and Nasdaq futures rising as Meta Platforms (META) and ServiceNow (NOW) headlined another big night for earnings.The stock market r… [+297 chars]",
+      "datetime": "2023-04-27 01:20:05",
+      "urlToImage": "https://c.biztoc.com/p/2c38918986d0a7e8/og.webp",
+      "description": "Dow Jones futures tilted higher overnight, with S&P 500 futures and Nasdaq futures rising as Meta Platforms (META) and ServiceNow (NOW) headlined another big night for earnings. The stock market rally closed mixed on Wednesday, as Microsoft (MSFT) surged 7% o…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/11/why-amazon-google-and-microsoft-stock-could-be-hug/",
+      "title": "Why Amazon, Google, and Microsoft Stock Could Be Huge Winners Thanks to Generative AI",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Semiconductor companies have been one of the top winners during this AI craze, but investors should also keep a closer eye on clouding giants like Amazon (AMZN -1.86%), Microsoft (MSFT -1.96%), and A… [+244 chars]",
+      "datetime": "2023-04-11 14:01:01",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727835/jose-najarro-2023-04-10t161202048.png",
+      "description": "Generative AI drives demand for Microsoft, Google, and Amazon as AI developers seek clouding solutions."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/01/ai-the-biggest-threat-google-alphabet-catalyst/",
+      "title": "AI Is the Biggest Threat to Google (and Alphabet) Right Now, not Its Biggest Catalyst",
+      "author": "newsfeedback@fool.com (Anthony Di Pizio)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Artificial intelligence (AI) is a hot topic in the corporate world this year. Thanks to companies like OpenAI and its ChatGPT platform, natural language generative AI has matured to the point that bu… [+5623 chars]",
+      "datetime": "2023-06-01 09:47:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734342/an-image-of-googles-office-headquarters.jpg",
+      "description": "The internet search giant is developing artificial intelligence, but it might not matter."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amd-nvidia-face-tight-budgets-from-cloud-service-providers-even-as-ai-grows-aed13ea",
+      "title": "The Ratings Game: AMD, Nvidia face ‘tight’ budgets from cloud-service providers even as AI grows",
+      "author": "Wallace Witkowski",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "With Advanced Micro Devices Inc. making its big push into the AI data-center market at its event in San Francisco this week, following Nvidia Corp.s similar event in late March, one analyst sees both… [+4140 chars]",
+      "datetime": "2023-06-14 18:14:00",
+      "urlToImage": "https://images.mktw.net/im-800439/social",
+      "description": "With AMD making its big push into the AI data-center market this week, one analyst sees it launching into a tighter-than-expected market."
+    },
+    {
+      "url": "https://it.srad.jp/story/23/03/12/0920231/",
+      "title": "ウェブ検索結果の AI によるまとめ、役に立ってる？",
+      "author": "headless",
+      "source": {
+        "id": null,
+        "name": "Srad.jp"
+      },
+      "content": "Bing AI DuckDuckGoAIDuckAssist\r\n(DuckDuckGo News Neowin Ars Technica On MSFT )DuckAssist Wikipedia DuckDuckGo DuckAssist DuckDuckGo DuckDuckGo \r\nBraveBrave AI Brave Brave Search \r\n(Brave 9to5Mac Mac … [+52 chars]",
+      "datetime": "2023-03-12 10:48:00",
+      "urlToImage": "https://srad.jp/static/topics/internet_64.png",
+      "description": "Bing の AI 機能が注目される中、DuckDuckGoもジェネレーティブAIアシスタント「DuckAssist」を投入したそうだ\n(DuckDuckGo News の記事、\nNeowin の記事、\nArs Technica の記事、\nOn MSFT の記事)。\n\nDuckAssist は現在ベータ版が提供されており、Wikipedia や同様のサイトに検索内容に関連するコンテンツがある場合にのみ、検索結果上部にまとめた内容を表示するという。現在のところ、単に DuckDuckGo で検索しただけでは Duc…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/21/microsofts-pursuit-of-market-dominance-whos-next-a/",
+      "title": "Microsoft's Pursuit of Market Dominance: Who's Next After Alphabet?",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Is Microsoft (MSFT 0.49%) trying to battle all the tech giants this year? Recent reports might add Apple (AAPL 0.12%) to the list right next to Alphabet (GOOGL 1.02%) (GOOG 0.97%). Check out the shor… [+194 chars]",
+      "datetime": "2023-03-21 14:00:19",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725377/jose-najarro-2023-03-20t211845953.png",
+      "description": "Microsoft is reportedly looking to build a gaming app store for mobile platforms, which might not bode well for the duopoly of Google and Apple app stores."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/27/is-it-game-over-for-microsofts-acquisition-of-acti/",
+      "title": "Is It Game Over for Microsoft's Acquisition of Activision?",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft's (MSFT 1.92%) acquisition of Activision (ATVI 0.68%) has come up against a major hurdle. U.K. regulators have blocked the deal, but is this the end? Check out the short video to learn more… [+167 chars]",
+      "datetime": "2023-04-27 14:11:33",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729786/jose-najarro-2023-04-26t161647591.png",
+      "description": "UK regulators shut down Microsoft's metaverse plans."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/11/up-35-to-169-is-it-time-to-buy-these-3-ai-stocks/",
+      "title": "Up 35% to 169%, Is It Time to Buy These 3 AI Stocks?",
+      "author": "newsfeedback@fool.com (Jake Lerch, Justin Pope, and Will Healy)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Artificial intelligence (AI) stocks have been a cut above the rest in 2023. So much so that some investors might worry it's too late to buy shares, given how far some have climbed year to date.\r\nSo l… [+6031 chars]",
+      "datetime": "2023-06-11 12:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735636/msft-microsoft-stock-investing-money.jpg",
+      "description": "AI stocks have come alive in 2023, but are they good long-term investments?"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/28/microsoft-surged-after-earnings-too-late-to-buy/",
+      "title": "Microsoft Stock Surged After Earnings: Is It Too Late to Buy?",
+      "author": "newsfeedback@fool.com (Will Healy)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft's (MSFT 0.25%) stock was already on the rise in 2023 (up 17%) when it reported earnings for the fiscal third quarter of 2023 (ended March 31) on April 25. After the report's release, its st… [+3510 chars]",
+      "datetime": "2023-04-28 15:33:57",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/729754/officeworkeranalyzesdata.jpg",
+      "description": "Artificial intelligence may have breathed new life into Microsoft stock."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/14/2-stocks-to-buy-no-matter-what-happens-in-june-and/",
+      "title": "2 Stocks to Buy No Matter What Happens in June and Beyond",
+      "author": "newsfeedback@fool.com (Prosper Junior Bakiny)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The first half of the year is almost over -- and so far, 2023 has been pretty kind to investors. Broader equity markets bounced back from last year's nightmare while economic pressures, notably infla… [+4107 chars]",
+      "datetime": "2023-06-14 14:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735373/elderly-person-sitting-on-a-bed.jpg",
+      "description": "A lot could go wrong in the next few months, but investors should largely ignore all that noise."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/03/microsoft-and-nvidia-are-winning-in-a-market-googl/",
+      "title": "Microsoft and Nvidia Are Winning in a Market Google Couldn't Crack",
+      "author": "newsfeedback@fool.com (Jose Najarro and Ryan Henderson)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In today's video, Jose Najarro and Ryan Henderson discuss Microsoft (MSFT 1.97%), Nvidia (NVDA 2.71%), and how cloud gaming is shifting the gaming market. Check out the short video to learn more, con… [+160 chars]",
+      "datetime": "2023-03-03 13:34:52",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/723239/jose-najarro-2023-03-02t224839672.png",
+      "description": "Microsoft's Game Pass and Nvidia's GeForce Now subscriptions have reached the tens of millions and are showing no signs of slowing down."
+    },
+    {
+      "url": "https://biztoc.com/x/9166b05ad5f9a6ca",
+      "title": "Dow Jones Flat As Microsoft, Intel Slip; Fox Skids On Tucker Carlson Departure",
+      "author": "investors.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "The Dow Jones Industrial Average was nearly flat as the broader stock market treaded water. Microsoft (MSFT) and Intel (INTC) were blue chip laggards. Meanwhile, Fox (FOX) skidded after news that Tuc… [+279 chars]",
+      "datetime": "2023-04-24 19:56:07",
+      "urlToImage": "https://c.biztoc.com/p/9166b05ad5f9a6ca/og.webp",
+      "description": "The Dow Jones Industrial Average was nearly flat as the broader stock market treaded water. Microsoft (MSFT) and Intel (INTC) were blue chip laggards. Meanwhile, Fox (FOX) skidded after news that Tucker Carlson has left Fox News. A trio of noteworthy names at…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/15/best-artificial-intelligence-ai-stock-to-buy-tesla/",
+      "title": "Best Artificial Intelligence (AI) Stock to Buy: Tesla vs. Palantir vs. Nvidia vs. Microsoft",
+      "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Tesla(TSLA -0.48%), Palantir(PLTR 2.68%), Nvidia(NVDA 1.11%), and Microsoft(MSFT -1.28%) are all racing to harness the power of artificial intelligence. This video will inform investors which of thes… [+135 chars]",
+      "datetime": "2023-04-15 12:15:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/728304/untitled-design-27.jpg",
+      "description": "The winner of the AI race could be handsomely rewarded."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/time-add-microsoft-corporation-msft-101245662.html",
+      "title": "Is This the Time to Add Microsoft Corporation (MSFT) to Your Portfolio?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Weitz Investment Management, an investment management firm, released its Partners III Opportunity Fund first-quarter 2023 investor letter. A copy of the same can be downloaded here. In the first quar… [+2129 chars]",
+      "datetime": "2023-06-27 10:12:45",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/b5fca8d1106b22f327b2338c10eb2ab1",
+      "description": "Weitz Investment Management, an investment management firm, released its “Partners III Opportunity Fund” first-quarter 2023 investor letter. A copy of the..."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/03/3-vidend-paying-tech-stocks-to-buy-in-june/",
+      "title": "3 Dividend-Paying Tech Stocks to Buy in June",
+      "author": "newsfeedback@fool.com (Jeremy Bowman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Dividends and tech stocks don't often go together. Many tech companies are so focused on growth, that there isn't much cash left over at the end of the day to fund a dividend. And yet, there are more… [+3682 chars]",
+      "datetime": "2023-06-03 11:35:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734648/coding-analysis-software-engineer-programming.jpg",
+      "description": "These hot tech stocks will pay you while you wait."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/22/trillion-ai-boom-top-stocks-to-buy/",
+      "title": "$1.2 Trillion Generative AI Boom in 3 Industries: Here Are the Top Stocks to Buy",
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Just how big could generative artificial intelligence (AI) be? Many experts are trying to answer that question. And global consulting firm McKinsey &amp; Company thinks it has an answer.\r\nMcKinsey re… [+4109 chars]",
+      "datetime": "2023-06-22 09:50:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736686/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
+      "description": "Generative AI could especially transform three industries."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/15/mckinsey-says-artificial-intelligence-ai-could-add/",
+      "title": "McKinsey Says Artificial Intelligence (AI) Could Add $4.4 Trillion to the Global Economy",
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "ChatGPT is only the tip of the iceberg. And the iceberg is massive.\r\nThat's the view of McKinsey &amp; Company. The influential consulting firm recently released a report titled \"The Economic Potenti… [+3733 chars]",
+      "datetime": "2023-06-15 09:50:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736344/artificial-intelligence.jpg",
+      "description": "The full impact of generative AI could be even higher than McKinsey predicts."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/bill-gates-says-ai-is-only-the-second-revolutionary-tech-advancement-in-his-lifetime-72c7fddf",
+      "title": "Key Words: Bill Gates says AI is only the second ‘revolutionary’ tech advancement in his lifetime",
+      "author": "Wallace Witkowski",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "For the second time in his 67 years, Microsoft Corp. co-founder Bill Gates has been truly blown away by a revolutionary technology. The first time was back in 1980, when he was introduced to the grap… [+2875 chars]",
+      "datetime": "2023-03-21 19:43:00",
+      "urlToImage": "https://images.mktw.net/im-748275/social",
+      "description": "Microsoft co-founder says ChatGPT is first technology since the graphical user interface — which became the key to Windows — to truly blow him away, and says development of AI will be as ‘fundamental’ as the PC or the internet"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/03/is-this-microsoft-product-the-end-for-adobe-and-ca/",
+      "title": "Is This Microsoft Product the End for Adobe and Canva?",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In this video, I will talk about Microsoft's (MSFT -0.67%) latest attempt to expand its Office 365 offering, specifically something that could hurt companies like Adobe and Canva. Is Microsoft becomi… [+186 chars]",
+      "datetime": "2023-04-03 15:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726866/msft.png",
+      "description": "There's no stopping this big tech giant."
+    },
+    {
+      "url": "https://biztoc.com/x/62ecf65f6a5761ae",
+      "title": "Microsoft leans on its AI prowess to deliver a surprising quarterly earnings beat",
+      "author": "cnbc.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Microsoft 's (MSFT) better-than-feared fiscal third-quarter results, coupled with solid revenue guidance for its fiscal fourth, propelled shares roughly 9% higher in afterhours trading Wednesday demo… [+269 chars]",
+      "datetime": "2023-04-26 00:32:04",
+      "urlToImage": "https://c.biztoc.com/p/62ecf65f6a5761ae/og.webp",
+      "description": "Microsoft 's (MSFT) better-than-feared fiscal third-quarter results, coupled with solid revenue guidance for its fiscal fourth, propelled shares roughly 9% higher in afterhours trading Wednesday — demonstrating the Club holding's resiliency in a softer econom…"
+    },
+    {
+      "url": "https://biztoc.com/x/f8a77f3e06e29b0d",
+      "title": "AMD Stock Rises On Report Of Team-Up With Microsoft On AI Chips",
+      "author": "investors.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Advanced Micro Devices (AMD) shares rose Thursday after a news report said software giant Microsoft (MSFT) is working with the chipmaker on artificial intelligence processors. AMD stock surged more t… [+311 chars]",
+      "datetime": "2023-05-04 20:28:04",
+      "urlToImage": "https://c.biztoc.com/p/f8a77f3e06e29b0d/og.webp",
+      "description": "Advanced Micro Devices (AMD) shares rose Thursday after a news report said software giant Microsoft (MSFT) is working with the chipmaker on artificial intelligence processors. AMD stock surged more than 6% on the day. Bloomberg reported that Microsoft and AMD…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/20/best-ai-stock-c3ai-vs-nvidia-vs-microsoft-vs-googl/",
+      "title": "Best AI Stock: C3.ai vs. Nvidia vs. Microsoft vs. Google",
+      "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "This video will pit C3.ai(AI), Nvidia(NVDA -1.62%), Microsoft(MSFT -2.76%), and Alphabet(GOOG -0.98%)(GOOGL -1.17%) against each other to determine which is the best artificial intelligence stock to … [+121 chars]",
+      "datetime": "2023-03-20 14:15:58",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725206/nvda-vs-msft-vs-ai-vs-goog.jpg",
+      "description": "The AI revolution is underway with the launch of ChatGPT."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/20/will-microsoft-be-a-5-trillion-dollar-stock-by-203/",
+      "title": "Will Microsoft Be a $5 Trillion Dollar Stock by 2030?",
+      "author": "newsfeedback@fool.com (Leo Sun)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "When Satya Nadella took over as Microsoft's (MSFT -1.65%) CEO in 2014, the tech giant was worth about $300 billion. It tripled in value to become a $1 trillion company in 2019, then doubled its marke… [+4580 chars]",
+      "datetime": "2023-06-20 14:45:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736703/satya-nadella-microsoft.jpg",
+      "description": "Could this tech titan double in value by the end of the decade?"
+    },
+    {
+      "url": "https://biztoc.com/x/4013aa16d9554ca4",
+      "title": "Microsoft Announces Xbox Game Pass Subscriptions Price Hike, Xbox Series X Price Adjustments Outside The US",
+      "author": "benzinga.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Microsoft Corp MSFT has revealed its plans to raise the prices of Xbox Series X consoles in several countries, excluding the U.S., Japan, Chile, Brazil and Colombia, starting in August.The tech giant… [+296 chars]",
+      "datetime": "2023-06-22 22:14:05",
+      "urlToImage": "https://c.biztoc.com/p/4013aa16d9554ca4/s.webp",
+      "description": "Microsoft Corp MSFT has revealed its plans to raise the prices of Xbox Series X consoles in several countries, excluding the U.S., Japan, Chile, Brazil and Colombia, starting in August. The tech giant will also implement the first-ever price increase for its …"
+    },
+    {
+      "url": "https://www.barrons.com/articles/microsoft-stock-price-target-chatgpt-ai-75ed6c82",
+      "title": "Microsoft Stock Gets 2 New Price Targets. What’s Behind the Moves.",
+      "author": "Angela Palumbo",
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "content": "The first half of the year has been bright for \r\nMicrosoft\r\nand Wall Street is paying close attention. With all of the excitement around the future of AI and what it could do for tech companies, Micr… [+1856 chars]",
+      "datetime": "2023-05-31 16:43:00",
+      "urlToImage": "https://images.barrons.com/im-376628/social",
+      "description": "The first half of the year has been bright for Microsoft—and Wall Street is paying close attention."
+    },
+    {
+      "url": "https://www.cnn.com/2023/04/13/investing/housing-stock-market-bubble-jeremy-grantham/index.html",
+      "title": "This investor can spot market bubbles. Now he's warning of an 'ominous' bust",
+      "author": "Julia Horowitz",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "content": "Jeremy Grantham made his name predicting the dot-com crash in 2000 and the financial crisis in 2008. Now, the famous investor warns another epic bubble in financial markets is bursting and the turmoi… [+6069 chars]",
+      "datetime": "2023-04-13 09:53:22",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220121114709-file-jeremy-grantham.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Jeremy Grantham made his name predicting the dot-com crash in 2000 and the financial crisis in 2008. Now, the famous investor warns another epic bubble in financial markets is bursting — and the turmoil that swept through the banking sector last month is just…"
+    },
+    {
+      "url": "https://ritholtz.com/2023/05/10-bad-takes-on-this-market/",
+      "title": "10 Bad Takes On This Market",
+      "author": "Barry Ritholtz",
+      "source": {
+        "id": null,
+        "name": "Ritholtz.com"
+      },
+      "content": "Let’s see if I can find something to counter and/or undercut each of these 10 items listed in this morning’s tweet above: \r\n1. Only 5 stocks driving markets?!\r\nThen why are Equal-weighted indices doi… [+2373 chars]",
+      "datetime": "2023-05-19 17:30:35",
+      "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/05/Bad-takes.png",
+      "description": "Let’s see if I can find something to counter and/or undercut each of these 10 items listed in this morning’s tweet above:  1. Only 5 stocks driving markets?! Then why are Equal-weighted indices doing so well? Equal-weighted Nasdaq100 up 17% since the June low…"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/big-tech-bulks-up-in-s-p-500-in-2023-outweighing-indexs-energy-sector-datatrek-says-543234be",
+      "title": "The Tell: Big Tech bulks up in S&P 500 in 2023 outweighing index’s energy sector, DataTrek says",
+      "author": "Christine Idzelis",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Big Techs market value in the S&amp;P 500 index has surged to more than a quarter of the index, with just seven stocks this year adding heft larger than the weight of its entire energy sector, accord… [+2838 chars]",
+      "datetime": "2023-06-06 20:23:00",
+      "urlToImage": "https://images.mktw.net/im-526001/social",
+      "description": "Big Tech’s market value in the S&P 500 has surged to more than a quarter of the index, with just seven stocks this year adding heft larger than the weight of its entire energy sector, according to DataTrek Research."
+    },
+    {
+      "url": "https://www.forbes.com/sites/richardhenrysuttmeier/2023/05/24/reduce-holdings-in-microsoft-as-the-stock-reached-its-quarterly-risky-level-then-suffered-a-key-reversal/",
+      "title": "Reduce Holdings In Microsoft As The Stock Reached Its Quarterly Risky Level Then Suffered A Key Reversal",
+      "author": "Richard Henry Suttmeier, Contributor, \n Richard Henry Suttmeier, Contributor\n https://www.forbes.com/sites/richardhenrysuttmeier/",
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "content": "REDMOND, UNITED STATES - 2021/04/27: A logo marking the edge of the Microsoft corporate campus in ... [+] Redmond, United States. The company announced its Q2 earnings on 27th Apr 2021. (Photo by Tob… [+3061 chars]",
+      "datetime": "2023-05-24 09:56:29",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/646ddcd4816bf452565f411d/0x0.jpg?format=jpg&width=1200",
+      "description": "Like many active stocks, Microsoft had a bear market decline in 2022."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/03/will-microsofts-acquisition-of-activision-happen-a/",
+      "title": "Will Microsoft's Acquisition of Activision Happen, and What Could It Mean for Investors?",
+      "author": "newsfeedback@fool.com (Jose Najarro and Ryan Henderson)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In today's video, Jose Najarro and Ryan Henderson discuss Microsoft (MSFT 1.97%), Activision (ATVI 2.63%), and thoughts on this massive potential gaming acquisition. Check out the short video to lear… [+171 chars]",
+      "datetime": "2023-03-03 13:15:37",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/723238/jose-najarro-2023-03-02t223412463.png",
+      "description": "Activision and Microsoft investors might be worried about the acquisition being blocked by regulators, but it might not be game over for either company if that happens."
+    },
+    {
+      "url": "https://biztoc.com/x/52fb4769a4592450",
+      "title": "Bill Gates in China to meet President Xi on Friday, sources say",
+      "author": "theglobeandmail.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Bill Gates, Microsoft Corps MSFT-Q co-founder, is set to meet Chinese President Xi Jinping on Friday during his visit to China, two people with knowledge of the matter said.The meeting will mark Xis … [+301 chars]",
+      "datetime": "2023-06-14 15:24:05",
+      "urlToImage": "https://c.biztoc.com/p/52fb4769a4592450/s.webp",
+      "description": "Bill Gates, Microsoft Corp’s MSFT-Q co-founder, is set to meet Chinese President Xi Jinping on Friday during his visit to China, two people with knowledge of the matter said. The meeting will mark Xi’s first meeting with a foreign private entrepreneur in rece…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/15/is-shopify-stock-a-buy/",
+      "title": "Is Shopify Stock a Buy?",
+      "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Shopify(SHOP 3.19%) stock has made a head-turning rebound so far in 2023, up over 80% through early June compared to a 13% increase in the S&amp;P 500. Wall Street was thrilled to hear last month tha… [+2944 chars]",
+      "datetime": "2023-06-15 12:30:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735279/businessman-working-on-laptop-with-diagram-graph-on-computer.jpg",
+      "description": "Wall Street is much more optimistic about the e-commerce platform provider right now."
+    },
+    {
+      "url": "https://biztoc.com/x/7796dfdc692ba42c",
+      "title": "Bill Gates Says New Project is a Nuclear Breakthrough",
+      "author": "thestreet.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Gates latest venture could change the trajectory of clean energy.Billionaire investor and Microsoft co-founder (MSFT) - Get Free Report Bill Gates remains focused on his goals of introducing and supp… [+292 chars]",
+      "datetime": "2023-05-05 19:53:04",
+      "urlToImage": "https://c.biztoc.com/p/7796dfdc692ba42c/og.webp",
+      "description": "Gates’ latest venture could change the trajectory of clean energy. Billionaire investor and Microsoft co-founder (MSFT) - Get Free Report Bill Gates remains focused on his goals of introducing and supporting sustainable innovation. He has been working on one …"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/bill-gates-lays-ai-tombstone-on-amazon-and-google-61814cdd",
+      "title": "Key Words: Bill Gates lays AI tombstone on Amazon and Google",
+      "author": "Jon Swartz",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Microsoft Corp. co-founder Bill Gates thinks two pillars of Big Tech are as susceptible to the downside of artificial intelligence as the potentially millions of workers who could be displaced by the… [+946 chars]",
+      "datetime": "2023-05-23 20:24:00",
+      "urlToImage": "https://images.mktw.net/im-748275/social",
+      "description": "\"You’ll never go to a search site again,\" Gates said. \"You'll never go to Amazon.\""
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/14/2-no-brainer-tech-stocks-to-buy-with-1000/",
+      "title": "2 No-Brainer Tech Stocks to Buy With $1,000",
+      "author": "newsfeedback@fool.com (Timothy Green)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Investing in good companies, and paying reasonable prices to do so, is a winning strategy in the long run. Some companies have enormous competitive advantages and fantastic long-term growth prospects… [+4196 chars]",
+      "datetime": "2023-06-14 12:50:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736211/low-risk-safe-safer-conservative-caution-cautious.jpg",
+      "description": "Microsoft and AT&T are attractive for different reasons."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/microsoft-just-delivered-exactly-what-software-needed-amid-doom-and-gloom-b8d1e7ab",
+      "title": "The Ratings Game: Microsoft just delivered ‘exactly what software needed’ amid ‘doom and gloom’",
+      "author": "Emily Bary",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Microsoft Corp. offered some welcome relief to the software sector overnight against what one analyst described as a doom and gloom backdrop. \r\nJust a day ago, software stocks broadly sold off in Tue… [+328 chars]",
+      "datetime": "2023-04-26 11:16:00",
+      "urlToImage": "https://images.mktw.net/im-705473/social",
+      "description": "Microsoft offered some welcome relief to the software sector overnight against what one analyst described as a \"doom and gloom\" backdrop."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/14/amazon-stock-bull-vs-bear/",
+      "title": "Amazon Stock: Bull vs. Bear",
+      "author": "newsfeedback@fool.com (Keith Noonan and Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Over the last two decades, Amazon(AMZN 0.07%) has been one of the stock market's biggest winners. The company's share price has soared over 7,100% over the last 20 years -- good enough to turn a $1,0… [+4660 chars]",
+      "datetime": "2023-06-14 11:20:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736005/golden-bull-and-bear-statues.jpg",
+      "description": "Can investors still count on Amazon stock to deliver big wins?"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/10/microsoft-and-amds-ai-partnership-is-fakeor-is-it/",
+      "title": "Microsoft and AMD's AI Partnership Is Fake...or Is It?",
+      "author": "newsfeedback@fool.com (Jose Najarro and Nicholas Rossolillo)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Advanced Micro Devices(AMD 3.38%) stock took a hit post-earnings, but rumors of a partnership with Microsoft(MSFT 0.87%) have sparked a rally. Are these just rumors, or is there some truth behind the… [+282 chars]",
+      "datetime": "2023-05-10 14:54:49",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/731877/copy-of-jose-najarro-2023-05-10t093924839.png",
+      "description": "Advanced Micro Devices has numerous growth opportunities thanks to the AI battle happening with big tech."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/04/12/is-meta-dominating-the-ai-landscape-over-nvidia-an/",
+      "title": "Is Meta Dominating the AI Landscape Over Nvidia and Microsoft?",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "When they think of the companies leading the AI race, investors' minds might rush to Nvidia (NVDA -1.49%) or Microsoft (MSFT 0.15%). Still, there are many reasons Meta Platforms (META -0.38%) should … [+247 chars]",
+      "datetime": "2023-04-12 13:57:18",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/727947/jose-najarro-2023-04-11t143744656.png",
+      "description": "Meta Platforms has announced various AI solutions in the past six months, and the announcements keep coming in."
+    },
+    {
+      "url": "https://biztoc.com/x/6bcbbf0852b667e5",
+      "title": "C3.ai Q1 earnings beat expectations, but shares collapse more than 12%",
+      "author": "aol.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Artificial intelligence software developer C3.ai (AI) reported its fourth quarter earnings after the bell on Wednesday, beating expectations on the top and bottom lines as the AI wave continues to sh… [+271 chars]",
+      "datetime": "2023-05-31 21:20:06",
+      "urlToImage": "https://c.biztoc.com/p/6bcbbf0852b667e5/og.webp",
+      "description": "Artificial intelligence software developer C3.ai (AI) reported its fourth quarter earnings after the bell on Wednesday, beating expectations on the top and bottom lines as the AI wave continues to shake up Wall Street and the tech industry. Despite that, shar…"
+    },
+    {
+      "url": "https://biztoc.com/x/172b3ba8d522db9c",
+      "title": "OpenAI Explores Marketplace: Empowering Developers to Monetize AI Models on Microsoft's ChatGPT",
+      "author": "benzinga.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Microsoft Corp MSFT backed ChatGPT parent OpenAI eyes a marketplace to allow developers to sell their AI models built on top of its own AI technology.The makers of such AI software's advanced large l… [+294 chars]",
+      "datetime": "2023-06-20 17:10:06",
+      "urlToImage": "https://c.biztoc.com/p/172b3ba8d522db9c/s.webp",
+      "description": "Microsoft Corp MSFT backed ChatGPT parent OpenAI eyes a marketplace to allow developers to sell their AI models built on top of its own AI technology. The makers of such AI software's advanced large language models (LLMs) could offer them to other businesses …"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/apple-should-pull-the-plug-on-the-iphone",
+      "title": "Apple should pull the plug on the iPhone (2007)",
+      "author": "John C. Dvorak",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "BERKELEY (MarketWatch) -- The hype over the unreleased iPhone has actually increased over the past month despite the fact that nobody has seen or used the device. This, if nothing else, proves the po… [+3278 chars]",
+      "datetime": "2023-06-09 20:26:33",
+      "urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+      "description": "Commentary: Company risks its reputation in competitive business"
+    },
+    {
+      "url": "https://www.forbes.com/sites/greatspeculations/2023/05/02/microsoft-stock-is-fairly-priced-at-the-current-levels/",
+      "title": "Microsoft Stock Is Fairly Priced At The Current Levels",
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "content": "LONDON, ENGLAND - APRIL 26: A general view outside the Microsoft Experience Centre in Oxford Circus ... [+] on April 26, 2023 in London, England. (Photo by Belinda Jiao/Getty Images)\r\nGetty Images\r\nM… [+2385 chars]",
+      "datetime": "2023-05-02 11:00:03",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/645091f6808c4672f37f5d5c/0x0.jpg?format=jpg&width=1200",
+      "description": "Microsoft’s stock (NASDAQ: MSFT) has gained roughly 28% YTD as compared to the 9% rise in the S&P500 index over the same period."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/18/2-stocks-that-could-grow-your-portfolio-over-the-n/",
+      "title": "2 Stocks That Could Grow Your Portfolio Over the Next Decade",
+      "author": "newsfeedback@fool.com (Chris Neiger)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Buying and holding shares of great companies for years -- and yes, even a decade -- is a great way to build wealth. \r\nBut it's not just about holding on to stocks for a long time; you first need to b… [+3143 chars]",
+      "datetime": "2023-06-18 09:20:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736316/gettyimages-901605194.jpg",
+      "description": "These two established companies are tapping into long-term trends."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/02/2-good-reasons-to-buy-microsoft-stock-right-now/",
+      "title": "2 Good Reasons to Buy Microsoft Stock Right Now",
+      "author": "newsfeedback@fool.com (Joe Tenebruso)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft's (MSFT) shareholders have enjoyed a steep rally in its stock price in recent months. Following a strong fiscal 2023 third-quarter performance, the software leader's shares are up a solid 2… [+3143 chars]",
+      "datetime": "2023-05-02 13:13:58",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/730312/investor-gettyimages-694072990.jpg",
+      "description": "The tech juggernaut's investors stand to earn handsome gains."
+    },
+    {
+      "url": "https://biztoc.com/x/8bfd8b64b87578ff",
+      "title": "Tech companies ramping up AI efforts while cutting ethics teams 'might not be a good look,' feds warn",
+      "author": "marketwatch.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "The Federal Trade Commission continued its crusade against deceptive uses of artificial intelligence Monday, suggesting that companies could face trouble by simultaneously misleading customers using … [+274 chars]",
+      "datetime": "2023-05-02 10:36:06",
+      "urlToImage": "https://c.biztoc.com/p/8bfd8b64b87578ff/og.webp",
+      "description": "The Federal Trade Commission continued its crusade against deceptive uses of artificial intelligence Monday, suggesting that companies could face trouble by simultaneously misleading customers using AI and cutting back on ethicists who advise businesses on ho…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/15/why-microsoft-stock-outpaced-the-market-today/",
+      "title": "Why Microsoft Stock Outpaced the Market Today",
+      "author": "newsfeedback@fool.com (Eric Volkman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "What happened\r\nMicrosoft(MSFT), a somewhat surprising tech sector pace-setter of late, had yet another winning session on the stock market Thursday. The veteran software company's share price rose by… [+1340 chars]",
+      "datetime": "2023-06-15 21:05:16",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736548/finger-about-to-press-a-green-dollar-sign-key-on-a-pc-keyboard.jpg",
+      "description": "A pair of new analyst takes help propel the company's share price to a new all-time high."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/makes-microsoft-corporation-msft-attractive-110851029.html",
+      "title": "What Makes Microsoft Corporation (MSFT) an Attractive Investment?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Mairs &amp; Power, an investment advisor, released Mairs &amp; Power Growth Fund first quarter 2023 investor letter. A copy of the same can be downloaded here. The fund was up 7.27% year-to-date comp… [+2915 chars]",
+      "datetime": "2023-06-14 11:08:51",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/b5fca8d1106b22f327b2338c10eb2ab1",
+      "description": "Mairs & Power, an investment advisor, released “Mairs & Power Growth Fund” first quarter 2023 investor letter. A copy of the same can be downloaded here. The..."
+    },
+    {
+      "url": "https://it.srad.jp/story/23/04/23/0232216/",
+      "title": "ChatGPT を活用して複数のフルタイム勤務をこなす人たち",
+      "author": "headless",
+      "source": {
+        "id": null,
+        "name": "Srad.jp"
+      },
+      "content": "ChatGPT AI \r\n(On MSFT New York Post Motherboard )COVID-19 overemployed ChatGPT \r\nChatGPT ChatGPT ChatGPT",
+      "datetime": "2023-04-23 02:59:00",
+      "urlToImage": "https://srad.jp/static/topics/ai_64.png",
+      "description": "ChatGPT などの生成系 AI に仕事を奪われたという人がいる一方で、活用して仕事を効率化しようとする人もいるが、これをさらに進めて複数の職でフルタイム勤務する人もいるそうだ\n(On MSFT の記事、\nNew York Post の記事、\nMotherboard の記事)。\n\nCOVID-19 パンデミックの影響で在宅勤務が増加したことから、複数の職に就く人も増加した。このような勤務形態の人は自らを「overemployed」と呼んでおり、オンラインコミュニティも存在する。報告書やプレゼンテーション、資料な…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/01/3-top-tech-stocks-to-buy-in-june/",
+      "title": "3 Top Tech Stocks to Buy in June",
+      "author": "newsfeedback@fool.com (Dani Cook)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Spring is in full bloom, and while this time of the year often brings to mind flowers and itchy eyes, it's also an excellent time to bolster your portfolio with solid tech stocks.\r\nLike clockwork, Ap… [+4665 chars]",
+      "datetime": "2023-06-01 09:12:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734421/analyst-investing-tracking-market-wall-street.jpg",
+      "description": "These companies have exciting developments on the way, with promising outlooks in AI and virtual/augmented reality."
+    },
+    {
+      "url": "https://biztoc.com/x/9082f4da491a9909",
+      "title": "Dow Jones Up As McCarthy Gives Debt Ceiling Warning; Activist Investor Targets This Growth Stock",
+      "author": "investors.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "The Dow Jones Industrial Average rose as House Speaker Kevin McCarthy issued a debt ceiling warning to President Joe Biden. Shake Shack (SHAK) soared on an activist investor move while Meta Platforms… [+309 chars]",
+      "datetime": "2023-05-15 22:16:11",
+      "urlToImage": "https://c.biztoc.com/p/9082f4da491a9909/og.webp",
+      "description": "The Dow Jones Industrial Average rose as House Speaker Kevin McCarthy issued a debt ceiling warning to President Joe Biden. Shake Shack (SHAK) soared on an activist investor move while Meta Platforms (META) popped on an analyst upgrade. Microsoft (MSFT) inche…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/29/do-cloud-leaders-retain-their-dominance-despite-se/",
+      "title": "Do Cloud Leaders Retain Their Dominance Despite Semiconductor Breakthroughs?",
+      "author": "newsfeedback@fool.com (Jose Najarro, Nicholas Rossolillo, and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "All three major cloud service providers, Microsoft (MSFT -0.42%), Amazon (AMZN -0.82%), and Alphabet (GOOGL -1.40%) (GOOG -1.65%), have announced recent partnerships with Nvidia (NVDA -0.46%) with it… [+436 chars]",
+      "datetime": "2023-03-29 13:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726198/copy-of-jose-najarro-2023-03-28t122520516.png",
+      "description": "Or do semiconductor advancements like Nvidia's GPUs level the playing field?"
+    },
+    {
+      "url": "https://biztoc.com/x/e2e860c479485518",
+      "title": "AAPL Stock Ramps Higher Ahead Of Quarterly Results. Wall Street Eyes Reports From DraftKings, Arista Networks",
+      "author": "investors.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "It's been a pretty good start to first-quarter earnings season despite liquidity concerns in the financial sector. After bullish earnings reports from Microsoft (MSFT) and Facebook parent Meta Platfo… [+294 chars]",
+      "datetime": "2023-04-28 16:14:05",
+      "urlToImage": "https://c.biztoc.com/p/e2e860c479485518/og.webp",
+      "description": "It's been a pretty good start to first-quarter earnings season despite liquidity concerns in the financial sector. After bullish earnings reports from Microsoft (MSFT) and Facebook parent Meta Platforms (META), attention turns to Apple (AAPL), which reports T…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/15/things-smart-investors-know-about-microsoft-stock/",
+      "title": "3 Things Smart Investors Know About Microsoft Stock",
+      "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "It's no secret on Wall Street that Microsoft's (MSFT 2.71%) business is decelerating. The software giant's stock has declined since early 2022 as sales growth hit a wall. Big parts of its business, i… [+2860 chars]",
+      "datetime": "2023-03-15 09:31:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/723879/bearded-person-at-desk-by-computer-taking-notes.jpg",
+      "description": "The software titan has a diverse portfolio and plenty of cash."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-appreciated-investments-093304659.html",
+      "title": "Microsoft Corporation (MSFT) Appreciated on Investments in OpenAI",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "The Ithaka Group, an investment advisory firm, released \"Ithaka US Growth Strategy\" first-quarter investor letter. A copy of the same can be downloaded here. In the quarter, the strategy returned 21.… [+2470 chars]",
+      "datetime": "2023-06-23 09:33:04",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W5.8BHQwc0xmRewC8xwHVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/insidermonkey.com/5836bb178f6f3392a681b1ce3603e60a",
+      "description": "The Ithaka Group, an investment advisory firm, released “Ithaka US Growth Strategy” first-quarter investor letter. A copy of the same can be downloaded here...."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/09/bill-gates-says-youll-never-go-to-amazon-again-aft/",
+      "title": "Bill Gates Says \"You'll Never Go to Amazon Again\" After the Next Big Artificial Intelligence (AI) Breakthrough",
+      "author": "newsfeedback@fool.com (Jon Quast)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "In his personal blog in December, Microsoft (MSFT 0.64%) co-founder Bill Gates wrote, \"Over the next few years, people are going to see the incredible progress in AI.\" And according to more recent st… [+4788 chars]",
+      "datetime": "2023-06-09 13:42:01",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735683/shocked-surprised-person-adjusts-glasses-in-office.jpg",
+      "description": "It's not easy to impress the world's fourth richest person. But Gates is calling this breakthrough \"the big thing.\""
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/18/if-youd-invested-10000-in-microsoft-stock-in-2013/",
+      "title": "If You'd Invested $10,000 in Microsoft Stock in 2013, This Is How Much You Would Have Today",
+      "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft(MSFT 1.17%) is one of the most recognized tech companies in the world. That recognition is well deserved given the incredible results it has delivered for investors.\r\n*Stock prices used wer… [+83 chars]",
+      "datetime": "2023-03-18 13:00:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725035/steak-night-16.jpg",
+      "description": "It's not easy to be dominant for as long as Microsoft has been."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/16/2-dividend-paying-tech-stocks-to-buy-right-now/",
+      "title": "2 Dividend-Paying Tech Stocks to Buy Right Now",
+      "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Dividend stocks are relatively rare in the tech space, as these companies tend to be more focused on investing extra cash into growth initiatives. But income investors can still find some attractive … [+3120 chars]",
+      "datetime": "2023-06-16 09:44:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735478/bearded-person-at-desk-by-computer-taking-notes.jpg",
+      "description": "These companies offer a nice balance between growth and income."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/baron-funds-microsoft-msft-stock-164525170.html",
+      "title": "Baron Funds: “Microsoft (MSFT) Stock has Increased Seven-Fold Since Satya Nadella Took Over as CEO”",
+      "author": "Jose Karlo Mari Tottoc",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Baron Funds, an investment management firm, released its \"Baron Durable Advantage Fund\" first quarter 2023 investor letter, a copy of which can be downloaded here. The Baron Durable Advantage Fund ga… [+3048 chars]",
+      "datetime": "2023-06-11 16:45:25",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/642a8fd87342350c7d2e74e81caadb38",
+      "description": "Baron Funds, an investment management firm, released its “Baron Durable Advantage Fund” first quarter 2023 investor letter, a copy of which can be downloaded..."
+    },
+    {
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L21zZnQtc3RvY2stbWljcm9zb2Z0LWJlYXRzLW1hcmNoLXF1YXJ0ZXItZ29hbHMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "title": "MSFT Stock: Microsoft Beats March-Quarter Goals | Investor's Business Daily - Investor's Business Daily",
+      "author": null,
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]",
+      "datetime": "2023-04-25 20:28:00",
+      "urlToImage": null,
+      "description": "MSFT Stock: Microsoft Beats March-Quarter Goals | Investor's Business Daily  Investor's Business Daily"
+    },
+    {
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRpcHJhbmtzLmNvbS9uZXdzL2FydGljbGUvbWV0YS1tc2Z0LW9yLWFtem4td2hpY2gtdGVjaC1zdG9jay1pcy13YWxsLXN0cmVldHMtYmVzdC1waWNr0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "title": "META, MSFT, or AMZN: Which Tech Stock is Wall Street’s Best Pick? - TipRanks",
+      "author": null,
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]",
+      "datetime": "2023-05-02 04:32:33",
+      "urlToImage": null,
+      "description": "META, MSFT, or AMZN: Which Tech Stock is Wall Street’s Best Pick?  TipRanks"
+    },
+    {
+      "url": "https://biztoc.com/x/3f1c1fd5d47e3bb5",
+      "title": "Lumen stock pops after company works with Google, Microsoft on new product",
+      "author": "marketwatch.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "Lumen Technologies Inc. shares LUMN, have been punished this year, but they were getting a lift in Mondays premarket action after the company announced that it has been working with Microsoft Corp. M… [+301 chars]",
+      "datetime": "2023-06-12 15:12:05",
+      "urlToImage": "https://c.biztoc.com/p/3f1c1fd5d47e3bb5/og.webp",
+      "description": "Lumen Technologies Inc. shares LUMN, have been punished this year, but they were getting a lift in Monday’s premarket action after the company announced that it has been working with Microsoft Corp. MSFT, and Alphabet Inc.’s GOOG, GOOGL, Google on a new produ…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/21/mark-zuckerberg-57-billion-richer-ai/",
+      "title": "Mark Zuckerberg Has Gotten $57 Billion Richer This Year. Is Artificial Intelligence (AI) to Thank?",
+      "author": "newsfeedback@fool.com (Keith Speights)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Anyone who wrote off Meta Platforms(META 1.19%) could be kicking themselves. The stock is on a roll, skyrocketing more than 130% so far in 2023.\r\nThis impressive run has made Meta CEO Mark Zuckerberg… [+3848 chars]",
+      "datetime": "2023-06-21 09:53:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736921/dollar-sign-on-circuit-board.jpg",
+      "description": "The AI boom is a big factor -- but not the only one -- behind the huge increase in the net worth of Meta's CEO."
+    },
+    {
+      "url": "https://biztoc.com/x/5619ce7f31b92d70",
+      "title": "The generative AI hype bubble runs through Nvidia",
+      "author": "yahoo.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "This article was first featured in Yahoo Finance Tech, a weekly newsletter highlighting our original content on the industry. Get it sent directly to your inbox every Wednesday. Subscribe.When it com… [+292 chars]",
+      "datetime": "2023-05-31 18:12:19",
+      "urlToImage": "https://c.biztoc.com/p/5619ce7f31b92d70/og.webp",
+      "description": "This article was first featured in Yahoo Finance Tech, a weekly newsletter highlighting our original content on the industry. Get it sent directly to your inbox every Wednesday. Subscribe. When it comes to AI, it's all about Nvidia Generative AI is the hottes…"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/20/microsoft-unveils-new-ai-infrastructure-plans-powe/",
+      "title": "Microsoft Unveils New AI Infrastructure Plans, Powered by Nvidia",
+      "author": "newsfeedback@fool.com (Jose Najarro, Nicholas Rossolillo, and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft (MSFT -2.14%) has a standard for building its AI infrastructure, and customers can get in line to purchase it. Check out this short video to learn what semiconductor investors Jose Najarro,… [+226 chars]",
+      "datetime": "2023-03-20 13:52:14",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/725184/copy-of-jose-najarro-2023-03-19t000007308.png",
+      "description": "Microsoft's infrastructure is a cut-and-paste business model, and semiconductor giant Nvidia can benefit greatly."
+    },
+    {
+      "url": "https://biztoc.com/x/b4918c0c2177f95e",
+      "title": "The 'Magnificent Seven' tech stocks drive markets higher as AI mania grips investors",
+      "author": "aol.com",
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "content": "As AI mania accelerates into the summer months, a tale of two markets facing investors is becoming more extreme.Last week, the Nasdaq 100 Index (^NDX) which is comprised of the 100 largest tech stock… [+274 chars]",
+      "datetime": "2023-05-31 19:26:13",
+      "urlToImage": "https://c.biztoc.com/p/b4918c0c2177f95e/og.webp",
+      "description": "As AI mania accelerates into the summer months, a tale of two markets facing investors is becoming more extreme. Last week, the Nasdaq 100 Index (^NDX) — which is comprised of the 100 largest tech stocks on the Nasdaq — jumped over 3% while the Dow Jones Indu…"
+    },
+    {
+      "url": "https://www.fool.com/insurance/auto/2023/06/12/best-stock-to-buy-apple-vs-microsoft/",
+      "title": "Best Stock to Buy: Apple vs. Microsoft",
+      "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Fool.com contributor and finance professor Parkev Tatevosian compares Apple(AAPL 1.56%) and Microsoft(MSFT 1.55%) to determine which technology stock is the better buy for long-term investors. \r\n*Sto… [+98 chars]",
+      "datetime": "2023-06-12 20:31:11",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736067/untitled-design-18.png",
+      "description": "Apple and Microsoft are two of the most well-known companies in the world."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/u-s-stocks-head-for-punishing-selloff-as-unknown-unknowns-could-drag-market-lower-jpmorgan-analysts-warn-d2d4c2c7",
+      "title": "The Tell: U.S. stocks head for punishing selloff as ‘unknown unknowns’ could drag market lower, JPMorgan analysts warn",
+      "author": "Joseph Adinolfi",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "The higher the U.S. stock market climbs, the more apocalyptic JPMorgan Chase &amp; Co.s U.S. equity research team becomes, it seems. After standing by their bearish view on the market all year, a tea… [+3855 chars]",
+      "datetime": "2023-06-22 19:28:00",
+      "urlToImage": "https://images.mktw.net/im-805162/social",
+      "description": "The higher the U.S. stock market climbs, the more apocalyptic JPMorgan Chase & Co.'s U.S. equity research team sounds, it seems."
+    },
+    {
+      "url": "https://news.microsoft.com/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/",
+      "title": "Microsoft Releases 365 Copilot for Word, Excel, PowerPoint, Outlook, Teams",
+      "author": null,
+      "source": {
+        "id": null,
+        "name": "Microsoft.com"
+      },
+      "content": "Harnessing the power of AI, Microsoft 365 Copilot turns your words into the most powerful productivity tool on the planet\r\nREDMOND, Wash. March 16, 2023  On Thursday, Microsoft Corp. announced it is … [+4983 chars]",
+      "datetime": "2023-03-16 17:30:05",
+      "urlToImage": null,
+      "description": "Harnessing the power of AI, Microsoft 365 Copilot turns your words into the most powerful productivity tool on the planet REDMOND, Wash. — March 16, 2023 — On Thursday, Microsoft Corp. announced it is bringing the power of next-generation AI to its workplace …"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/why-microsoft-corporation-msft-outperformed-105933373.html",
+      "title": "Here’s Why Microsoft Corporation (MSFT) Outperformed in Q1",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Investment management company Vulcan Value Partners recently released its first-quarter 2023 investor letter. A copy of the same can be downloaded here. The firm has five strategies, and all gained p… [+3292 chars]",
+      "datetime": "2023-05-05 10:59:33",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/b5fca8d1106b22f327b2338c10eb2ab1",
+      "description": "Investment management company Vulcan Value Partners recently released its first-quarter 2023 investor letter. A copy of the same can be downloaded here. The ..."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/22/did-ai-just-kill-the-bear-market/",
+      "title": "Did AI Just Kill the Bear Market?",
+      "author": "newsfeedback@fool.com (Jeremy Bowman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Depending on who you listen to, the bear market may already be over.\r\nAll three major indexes are now more than 20% above their bottoms, signaling a new bull market (according to some definitions), a… [+4145 chars]",
+      "datetime": "2023-06-22 13:04:49",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/737005/artificial-intelligence-ai-data-deep-processing.jpg",
+      "description": "Investor enthusiasm for artificial intelligence is a major reason for the stock market's recovery this year."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/04/ai-taking-world-storm-popular-growth-stocks-buy/",
+      "title": "AI Is Taking the World by Storm: 2 Popular AI Growth Stocks Billionaires Keep Buying Hand Over Fist",
+      "author": "newsfeedback@fool.com (Danny Vena)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Artificial intelligence (AI) has been a low-level investing trend for several years now, but recent advancements took the technology to a whole new level of interest in 2023. Generative AI -- so-call… [+4707 chars]",
+      "datetime": "2023-06-04 11:45:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734577/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
+      "description": "Billionaires are scooping up shares of stocks that could profit enormously from the ongoing AI boom."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/01/3-best-cloud-stocks-to-buy-in-june/",
+      "title": "3 Best Cloud Stocks to Buy in June",
+      "author": "newsfeedback@fool.com (Dani Cook)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The cloud market has had its share of attention in recent years, with the COVID-19 pandemic bolstering the sector as thousands of companies moved to hybrid working styles. As a result, cloud giants e… [+4691 chars]",
+      "datetime": "2023-06-01 13:14:46",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/734529/artificial-intelligence-ai-on-cloud-circuit-board.jpg",
+      "description": "These companies have excellent prospects in the $484 billion cloud industry."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/16/ai-demand-triggers-gpu-shortage-and-unusual-big-te/",
+      "title": "AI Demand Triggers GPU Shortage and Unusual Big Tech Alliances",
+      "author": "newsfeedback@fool.com (Jose Najarro and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft (MSFT 0.16%) and Oracle (ORCL -0.60%) are tackling the GPU shortage with a potential AI server-sharing strategy. Check out the short video to learn what semiconductor investors Jose Najarro… [+201 chars]",
+      "datetime": "2023-05-16 10:30:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/732514/copy-of-jose-najarro-2023-05-15t091905023.png",
+      "description": "Microsoft and Oracle might be considering a partnership amid the GPU shortage caused by AI server demand."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amid-big-drop-in-sales-pc-makers-may-soon-be-paying-more-in-chromebook-licensing-fees-f496a481",
+      "title": "MarketWatch First Take: Amid big drop in sales, PC makers may soon be paying more in Chromebook licensing fees",
+      "author": "Therese Poletti",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "According to market researcher IDC, sometime later this year, PC makers are likely going to be paying higher prices for Chromebook licenses from Alphabet Inc.s \r\n GOOG,\r\n -1.79%\r\nGOOGL,\r\n -1.83%\r\nGoo… [+2717 chars]",
+      "datetime": "2023-04-11 01:43:00",
+      "urlToImage": "https://images.mktw.net/im-761192/social",
+      "description": "While the big drop in Apple Inc.'s Mac sales got most of the attention Monday amid the news that PC makers had yet another terrible quarter, another element of the quarterly stats included some more bad news for PC makers."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/09/crowdstrikes-earnings-show-why-this-growth-stock-c/",
+      "title": "CrowdStrike's Earnings Show Why This Growth Stock Could Be a Top Choice for Investors",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "CrowdStrike (CRWD 3.19%) gave a few examples of how its products won customers over from Microsoft's (MSFT -0.18%) security solutions during its latest earning call. Check out the short video to lear… [+177 chars]",
+      "datetime": "2023-03-09 11:40:45",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/724003/jose-najarro-2023-03-08t162523416.png",
+      "description": "CrowdStrike reported better-than-expected fourth-quarter numbers. During the earnings call, management flexed its solutions' power over its big tech competitors."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/16/want-to-retire-richer-invest-in-these-3-stocks/",
+      "title": "Want to Retire Richer? Invest $100,000 in These 3 Stocks and Wait a Decade",
+      "author": "newsfeedback@fool.com (Justin Pope)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Investment decisions become increasingly important as you approach retirement because there is much less time to recover if you make a mistake. But you also must work with a sense of urgency if you'r… [+5167 chars]",
+      "datetime": "2023-06-16 09:57:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735385/couple-fun-happy-convertible-car-luxury-wealth-rich-retire.jpg",
+      "description": "These companies feature dominant businesses, billions of dollars in cash on hand, and fortress-like balance sheets."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/10/if-you-invested-10000-in-microsoft-in-2013-this-is/",
+      "title": "If You Invested $10,000 in Microsoft in 2013, This Is How Much You Would Have Today",
+      "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Many tech stocks are well below their all-time highs today, in part because of a growth slowdown compared to some of the huge gains they achieved during the pandemic. A demand hangover is occurring i… [+3320 chars]",
+      "datetime": "2023-05-10 11:37:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/730334/bearded-person-at-desk-by-computer-taking-notes.jpg",
+      "description": "It's good to be a software leader."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/29/how-shopify-unity-software-and-others-are-unlockin/",
+      "title": "How Shopify, Unity Software, and Others Are Unlocking Growth With Generative AI",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Generative AI has been a very trendy topic in the past few months, thanks to new AI solutions by Microsoft (MSFT 1.75%) and Alphabet (GOOGL 0.07%) (GOOG 0.19%), but they are not the only ones already… [+459 chars]",
+      "datetime": "2023-03-29 13:53:11",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/726346/copy-of-jose-najarro-2023-03-29t092243918.png",
+      "description": "Could the ease of using creative software bring a new wave of users and customers to these platforms?"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-backed-coreweave-join-forces-142546034.html",
+      "title": "Nvidia-Backed CoreWeave Join Forces in Microsoft's AI Dominance Pursuit\"",
+      "author": "Anusuya Lahiri",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "<li>Microsoft Corp (NASDAQ: MSFT) has agreed to spend potentially billions of dollars over multiple years on cloud computing infrastructure from startup CoreWeave.\r\n</li><li>CoreWeave, announced Wedn… [+1107 chars]",
+      "datetime": "2023-06-02 14:25:46",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/3160434a6f19327fa2de145641d9c250",
+      "description": "Microsoft Corp (NASDAQ: MSFT) has agreed to spend potentially billions of dollars over multiple years on cloud computing infrastructure from startup..."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/07/microsoft-and-alphabet-continue-to-invest-in-ai-he/",
+      "title": "Microsoft and Alphabet Continue to Invest in AI -- Here Is What Investors Should Know",
+      "author": "newsfeedback@fool.com (Jose Najarro and Billy Duberstein)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft (MSFT -3.09%) is investing in a cloud service provider, and Alphabet (GOOGL -3.78%)(GOOG -3.89%) is investing in a video generative AI start-up. Check out the short video to learn what semi… [+233 chars]",
+      "datetime": "2023-06-07 20:36:18",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735536/copy-of-jose-najarro-2023-06-07t125558599.png",
+      "description": "Microsoft continues to expand its AI cloud infrastructure, but in a very unique way."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/13/3-tech-stocks-with-more-potential-than-any-crypto/",
+      "title": "3 Tech Stocks With More Potential Than Any Cryptocurrency",
+      "author": "newsfeedback@fool.com (Dani Cook)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "The crypto market reached record heights during the COVID-19 pandemic, with the S&amp;P Cryptocurrency Market index hitting $6,200 in November 2021. The same index has fallen about 68% since then, pu… [+4170 chars]",
+      "datetime": "2023-06-13 12:15:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735624/happy-trader-investing-growth-profit-buy-stock-celebrate.jpg",
+      "description": "These stocks offer far more consistent gains than any cryptocurrency available."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/crowdstrike-jumps-into-generative-ai-with-hopes-of-countering-cybersecurity-worker-shortage-e259c76b",
+      "title": "The Ratings Game: CrowdStrike jumps into generative AI, with hopes of countering cybersecurity-worker shortage",
+      "author": "Wallace Witkowski",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "CrowdStrike Holdings Inc. on Tuesday announced a new effort at generative artificial intelligence the type of natural language AI model popularized by OpenAIs ChatGPT and sparked hopes that the move … [+2688 chars]",
+      "datetime": "2023-05-30 17:52:00",
+      "urlToImage": "https://images.mktw.net/im-790871/social",
+      "description": "CrowdStrike Holdings Inc. on Tuesday announced its foray into generative AI, and one analyst sees it going a long way into alleviating years-long talent gap."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/14/these-2-revenue-streams-account-for-60-of-microsof/",
+      "title": "These 2 Revenue Streams Account for 60% of Microsoft's Top-Line",
+      "author": "newsfeedback@fool.com (David Jagielski)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Microsoft(MSFT 2.71%)'s business has constantly been expanding over the years as it is always in pursuit of new growth opportunities. That's a key reason the stock has been such a phenomenal investme… [+2997 chars]",
+      "datetime": "2023-03-14 21:30:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/724350/microsoft_featured.png",
+      "description": "Microsoft has been an excellent stock to hold over the past 10 years, and there's little reason to doubt that it won't remain that way for the foreseeable future."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/as-the-going-gets-tough-cybersecurity-companies-are-looking-to-upsell-3ee263af",
+      "title": "The Ratings Game: As the going gets tough, cybersecurity companies are looking to upsell",
+      "author": "Wallace Witkowski",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "CrowdStrike Holdings Inc. warned three months ago about longer buying cycles for security software, a problem that has also struck its rivals, but the cybersecurity company now says that it has manag… [+4916 chars]",
+      "datetime": "2023-03-08 23:19:00",
+      "urlToImage": "https://images.mktw.net/im-227862/social",
+      "description": "CrowdStrike is latest to tout efforts to sell more products to its existing customers to overcome difficulties landing big, new deals as economy sours and companies get more cautious on costs"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/lyft-stock-jumps-5-as-new-ceo-pushes-co-founders-from-helm-45edc362",
+      "title": ": Lyft brings in new CEO, pushing co-founders from helm after stock’s plunge",
+      "author": "Jeremy C. Owens, , Levi Sumagaysay",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Lyft Inc. is bringing in a new chief executive and removing its co-founders from running the ride-hailing company on a day-to-day basis, sending shares more than 3% higher in after-hours trading Mond… [+3353 chars]",
+      "datetime": "2023-03-27 21:42:00",
+      "urlToImage": "https://images.mktw.net/im-752078/social",
+      "description": "Lyft shares have fallen more than 85% from their 2019 IPO price and lost more than a third of their value in a single session last month after earnings report that one analyst called ‘a debacle for the ages’"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/does-microsoft-corporation-msft-high-083310552.html",
+      "title": "Does Microsoft Corporation (MSFT) Have a High Risk/Reward Potential?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Ariel Investments, an investment management company, released its Ariel Global Fund first-quarter 2023 investor letter. A copy of the same can be downloaded here. In the first quarter, the Ariel Glob… [+2665 chars]",
+      "datetime": "2023-06-01 08:33:10",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/b5fca8d1106b22f327b2338c10eb2ab1",
+      "description": "Ariel Investments, an investment management company, released its “Ariel Global Fund” first-quarter 2023 investor letter. A copy of the same can be..."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/09/does-chatgpt-know-were-in-a-bear-market/",
+      "title": "Does ChatGPT Know We're in a Bear Market?",
+      "author": "newsfeedback@fool.com (Jeremy Bowman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "ChatGPT, the generative artificial intelligence (AI) chatbot from OpenAI, dazzled the world with its introduction and set off the next race in technology as enterprises big and small figure out how t… [+4111 chars]",
+      "datetime": "2023-06-09 09:31:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735361/artificial-intelligence.jpg",
+      "description": "Here's how the AI chatbot can help you be a better investor."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/david-sacks-to-join-rumbles-board-after-fellow-paypal-mafia-alum-peter-thiel-throws-support-behind-video-platform-baa698a7",
+      "title": ": David Sacks to join Rumble’s board — after fellow ‘PayPal Mafia’ alum Peter Thiel throws support behind video platform",
+      "author": "Bill Peters",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "David Sacks, a tech entrepreneur and member of the so-called PayPal Mafia, is set to join the board of the video-sharing and social-media site Rumble Inc., a platform that over the years has become a… [+2819 chars]",
+      "datetime": "2023-05-15 22:01:00",
+      "urlToImage": "https://images.mktw.net/im-782270/social",
+      "description": "‘I strongly support Rumble’s unwavering commitment to free speech in the face of growing censorship and government overreach,’ Sacks says in plans to join right-wing video platform"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/u-s-stock-valuations-revisit-levels-as-extreme-as-when-2022-bear-market-began-warns-morgan-stanley-wealth-management-1625a66f",
+      "title": "In One Chart: U.S. stock valuations revisit levels as ‘extreme’ as when 2022 bear market began, warns Morgan Stanley Wealth Management",
+      "author": "Christine Idzelis",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "content": "Investors should be cautious as valuations in the U.S. stock market have climbed back to levels as extreme as those seen in 2022 around the start of the bear market, according to a note Monday from M… [+2328 chars]",
+      "datetime": "2023-03-06 17:41:00",
+      "urlToImage": "https://images.mktw.net/im-698825/social",
+      "description": "Investors should be cautious as valuations in U.S. stocks have climbed back to levels as high as when the 2022 bear market began, according to Morgan Stanley Wealth Management."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/05/can-you-still-buy-the-dow-jones-best-performing-ma/",
+      "title": "Can You Still Buy the Dow Jones' Best-Performing May Stocks?",
+      "author": "newsfeedback@fool.com (Jeremy Bowman)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "After leading the three major indexes last year, the Dow Jones Industrial Average has been a laggard in 2023. It's nearly flat this year while the Nasdaq has surged.\r\nHowever, not every stock in the … [+3633 chars]",
+      "datetime": "2023-06-05 10:18:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735002/stock-market-chart.jpg",
+      "description": "Tech stocks led the Dow last month."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/06/08/salesforce-is-quickly-becoming-highly-profitable/",
+      "title": "Salesforce Is Quickly Becoming a Highly Profitable Company -- Is the Stock a Buy?",
+      "author": "newsfeedback@fool.com (Nicholas Rossolillo)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Salesforce (CRM -3.35%) is proving the \"buy-the-dip\" strategy still works. After a horrendous showing in 2022 (shares fell 48%), Salesforce stock has rallied nearly 60% so far in 2023. And that inclu… [+3985 chars]",
+      "datetime": "2023-06-08 10:11:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/735286/tech-software-security.jpg",
+      "description": "Shares have rallied, and with that rally, there's been a return to premium pricing on owning some Salesforce."
+    },
+    {
+      "url": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-prediction-chatgpt-ai-tech-artificial-intelligence-google-2023-3",
+      "title": "Microsoft is the market's top software stock because OpenAI offerings like ChatGPT will juice profits over the next 5-plus years, Credit Suisse says",
+      "author": "jsor@insider.com (Jennifer Sor)",
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "content": "Microsoft is the market's top software stock, thanks to its growing partnership with ChatGPT creator OpenAI, according to Credit Suisse.\r\n\"Within US Software, MSFT is our Top Pick,\" the bank's analys… [+2077 chars]",
+      "datetime": "2023-03-06 17:33:29",
+      "urlToImage": "https://i.insider.com/5e79ead02d41c14f26179026?width=1200&format=jpeg",
+      "description": "\"Within US Software, MSFT is our Top Pick,\" Credit Suisse said. It expects the tech giant to add $40 billion in revenue in the coming years."
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/05/31/3-reasons-to-buy-microsoft-stock-before-it-skyrock/",
+      "title": "3 Reasons to Buy Microsoft Stock Before It Skyrockets",
+      "author": "newsfeedback@fool.com (Manali Bhade)",
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "content": "Technology giant Microsoft(MSFT 0.45%) has become a Wall Street darling again thanks to its prominent position in the rapidly expanding artificial intelligence (AI) space. Its partnership with OpenAI… [+4766 chars]",
+      "datetime": "2023-05-31 14:30:00",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/733723/smiling_businessman_analyzing_stock_charts_on_a_desktop.jpg",
+      "description": "The tech giant is riding several secular tailwinds in areas such as gaming, cloud computing, and artificial intelligence."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/hold-microsoft-corporation-msft-121342566.html",
+      "title": "Should You Hold Microsoft Corporation (MSFT)?",
+      "author": "Soumya Eswaran",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "content": "Ariel Investments, an investment management company, released its Ariel Global Strategy fourth-quarter investor letter. A copy of the same can be downloaded here. In the fourth quarter, the Ariel Glo… [+2363 chars]",
+      "datetime": "2023-03-16 12:13:42",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W5.8BHQwc0xmRewC8xwHVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/insidermonkey.com/5836bb178f6f3392a681b1ce3603e60a",
+      "description": "Ariel Investments, an investment management company, released its “Ariel Global Strategy” fourth-quarter investor letter. A copy of the same can be..."
+    }
+  ],
+  "totalResults": 697
+}
